@@ -105,14 +105,16 @@ async function importSponsors() {
 
 async function importSpeakers() {
   return speakers.map(async (speaker) => {
+    const talk = speaker.talk
+      ? {
+          id: speaker.talk.id
+        }
+      : null
     const speakerData = {
       ...speaker,
-      talk: speaker.talk
-        ? {
-            id: speaker.talk.id
-          }
-        : null
+      talk
     }
+    console.log({ initial: speaker.talk, set: speakerData.talk })
     const image = getFileData(speaker.image)
 
     const files = {
