@@ -107,9 +107,7 @@ async function importSpeakers() {
   return speakers.map(async (speaker) => {
     const speakerData = {
       ...speaker,
-      talk: {
-        id: speaker.talk.id
-      }
+      talk: speaker.talk.id
     }
 
     const image = getFileData(speaker.image)
