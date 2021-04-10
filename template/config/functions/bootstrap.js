@@ -126,7 +126,7 @@ async function importStages() {
     const stageData = {
       ...stage,
       schedule: stage.schedule
-        .filter((talk) => talk.speaker.length > 0)
+        .filter((talk) => talk.speakers.length > 0)
         .map((talk) => ({
           id: talk.id
         }))

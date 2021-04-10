@@ -705,17 +705,7 @@
       "github": null,
       "company": "Sentry",
       "title": "Customer Solutions Engineer",
-      "talk": {
-        "id": 64,
-        "title": "Sentry Workshop: Pinpoint slowness, catch errors and gauge health of your app’s releases.",
-        "start": "2021-04-22T20:30:00.000Z",
-        "end": "2021-04-22T22:30:00.000Z",
-        "description": "Check off your monitoring needs with an in-depth walkthrough of Sentry’s latest features to help you catch errors, track slowness and get ahead of session crashes in your app.\nIn this workshop, you’ll learn how Sentry employs a See-Solve-Learn approach curated for Product Owners, SREs, QEs and our Developers.\n\nPrerequisites:\nBasic knowledge of Software Development\n\nSkill level:\nAll",
-        "published_at": "2021-04-07T14:10:41.339Z",
-        "created_at": "2021-04-07T14:10:38.621Z",
-        "updated_at": "2021-04-08T15:43:26.559Z",
-        "link": "https://conf.strapi.io/workshops/sentry-workshop"
-      },
+      "talk": null,
       "image": "./speakers-image-rohit-kataria.jpg"
     },
     {
@@ -1176,7 +1166,7 @@
         "published_at": "2021-03-11T13:31:27.412Z",
         "created_at": "2021-03-11T13:31:20.180Z",
         "updated_at": "2021-04-06T11:09:13.487Z",
-        "link": "https://conf.strapi.io/workshops/motiv-workshop"
+        "link": null
       },
       "image": "./speakers-image-melissa-garr.jpg"
     },
@@ -1418,7 +1408,7 @@
         "published_at": "2021-03-11T13:31:27.412Z",
         "created_at": "2021-03-11T13:31:20.180Z",
         "updated_at": "2021-04-06T11:09:13.487Z",
-        "link": "https://conf.strapi.io/workshops/motiv-workshop"
+        "link": null
       },
       "image": "./speakers-image-brent-griffin.jpg"
     },
@@ -1440,7 +1430,7 @@
         "published_at": "2021-04-08T15:23:28.085Z",
         "created_at": "2021-04-08T15:23:25.371Z",
         "updated_at": "2021-04-08T15:41:00.476Z",
-        "link": "https://conf.strapi.io/workshops/cloudinary-workshop"
+        "link": null
       },
       "image": "./speakers-image-tamas-piros.jpg"
     }
@@ -1464,17 +1454,6 @@
           "created_at": "2021-03-02T22:48:18.020Z",
           "updated_at": "2021-03-04T05:35:23.374Z",
           "link": null
-        },
-        {
-          "id": 65,
-          "title": "Cloudinary Workshop: Strapi 101 - The Fundamentals",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": "Are you new to Strapi? This workshop covers all the basics to get you started with this headless CMS. Throughout the workshop \t\t\twe'll build a basic application that will consume data from Strapi.\n\nPrerequisites:\nweb development knowledge, JS knowledge\n\nSkill level:\nbasic\n",
-          "published_at": "2021-04-08T15:23:28.085Z",
-          "created_at": "2021-04-08T15:23:25.371Z",
-          "updated_at": "2021-04-08T15:41:00.476Z",
-          "link": "https://conf.strapi.io/workshops/cloudinary-workshop"
         },
         {
           "id": 34,
@@ -1521,19 +1500,8 @@
           "link": null
         },
         {
-          "id": 44,
-          "title": "Break #3",
-          "start": "2021-04-22T20:15:00.000Z",
-          "end": "2021-04-22T20:30:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T06:02:50.228Z",
-          "created_at": "2021-03-04T05:34:17.862Z",
-          "updated_at": "2021-03-04T06:02:50.238Z",
-          "link": null
-        },
-        {
           "id": 33,
-          "title": "Creating a new media newspaper platform                 ",
+          "title": "Creating a new media newspaper platform",
           "start": "2021-04-22T18:00:00.000Z",
           "end": "2021-04-22T18:30:00.000Z",
           "description": "As Strapi partner, Smartshore Ability (The Netherlands) implemented the new website for RD (https://www.rd.nl/). RD is the biggest Dutch religious newspaper and exists in both digital and physical formats. \nSo in this talk, we will present the project, why we chose Strapi, the architecture of the project as well the challenges we ran into. Where did Strapi fail and what solutions did Smartshore Ability have to develop to overcome these challenges?    \n",
@@ -1565,17 +1533,6 @@
           "link": "https://lp.platform.sh/2021-04-Webinar--StrapiConf-Workshop_StrapiConf-Workshop.html"
         },
         {
-          "id": 59,
-          "title": "Motiv Solutions Workshop: Moving Content Between Multiple Strapi Environments",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": null,
-          "published_at": "2021-03-11T13:31:27.412Z",
-          "created_at": "2021-03-11T13:31:20.180Z",
-          "updated_at": "2021-04-06T11:09:13.487Z",
-          "link": "https://conf.strapi.io/workshops/motiv-workshop"
-        },
-        {
           "id": 39,
           "title": "Keynote",
           "start": "2021-04-22T15:00:00.000Z",
@@ -1585,39 +1542,6 @@
           "created_at": "2021-03-04T00:03:08.804Z",
           "updated_at": "2021-03-16T22:49:26.385Z",
           "link": "https://conf.strapi.io/schedule"
-        },
-        {
-          "id": 64,
-          "title": "Sentry Workshop: Pinpoint slowness, catch errors and gauge health of your app’s releases.",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": "Check off your monitoring needs with an in-depth walkthrough of Sentry’s latest features to help you catch errors, track slowness and get ahead of session crashes in your app.\nIn this workshop, you’ll learn how Sentry employs a See-Solve-Learn approach curated for Product Owners, SREs, QEs and our Developers.\n\nPrerequisites:\nBasic knowledge of Software Development\n\nSkill level:\nAll",
-          "published_at": "2021-04-07T14:10:41.339Z",
-          "created_at": "2021-04-07T14:10:38.621Z",
-          "updated_at": "2021-04-08T15:43:26.559Z",
-          "link": "https://conf.strapi.io/workshops/sentry-workshop"
-        },
-        {
-          "id": 42,
-          "title": "Break #2",
-          "start": "2021-04-22T18:30:00.000Z",
-          "end": "2021-04-22T18:45:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T00:48:16.538Z",
-          "created_at": "2021-03-04T00:48:15.376Z",
-          "updated_at": "2021-03-04T05:24:50.287Z",
-          "link": null
-        },
-        {
-          "id": 41,
-          "title": "Break #1",
-          "start": "2021-04-22T16:30:00.000Z",
-          "end": "2021-04-22T17:00:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T00:30:43.821Z",
-          "created_at": "2021-03-04T00:30:31.473Z",
-          "updated_at": "2021-03-11T14:20:27.505Z",
-          "link": ""
         },
         {
           "id": 32,
@@ -1663,17 +1587,6 @@
           "link": null
         },
         {
-          "id": 41,
-          "title": "Break #1",
-          "start": "2021-04-22T16:30:00.000Z",
-          "end": "2021-04-22T17:00:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T00:30:43.821Z",
-          "created_at": "2021-03-04T00:30:31.473Z",
-          "updated_at": "2021-03-11T14:20:27.505Z",
-          "link": ""
-        },
-        {
           "id": 58,
           "title": "Hasura Workshop: Build a powerful fullstack app for JAMStack with Hasura and Strapi",
           "start": "2021-04-22T20:30:00.000Z",
@@ -1707,28 +1620,6 @@
           "link": null
         },
         {
-          "id": 65,
-          "title": "Cloudinary Workshop: Strapi 101 - The Fundamentals",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": "Are you new to Strapi? This workshop covers all the basics to get you started with this headless CMS. Throughout the workshop \t\t\twe'll build a basic application that will consume data from Strapi.\n\nPrerequisites:\nweb development knowledge, JS knowledge\n\nSkill level:\nbasic\n",
-          "published_at": "2021-04-08T15:23:28.085Z",
-          "created_at": "2021-04-08T15:23:25.371Z",
-          "updated_at": "2021-04-08T15:41:00.476Z",
-          "link": "https://conf.strapi.io/workshops/cloudinary-workshop"
-        },
-        {
-          "id": 59,
-          "title": "Motiv Solutions Workshop: Moving Content Between Multiple Strapi Environments",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": null,
-          "published_at": "2021-03-11T13:31:27.412Z",
-          "created_at": "2021-03-11T13:31:20.180Z",
-          "updated_at": "2021-04-06T11:09:13.487Z",
-          "link": "https://conf.strapi.io/workshops/motiv-workshop"
-        },
-        {
           "id": 35,
           "title": "Content Modeling Best Practices",
           "start": "2021-04-22T18:45:00.000Z",
@@ -1737,17 +1628,6 @@
           "published_at": "2021-03-02T22:58:22.263Z",
           "created_at": "2021-03-02T22:58:20.674Z",
           "updated_at": "2021-03-04T05:35:57.193Z",
-          "link": null
-        },
-        {
-          "id": 44,
-          "title": "Break #3",
-          "start": "2021-04-22T20:15:00.000Z",
-          "end": "2021-04-22T20:30:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T06:02:50.228Z",
-          "created_at": "2021-03-04T05:34:17.862Z",
-          "updated_at": "2021-03-04T06:02:50.238Z",
           "link": null
         },
         {
@@ -1806,17 +1686,6 @@
           "link": null
         },
         {
-          "id": 64,
-          "title": "Sentry Workshop: Pinpoint slowness, catch errors and gauge health of your app’s releases.",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": "Check off your monitoring needs with an in-depth walkthrough of Sentry’s latest features to help you catch errors, track slowness and get ahead of session crashes in your app.\nIn this workshop, you’ll learn how Sentry employs a See-Solve-Learn approach curated for Product Owners, SREs, QEs and our Developers.\n\nPrerequisites:\nBasic knowledge of Software Development\n\nSkill level:\nAll",
-          "published_at": "2021-04-07T14:10:41.339Z",
-          "created_at": "2021-04-07T14:10:38.621Z",
-          "updated_at": "2021-04-08T15:43:26.559Z",
-          "link": "https://conf.strapi.io/workshops/sentry-workshop"
-        },
-        {
           "id": 62,
           "title": "Strapi + Nuxt.js + Composition Api = ❤️",
           "start": "2021-04-22T19:15:00.000Z",
@@ -1827,17 +1696,6 @@
           "updated_at": "2021-03-31T14:47:45.112Z",
           "link": null
         },
-        {
-          "id": 42,
-          "title": "Break #2",
-          "start": "2021-04-22T18:30:00.000Z",
-          "end": "2021-04-22T18:45:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T00:48:16.538Z",
-          "created_at": "2021-03-04T00:48:15.376Z",
-          "updated_at": "2021-03-04T05:24:50.287Z",
-          "link": null
-        }
       ]
     },
     {
@@ -1858,17 +1716,6 @@
           "created_at": "2021-03-02T20:40:48.032Z",
           "updated_at": "2021-03-31T11:11:42.522Z",
           "link": null
-        },
-        {
-          "id": 41,
-          "title": "Break #1",
-          "start": "2021-04-22T16:30:00.000Z",
-          "end": "2021-04-22T17:00:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T00:30:43.821Z",
-          "created_at": "2021-03-04T00:30:31.473Z",
-          "updated_at": "2021-03-11T14:20:27.505Z",
-          "link": ""
         },
         {
           "id": 57,
@@ -1904,28 +1751,6 @@
           "link": null
         },
         {
-          "id": 64,
-          "title": "Sentry Workshop: Pinpoint slowness, catch errors and gauge health of your app’s releases.",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": "Check off your monitoring needs with an in-depth walkthrough of Sentry’s latest features to help you catch errors, track slowness and get ahead of session crashes in your app.\nIn this workshop, you’ll learn how Sentry employs a See-Solve-Learn approach curated for Product Owners, SREs, QEs and our Developers.\n\nPrerequisites:\nBasic knowledge of Software Development\n\nSkill level:\nAll",
-          "published_at": "2021-04-07T14:10:41.339Z",
-          "created_at": "2021-04-07T14:10:38.621Z",
-          "updated_at": "2021-04-08T15:43:26.559Z",
-          "link": "https://conf.strapi.io/workshops/sentry-workshop"
-        },
-        {
-          "id": 44,
-          "title": "Break #3",
-          "start": "2021-04-22T20:15:00.000Z",
-          "end": "2021-04-22T20:30:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T06:02:50.228Z",
-          "created_at": "2021-03-04T05:34:17.862Z",
-          "updated_at": "2021-03-04T06:02:50.238Z",
-          "link": null
-        },
-        {
           "id": 37,
           "title": "The state of modern e-commerce",
           "start": "2021-04-22T17:30:00.000Z",
@@ -1937,17 +1762,6 @@
           "link": null
         },
         {
-          "id": 65,
-          "title": "Cloudinary Workshop: Strapi 101 - The Fundamentals",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": "Are you new to Strapi? This workshop covers all the basics to get you started with this headless CMS. Throughout the workshop \t\t\twe'll build a basic application that will consume data from Strapi.\n\nPrerequisites:\nweb development knowledge, JS knowledge\n\nSkill level:\nbasic\n",
-          "published_at": "2021-04-08T15:23:28.085Z",
-          "created_at": "2021-04-08T15:23:25.371Z",
-          "updated_at": "2021-04-08T15:41:00.476Z",
-          "link": "https://conf.strapi.io/workshops/cloudinary-workshop"
-        },
-        {
           "id": 25,
           "title": "Integrate open-source search into your Strapi project",
           "start": "2021-04-22T17:00:00.000Z",
@@ -1956,28 +1770,6 @@
           "published_at": "2021-02-24T23:25:11.551Z",
           "created_at": "2021-02-24T23:25:08.806Z",
           "updated_at": "2021-03-10T15:41:55.512Z",
-          "link": null
-        },
-        {
-          "id": 59,
-          "title": "Motiv Solutions Workshop: Moving Content Between Multiple Strapi Environments",
-          "start": "2021-04-22T20:30:00.000Z",
-          "end": "2021-04-22T22:30:00.000Z",
-          "description": null,
-          "published_at": "2021-03-11T13:31:27.412Z",
-          "created_at": "2021-03-11T13:31:20.180Z",
-          "updated_at": "2021-04-06T11:09:13.487Z",
-          "link": "https://conf.strapi.io/workshops/motiv-workshop"
-        },
-        {
-          "id": 42,
-          "title": "Break #2",
-          "start": "2021-04-22T18:30:00.000Z",
-          "end": "2021-04-22T18:45:00.000Z",
-          "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-          "published_at": "2021-03-04T00:48:16.538Z",
-          "created_at": "2021-03-04T00:48:15.376Z",
-          "updated_at": "2021-03-04T05:24:50.287Z",
           "link": null
         },
         {
@@ -2187,14 +1979,6 @@
           "cardPortrait": null
         }
       ]
-    },
-    {
-      "id": 44,
-      "title": "Break #3",
-      "start": "2021-04-22T20:15:00.000Z",
-      "end": "2021-04-22T20:30:00.000Z",
-      "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-      "speakers": []
     },
     {
       "id": 38,
@@ -2642,14 +2426,6 @@
           "cardPortrait": null
         }
       ]
-    },
-    {
-      "id": 42,
-      "title": "Break #2",
-      "start": "2021-04-22T18:30:00.000Z",
-      "end": "2021-04-22T18:45:00.000Z",
-      "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-      "speakers": []
     },
     {
       "id": 48,
@@ -4167,14 +3943,6 @@
           "cardPortrait": null
         }
       ]
-    },
-    {
-      "id": 41,
-      "title": "Break #1",
-      "start": "2021-04-22T16:30:00.000Z",
-      "end": "2021-04-22T17:00:00.000Z",
-      "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-      "speakers": []
     },
     {
       "id": 33,
