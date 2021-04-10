@@ -1,7 +1,7 @@
 {
   "sponsors": [
     {
-      "id": 15,
+      "id": "15",
       "slug": "render",
       "name": "Render",
       "website": "https://render.com/",
@@ -14,17 +14,17 @@
       "callToActionLink": "https://render.com/",
       "links": [
         {
-          "id": 37,
+          "id": "37",
           "text": "Overview: Deploy Strapi ",
           "url": "https://render.com/docs/deploy-strapi "
         },
         {
-          "id": 38,
+          "id": "38",
           "text": "Tutorial: One-click deploy",
           "url": "https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/installation/render.html"
         },
         {
-          "id": 39,
+          "id": "39",
           "text": "Tutorial: Convert existing project",
           "url": "https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/render.html"
         }
@@ -33,7 +33,7 @@
       "cardImage": "./sponsors-cardImage-render.jpg"
     },
     {
-      "id": 8,
+      "id": "8",
       "slug": "mux",
       "name": "MUX",
       "website": "https://mux.com/",
@@ -46,17 +46,17 @@
       "callToActionLink": "https://get.mux.com/3sUSAA7",
       "links": [
         {
-          "id": 28,
+          "id": "28",
           "text": "Learn more about video",
           "url": "https://mux.com/blog/category/video-education/"
         },
         {
-          "id": 29,
+          "id": "29",
           "text": "Mux Video Docs",
           "url": "https://docs.mux.com/guides/video"
         },
         {
-          "id": 30,
+          "id": "30",
           "text": "Have questions? Talk to us!",
           "url": "https://mux.com/sales-contact"
         }
@@ -65,7 +65,7 @@
       "cardImage": "./sponsors-cardImage-mux.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "slug": "accedo-tv",
       "name": "Accedo",
       "website": "https://www.accedo.tv/",
@@ -78,17 +78,17 @@
       "callToActionLink": "https://www.accedo.tv/",
       "links": [
         {
-          "id": 18,
+          "id": "18",
           "text": "Take a closer look at our customer cases",
           "url": "https://www.accedo.tv/customers/"
         },
         {
-          "id": 19,
+          "id": "19",
           "text": "What´s new in the OTT Industry",
           "url": "https://www.accedo.tv/white-papers/ott-whatsnew-trendreport-summer20/"
         },
         {
-          "id": 20,
+          "id": "20",
           "text": "Meet the Team",
           "url": "https://www.accedo.tv/meet-the-team-ryan-campion-accedo-software-ios-engineer/"
         }
@@ -97,7 +97,7 @@
       "cardImage": "./sponsors-cardImage-accedo-tv.jpg"
     },
     {
-      "id": 11,
+      "id": "11",
       "slug": "Vercel",
       "name": "Vercel",
       "website": "https://vercel.com/",
@@ -110,17 +110,17 @@
       "callToActionLink": "https://vercel.com/new?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf",
       "links": [
         {
-          "id": 34,
+          "id": "34",
           "text": "Learn Next.js",
           "url": "https://nextjs.org/learn/basics/create-nextjs-app?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
         },
         {
-          "id": 35,
+          "id": "35",
           "text": "Analytics",
           "url": "https://vercel.com/analytics?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
         },
         {
-          "id": 36,
+          "id": "36",
           "text": "Docs",
           "url": "https://vercel.com/docs?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
         }
@@ -129,7 +129,7 @@
       "cardImage": "./sponsors-cardImage-Vercel.jpg"
     },
     {
-      "id": 9,
+      "id": "9",
       "slug": "hasura",
       "name": "Hasura",
       "website": "https://hasura.info/30n1JoF",
@@ -145,7 +145,7 @@
       "cardImage": "./sponsors-cardImage-hasura.jpg"
     },
     {
-      "id": 12,
+      "id": "12",
       "slug": "saleor",
       "name": "Saleor",
       "website": "https://saleor.io/",
@@ -158,17 +158,17 @@
       "callToActionLink": "https://saleor.io/",
       "links": [
         {
-          "id": 31,
+          "id": "31",
           "text": "Get a sandbox",
           "url": "https://mirumee.typeform.com/to/gpqvPOot?utm_source=strapiconf&utm_medium=strapiconf&utm_campaign=get-sandbox"
         },
         {
-          "id": 32,
+          "id": "32",
           "text": "GitHub",
           "url": "https://github.com/mirumee/saleor"
         },
         {
-          "id": 33,
+          "id": "33",
           "text": "Documentation",
           "url": "https://docs.saleor.io/docs/"
         }
@@ -177,7 +177,7 @@
       "cardImage": "./sponsors-cardImage-saleor.jpg"
     },
     {
-      "id": 1,
+      "id": "1",
       "slug": "snipcart",
       "name": "Snipcart",
       "website": "https://snipcart.com/",
@@ -190,17 +190,17 @@
       "callToActionLink": "https://app.snipcart.com/register?utm_source=StrapiConf",
       "links": [
         {
-          "id": 1,
+          "id": "1",
           "text": "Does Snipcart have a head?",
           "url": "https://www.youtube.com/watch?v=9WB8OXZnH4k"
         },
         {
-          "id": 13,
+          "id": "13",
           "text": "Building a Jamstack Food Ordering App",
           "url": "https://strapi.io/blog/building-a-jamstack-food-ordering-app-with-strapi-gridsome-and-snipcart-1-6"
         },
         {
-          "id": 14,
+          "id": "14",
           "text": "Strapi Starter Nuxt.js e-commerce",
           "url": "https://strapi.io/blog/strapi-starter-nuxt-js-e-commerce"
         }
@@ -209,7 +209,7 @@
       "cardImage": "./sponsors-cardImage-snipcart.jpg"
     },
     {
-      "id": 5,
+      "id": "5",
       "slug": "nuxt-js",
       "name": "NuxtJS",
       "website": "https://nuxtjs.org/",
@@ -222,17 +222,17 @@
       "callToActionLink": "https://opencollective.com/nuxtjs",
       "links": [
         {
-          "id": 25,
+          "id": "25",
           "text": "Get Started",
           "url": "https://nuxtjs.org/docs/2.x/get-started/installation"
         },
         {
-          "id": 26,
+          "id": "26",
           "text": "GitHub",
           "url": "https://github.com/nuxt/nuxt.js"
         },
         {
-          "id": 27,
+          "id": "27",
           "text": "Nuxt with Strapi",
           "url": "https://strapi.nuxtjs.org/"
         }
@@ -241,7 +241,7 @@
       "cardImage": "./sponsors-cardImage-nuxt-js.jpg"
     },
     {
-      "id": 13,
+      "id": "13",
       "slug": "magic",
       "name": "Magic",
       "website": "https://magic.link/",
@@ -254,17 +254,17 @@
       "callToActionLink": "https://dashboard.magic.link/signup ",
       "links": [
         {
-          "id": 40,
+          "id": "40",
           "text": "Magic Guides",
           "url": "https://magic.link/guides"
         },
         {
-          "id": 41,
+          "id": "41",
           "text": "Magic’s Discourse Forum",
           "url": "https://community.magic.link/ "
         },
         {
-          "id": 46,
+          "id": "46",
           "text": "Magic Strapi Plugin",
           "url": "https://magic.link/posts/magic-strapi-plugin"
         }
@@ -273,7 +273,7 @@
       "cardImage": "./sponsors-cardImage-magic.jpg"
     },
     {
-      "id": 7,
+      "id": "7",
       "slug": "netlify",
       "name": "Netlify",
       "website": "https://www.netlify.com/",
@@ -286,17 +286,17 @@
       "callToActionLink": "",
       "links": [
         {
-          "id": 70,
+          "id": "70",
           "text": "Deliver web projects 10x faster",
           "url": "https://www.netlify.com/whitepaper/"
         },
         {
-          "id": 71,
+          "id": "71",
           "text": "Set up Strapi as a CMS for Gatsby",
           "url": "https://www.youtube.com/watch?v=JkBxyurjeI8&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx"
         },
         {
-          "id": 72,
+          "id": "72",
           "text": "Build Jamstack Apps with Custom APIs",
           "url": "https://www.youtube.com/watch?v=8Mkh8S66SZY&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx"
         }
@@ -305,7 +305,7 @@
       "cardImage": "./sponsors-cardImage-netlify.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "slug": "platform-sh",
       "name": "Platform.sh",
       "website": "https://platform.sh/",
@@ -318,17 +318,17 @@
       "callToActionLink": "https://lp.platform.sh/Strapi-Swag.html",
       "links": [
         {
-          "id": 15,
+          "id": "15",
           "text": "Launch Strapi with one click",
           "url": "https://platform.sh/marketplace/strapi/"
         },
         {
-          "id": 16,
+          "id": "16",
           "text": "How to deploy Gatsby with Strapi on Platform.sh",
           "url": "https://docs.platform.sh/guides/gatsby/headless/strapi.html"
         },
         {
-          "id": 17,
+          "id": "17",
           "text": "Going headless: pulling Strapi and WordPress content during your Gatsby builds",
           "url": "https://platform.sh/blog/2020/headless-strapi-and-wordpress-content-with-gatsby-builds/"
         }
@@ -337,7 +337,7 @@
       "cardImage": "./sponsors-cardImage-platform-sh.jpg"
     },
     {
-      "id": 10,
+      "id": "10",
       "slug": "commerce-layer",
       "name": "Commerce Layer ",
       "website": "https://commercelayer.io ",
@@ -350,17 +350,17 @@
       "callToActionLink": "https://commercelayer.io/demo/",
       "links": [
         {
-          "id": 55,
+          "id": "55",
           "text": "Homepage",
           "url": "https://commercelayer.io"
         },
         {
-          "id": 56,
+          "id": "56",
           "text": "Developer Resources",
           "url": "https://commercelayer.io/developers/"
         },
         {
-          "id": 57,
+          "id": "57",
           "text": "Platform Overview",
           "url": "https://commercelayer.io/platform/"
         }
@@ -369,7 +369,7 @@
       "cardImage": "./sponsors-cardImage-commerce-layer.jpg"
     },
     {
-      "id": 4,
+      "id": "4",
       "slug": "meilisearch",
       "name": "MeiliSearch",
       "website": "https://meilisearch.com",
@@ -382,17 +382,17 @@
       "callToActionLink": "https://github.com/meilisearch/strapi-plugin-meilisearch",
       "links": [
         {
-          "id": 21,
+          "id": "21",
           "text": "MeiliSearch Search Engine",
           "url": "https://github.com/meilisearch/MeiliSearch"
         },
         {
-          "id": 22,
+          "id": "22",
           "text": "MeiliSearch Documentation",
           "url": "https://docs.meilisearch.com/"
         },
         {
-          "id": 23,
+          "id": "23",
           "text": "MeiliSearch Strapi Plugin",
           "url": "https://github.com/meilisearch/strapi-plugin-meilisearch"
         }
@@ -401,7 +401,7 @@
       "cardImage": "./sponsors-cardImage-meilisearch.jpg"
     },
     {
-      "id": 14,
+      "id": "14",
       "slug": "gatsby",
       "name": "Gatsby",
       "website": "https://www.gatsbyjs.com/",
@@ -414,17 +414,17 @@
       "callToActionLink": "https://www.gatsbyjs.com/strapiconf2021-request-a-meeting/",
       "links": [
         {
-          "id": 43,
+          "id": "43",
           "text": "Develop with Gatsby (Docs) ",
           "url": "https://www.gatsbyjs.com/docs/ "
         },
         {
-          "id": 44,
+          "id": "44",
           "text": "Gatsby Plugin Library ",
           "url": "https://www.gatsbyjs.com/plugins "
         },
         {
-          "id": 45,
+          "id": "45",
           "text": "Try Gatsby Cloud (free)",
           "url": "https://www.gatsbyjs.com/products/cloud/ "
         }
@@ -433,7 +433,7 @@
       "cardImage": "./sponsors-cardImage-gatsby.jpg"
     },
     {
-      "id": 17,
+      "id": "17",
       "slug": "Algolia",
       "name": "Algolia",
       "website": "www.algolia.com",
@@ -446,17 +446,17 @@
       "callToActionLink": "https://www.algolia.com/users/sign_up",
       "links": [
         {
-          "id": 58,
+          "id": "58",
           "text": "Get Inspired",
           "url": "https://www.algolia.com/search-inspiration-library/"
         },
         {
-          "id": 59,
+          "id": "59",
           "text": "Site Search",
           "url": "https://www.algolia.com/solutions/site-search/"
         },
         {
-          "id": 60,
+          "id": "60",
           "text": "Headless Commerce",
           "url": "https://www.algolia.com/solutions/headless-commerce/"
         }
@@ -465,7 +465,7 @@
       "cardImage": "./sponsors-cardImage-Algolia.jpg"
     },
     {
-      "id": 19,
+      "id": "19",
       "slug": "Sentry",
       "name": "Sentry",
       "website": "https://sentry.io/",
@@ -478,17 +478,17 @@
       "callToActionLink": "https://sentry.io/signup/",
       "links": [
         {
-          "id": 64,
+          "id": "64",
           "text": "JAMstack Monitoring ",
           "url": "https://www.youtube.com/watch?v=_xBXib0BN40"
         },
         {
-          "id": 65,
+          "id": "65",
           "text": "JavaScript Monitoring",
           "url": "https://sentry.io/for/javascript/"
         },
         {
-          "id": 66,
+          "id": "66",
           "text": "Documentation",
           "url": "https://docs.sentry.io/"
         }
@@ -497,7 +497,7 @@
       "cardImage": "./sponsors-cardImage-Sentry.jpg"
     },
     {
-      "id": 18,
+      "id": "18",
       "slug": "motiv-solutions",
       "name": "Motiv Solutions",
       "website": "https://www.motivsolutions.com/",
@@ -510,17 +510,17 @@
       "callToActionLink": "https://www.motivsolutions.com/contact",
       "links": [
         {
-          "id": 61,
+          "id": "61",
           "text": "Services",
           "url": "https://www.motivsolutions.com/services"
         },
         {
-          "id": 62,
+          "id": "62",
           "text": "Approach",
           "url": "https://www.motivsolutions.com/approach"
         },
         {
-          "id": 63,
+          "id": "63",
           "text": "Insights",
           "url": "https://www.motivsolutions.com/insights"
         }
@@ -529,7 +529,7 @@
       "cardImage": "./sponsors-cardImage-motiv-solutions.jpg"
     },
     {
-      "id": 16,
+      "id": "16",
       "slug": "ionic",
       "name": "Ionic",
       "website": "https://ionic.io",
@@ -542,17 +542,17 @@
       "callToActionLink": "https://ionic.io",
       "links": [
         {
-          "id": 47,
+          "id": "47",
           "text": "Cordova Vs Capacitor",
           "url": "https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development"
         },
         {
-          "id": 48,
+          "id": "48",
           "text": "Building PWAs with Ionic",
           "url": "https://ionic.io/resources/webinars/how-to-build-pwa"
         },
         {
-          "id": 49,
+          "id": "49",
           "text": "Ionic React Vs React Native",
           "url": "https://ionic.io/resources/articles/ionic-react-vs-react-native"
         }
@@ -561,7 +561,7 @@
       "cardImage": "./sponsors-cardImage-ionic.jpg"
     },
     {
-      "id": 21,
+      "id": "21",
       "slug": "cloudinary",
       "name": "Cloudinary",
       "website": " https://cloudinary.rocks/55p",
@@ -577,7 +577,7 @@
       "cardImage": "./sponsors-cardImage-cloudinary.jpg"
     },
     {
-      "id": 20,
+      "id": "20",
       "slug": "unlikely-technology",
       "name": "Unlikely",
       "website": "https://unlikely.technology/",
@@ -590,7 +590,7 @@
       "callToActionLink": "https://unlikely.technology",
       "links": [
         {
-          "id": 69,
+          "id": "69",
           "text": "Get in touch",
           "url": "mailto:contact@unlikely.technology"
         }
@@ -601,7 +601,7 @@
   ],
   "jobs": [
     {
-      "id": 1,
+      "id": "1",
       "companyName": "Strapi",
       "title": "Full stack developer (Product Growth team)",
       "description": "At Strapi, we believe that everyone should have the power to create content, digital products, and user experiences that impact the world. We’re here to fuel the world’s creativity by unleashing the power of content. With the help of amazing open-source contributors, we’re on a mission to develop the most customizable CMS on the market. ",
@@ -610,7 +610,7 @@
       "rank": "1"
     },
     {
-      "id": 7,
+      "id": "7",
       "companyName": "Accedo",
       "title": "Software Engineer",
       "description": "Accedo is a video solutions provider delivering premium video experiences. We offer a combination of products and services to support customers at every stage of the video business journey, from strategy and design, through to delivery and post-launch optimization. ",
@@ -619,7 +619,7 @@
       "rank": null
     },
     {
-      "id": 2,
+      "id": "2",
       "companyName": "Strapi",
       "title": "Senior Backend Engineer",
       "description": "At Strapi, we believe that everyone should have the power to create content, digital products, and user experiences that impact the world. We’re here to fuel the world’s creativity by unleashing the power of content. With the help of amazing open-source contributors, we’re on a mission to develop the most customizable CMS on the market. ",
@@ -628,7 +628,7 @@
       "rank": "1"
     },
     {
-      "id": 8,
+      "id": "8",
       "companyName": "Vercel",
       "title": "Developer Relations Lead",
       "description": "\nVercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace. We’re passionate about our work with that community, and we are seeking an experienced Developer Relations Leader to steward our connection to that community, grow our presence and impact, and provide a conduit for community feedback into all parts of our business.\nAs part of this challenging role, you will work closely with leaders and staff from across our whole business, including engineering, infrastructure, marketing, and business development.",
@@ -637,7 +637,7 @@
       "rank": "2"
     },
     {
-      "id": 9,
+      "id": "9",
       "companyName": "Vercel",
       "title": "Field Engineer / Solution Architect ",
       "description": "\nVercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace. We’re passionate about our work with that community, and we are seeking an experienced Developer Relations Leader to steward our connection to that community, grow our presence and impact, and provide a conduit for community feedback into all parts of our business.\nAs part of this challenging role, you will work closely with leaders and staff from across our whole business, including engineering, infrastructure, marketing, and business development.",
@@ -646,7 +646,7 @@
       "rank": "2"
     },
     {
-      "id": 11,
+      "id": "11",
       "companyName": "Magic",
       "title": "Senior Software Engineer (Frontend)",
       "description": "Magic is an early stage, fast-growing challenger to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Lightspeed Ventures, SV Angel, Social Capital, Placeholder, and Naval Ravikant. Our mission is to safeguard the trust between users and Internet services by establishing secure and authentic digital identity. Magic’s vision is an Internet of people, not credentials. We are looking for team members who are not afraid to push beyond the status quo and create the simplest, most secure, and most long-term sustainable identity solution for app developers and end-users. We would like to invite anyone who's interested in taking on the challenges of shifting the paradigm in user authentication and ending the era of passwords once and for all. We offer good compensation and sizable equity. You'll be joining a team around 15 and have a great amount of ownership in the projects at Magic. Magic is a remote-friendly company.",
@@ -655,7 +655,7 @@
       "rank": "4"
     },
     {
-      "id": 10,
+      "id": "10",
       "companyName": "Magic",
       "title": "Senior Software Engineer (Backend)",
       "description": "Magic is an early stage, fast-growing challenger to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Lightspeed Ventures, SV Angel, Social Capital, Placeholder, and Naval Ravikant. Our mission is to safeguard the trust between users and Internet services by establishing secure and authentic digital identity. Magic’s vision is an Internet of people, not credentials. We are looking for team members who are not afraid to push beyond the status quo and create the simplest, most secure, and most long-term sustainable identity solution for app developers and end-users. We would like to invite anyone who's interested in taking on the challenges of shifting the paradigm in user authentication and ending the era of passwords once and for all. We offer good compensation and sizable equity. You'll be joining a team around 15 and have a great amount of ownership in the projects at Magic. Magic is a remote-friendly company.",
@@ -664,7 +664,7 @@
       "rank": "4"
     },
     {
-      "id": 12,
+      "id": "12",
       "companyName": "MeiliSearch",
       "title": "Technical Writer",
       "description": "MeiliSearch provides an extensive toolset for customization. Unlike with other search engines, these customization options are just that: optional. It works out-of-the-box with a preset that easily answers the needs of most applications. Communication is done with a RESTful API because most developers are already familiar with its norms.",
@@ -675,7 +675,7 @@
   ],
   "speakers": [
     {
-      "id": 54,
+      "id": "54",
       "bio": "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. He's passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, communities and FOSS",
       "slug": "bolaji-ayodeji",
       "name": "Bolaji Ayodeji",
@@ -684,7 +684,7 @@
       "company": "Commerce Layer",
       "title": "Developer Advocate",
       "talk": {
-        "id": 56,
+        "id": "56",
         "title": "Headless Commerce done right, with Commerce Layer",
         "start": "2021-04-22T19:45:00.000Z",
         "end": "2021-04-22T20:15:00.000Z",
@@ -697,7 +697,7 @@
       "image": "./speakers-image-bolaji-ayodeji.jpg"
     },
     {
-      "id": 59,
+      "id": "59",
       "bio": "Roy Derks is a serial startup CTO, developer, author and conference speaker from Amsterdam. He has founded multiple e-commerce and marketplace startups in the past, and is now working with Saleor as an ambassador. \n",
       "slug": "roy-derks",
       "name": "Roy Derks",
@@ -706,7 +706,7 @@
       "company": "Saleor",
       "title": "Ambassador",
       "talk": {
-        "id": 60,
+        "id": "60",
         "title": "Enriching Commerce Data In Headless Architectures",
         "start": "2021-04-22T18:00:00.000Z",
         "end": "2021-04-22T18:30:00.000Z",
@@ -719,7 +719,7 @@
       "image": "./speakers-image-roy-derks.jpg"
     },
     {
-      "id": 36,
+      "id": "36",
       "bio": "Mom since 2017 and Strapi user's since 2018. I'm fully loving on R&D, Infra & Web development. I'm currently CTO of RiderClub.fr (1st sharing motorcycle service in France). ",
       "slug": "Vanessa-Pasque",
       "name": "Vanessa\tPasqué",
@@ -728,7 +728,7 @@
       "company": "Magenta Motocycle (Rider Club)",
       "title": "CTO",
       "talk": {
-        "id": 61,
+        "id": "61",
         "title": "Creating a notification plugin for Expo with Strapi",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-04-22T19:15:00.000Z",
@@ -741,7 +741,7 @@
       "image": "./speakers-image-Vanessa-Pasque.jpg"
     },
     {
-      "id": 57,
+      "id": "57",
       "bio": "Scott Agirs' is an entrepreneur-turned software engineer. Having built and sold his first website at the early age of 14, software development has always been a part of his life. Last few years with full-steam and Strapi in his tool belt his helping early-stage JavaScript-built startups to get off the ground.",
       "slug": "scott-agirs-neminskis",
       "name": "Scott Agirs Neminskis",
@@ -750,7 +750,7 @@
       "company": "iJS.to",
       "title": "Full Stack Developer",
       "talk": {
-        "id": 47,
+        "id": "47",
         "title": "Extending your Strapi app with lifecycle hooks, controllers and services",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-03-22T19:15:00.000Z",
@@ -763,7 +763,7 @@
       "image": "./speakers-image-scott-agirs-neminskis.jpg"
     },
     {
-      "id": 39,
+      "id": "39",
       "bio": "Chad Carlson is a DevRel Engineer at Platform.sh, and during that time he has worked with Strapi quite a bit during his time documenting Node.js support and decoupled websites. He's interested in when decoupling is the right choice for teams (and when), and if he's not teaching himself a new programming language he can usually be found writing or cooking something or other. ",
       "slug": "chad-carlson",
       "name": "Chad Carlson",
@@ -772,7 +772,7 @@
       "company": "Platform.sh",
       "title": "DevRel Engineer",
       "talk": {
-        "id": 30,
+        "id": "30",
         "title": "Editorial workflows, GIT them here!",
         "start": "2021-04-22T19:15:00.000Z",
         "end": "2021-05-16T19:45:00.000Z",
@@ -785,7 +785,7 @@
       "image": "./speakers-image-chad-carlson.jpg"
     },
     {
-      "id": 45,
+      "id": "45",
       "bio": "Over 14 yers in web development, starting from table layout and IE6 till today. Working mostly as a frontend developer in e-commerce industry and running side project on WordPress. Last few years change development environment and focus mainly on JAM, MERN, ... stack. Also interested in IOT technology by doing small house automation projects as a hobby.",
       "slug": "stanislav-mihic",
       "name": "Stanislav\tMihić",
@@ -794,7 +794,7 @@
       "company": "Minus5",
       "title": "Senior Software Engineer",
       "talk": {
-        "id": 38,
+        "id": "38",
         "title": "Strapi as a publishing platform for the largest local sports betting platform",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-04-22T19:15:00.000Z",
@@ -807,7 +807,7 @@
       "image": "./speakers-image-stanislav-mihic.jpg"
     },
     {
-      "id": 33,
+      "id": "33",
       "bio": "Engineering Manager & Principal Engineer @ VirtusLab who is building and leading teams for projects of various scale. A Full Stack Developer from origin and passion, for whom the concept of 'business day' does not apply, because passion is can't be limited. Founder & organizer of Krakow TypeScript User Group (KTUG) meetup, meet.js & conferences speaker.",
       "slug": "Mateusz-Ziarko",
       "name": "Mateusz Ziarko",
@@ -816,7 +816,7 @@
       "company": "VirtusLab ",
       "title": "Engineering Manager & Principal Engineer",
       "talk": {
-        "id": 29,
+        "id": "29",
         "title": "Wise approach for community & commercial Strapi plugins development",
         "start": "2021-04-22T17:00:00.000Z",
         "end": "2021-04-22T17:30:00.000Z",
@@ -829,7 +829,7 @@
       "image": "./speakers-image-Mateusz-Ziarko.jpg"
     },
     {
-      "id": 48,
+      "id": "48",
       "bio": "Alex is the engineering lead at Strapi. He leads the development of technology for the company. He is also passionate about pastry making and likes helping people build innovative products.",
       "slug": "alexandre-bodin",
       "name": "Alexandre Bodin",
@@ -838,7 +838,7 @@
       "company": "Strapi",
       "title": "Engineering Lead",
       "talk": {
-        "id": 39,
+        "id": "39",
         "title": "Keynote",
         "start": "2021-04-22T15:00:00.000Z",
         "end": "2021-04-22T16:30:00.000Z",
@@ -851,7 +851,7 @@
       "image": "./speakers-image-alexandre-bodin.jpg"
     },
     {
-      "id": 51,
+      "id": "51",
       "bio": "He’s a product builder, CPO & co-founder at Strapi. He has been a huge fan of CMSs since he’s 15 years old when he developed his first CMS. He likes playing basketball and board games, especially Catan.",
       "slug": "aurelien-georget",
       "name": "Aurélien Georget",
@@ -860,7 +860,7 @@
       "company": "Strapi",
       "title": "Co-founder, CPO",
       "talk": {
-        "id": 39,
+        "id": "39",
         "title": "Keynote",
         "start": "2021-04-22T15:00:00.000Z",
         "end": "2021-04-22T16:30:00.000Z",
@@ -873,7 +873,7 @@
       "image": "./speakers-image-aurelien-georget.jpg"
     },
     {
-      "id": 52,
+      "id": "52",
       "bio": "Developer Advocate for Magic.link by day, Multi-Passionate Gal who loves to film, build, write, draw, sew, and a bunch of other fun artsy things by night. \n\n",
       "slug": "Maricris-Bonzo",
       "name": "Maricris Bonzo",
@@ -882,7 +882,7 @@
       "company": "Magic",
       "title": "Developer Advocate",
       "talk": {
-        "id": 45,
+        "id": "45",
         "title": "Gather More Meaningfully with Strapi and Magic",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-04-22T19:15:00.000Z",
@@ -895,7 +895,7 @@
       "image": "./speakers-image-Maricris-Bonzo.jpg"
     },
     {
-      "id": 43,
+      "id": "43",
       "bio": "A female Nigerian with a Bachelor's degree in Marine engineering and Bootcamp certificates in Software development. She is also a full stack JavaScript developer (MEVN) stack and loves to share knowledge about her transition from marine engineering to software development to encourage people who love software development and don't know where to begin. She also contribute to FOSS in her free time.",
       "slug": "ukpai-ugochi",
       "name": "Ukpai Ugochi",
@@ -904,7 +904,7 @@
       "company": "Logrocket, Hitsubscribe",
       "title": "Freelance technical writer",
       "talk": {
-        "id": 35,
+        "id": "35",
         "title": "Content Modeling Best Practices",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-04-22T19:15:00.000Z",
@@ -917,7 +917,7 @@
       "image": "./speakers-image-ukpai-ugochi.jpg"
     },
     {
-      "id": 34,
+      "id": "34",
       "bio": "Kati Frantz is a software engineer and Auth0 Ambassador passionate about mentoring and training other developers. He’s published over 150 hours of training resources on Udemy with over 65 000 students.  He’s worked with multiple teams and startups across the world to build powerful, modern, performant and scalable web applications. He is also a speaker and author of the Deploying Nodejs book. He is currently the core maintainer of the open-source headless CMS and API builder Tenseijs.",
       "slug": "Kati-Frantz",
       "name": "Kati\tFrantz",
@@ -926,7 +926,7 @@
       "company": "Auth0 Ambassador",
       "title": "",
       "talk": {
-        "id": 27,
+        "id": "27",
         "title": "Effective caching strategies for a faster JAMstack",
         "start": "2021-04-22T17:30:00.000Z",
         "end": "2021-04-22T18:00:00.000Z",
@@ -939,7 +939,7 @@
       "image": "./speakers-image-Kati-Frantz.jpg"
     },
     {
-      "id": 49,
+      "id": "49",
       "bio": "Pierre is the co-founder and CEO of Strapi. Frustrated by the limitations of traditional CMS while working as a freelance developer, he co-founded, with Aurélien Georget and Jim Laurie, Strapi, the leading open-source Headless CMS. He is a lover of Node.js and APIs, and when not coding, it’s likely he will be windsurfing.",
       "slug": "pierre-burgy",
       "name": "Pierre Burgy",
@@ -948,7 +948,7 @@
       "company": "Strapi",
       "title": "CEO",
       "talk": {
-        "id": 39,
+        "id": "39",
         "title": "Keynote",
         "start": "2021-04-22T15:00:00.000Z",
         "end": "2021-04-22T16:30:00.000Z",
@@ -961,7 +961,7 @@
       "image": "./speakers-image-pierre-burgy.jpg"
     },
     {
-      "id": 40,
+      "id": "40",
       "bio": "Heiko Voigt is working as a full-stack javascript web developer for SIT GmbH in Germany and Harbour Light Software Development Ltd. in Canada. \nAs a core member of the Cross Canada Collaboration User Group (C3UG) and an HCL Ambassador 2021, he is working in the field of HCL digital solutions software for more than 25 years. He is also a passionate home brewer and a proud father of twin girls.",
       "slug": "heiko-voigt",
       "name": "Heiko Voigt",
@@ -970,7 +970,7 @@
       "company": "SIT GmbH",
       "title": "CEO",
       "talk": {
-        "id": 32,
+        "id": "32",
         "title": "Using strapi, Node-Red and Ionic to build a weather alarm app for the ministry of agriculture in Rhineland-Palatine, Germany",
         "start": "2021-04-22T17:00:00.000Z",
         "end": "2021-04-22T17:30:00.000Z",
@@ -983,7 +983,7 @@
       "image": "./speakers-image-heiko-voigt.jpg"
     },
     {
-      "id": 60,
+      "id": "60",
       "bio": "Alexander Lichter is a Nuxt.js maintainer and web development consultant in his twenties. When not working on open-source projects, he gives talks and workshops, writes blog posts or helps other companies with regards to web development, mainly focussing on Vue.js and Nuxt.js.",
       "slug": "alexander-lichter",
       "name": "Alexander Lichter",
@@ -992,7 +992,7 @@
       "company": "Developmint",
       "title": "Web Dev Consultant",
       "talk": {
-        "id": 62,
+        "id": "62",
         "title": "Strapi + Nuxt.js + Composition Api = ❤️",
         "start": "2021-04-22T19:15:00.000Z",
         "end": "2021-04-22T19:45:00.000Z",
@@ -1005,7 +1005,7 @@
       "image": "./speakers-image-alexander-lichter.jpg"
     },
     {
-      "id": 37,
+      "id": "37",
       "bio": "I'm a software engineer from Brussels, Belgium. I work on dev tools that help developers use MeiliSearch. I love back-end JavaScript and all types of databases.",
       "slug": "Charlotte-Vermandel",
       "name": "Charlotte Vermandel",
@@ -1014,7 +1014,7 @@
       "company": "MeiliSearch",
       "title": "Software Engineer",
       "talk": {
-        "id": 25,
+        "id": "25",
         "title": "Integrate open-source search into your Strapi project",
         "start": "2021-04-22T17:00:00.000Z",
         "end": "2021-04-22T17:30:00.000Z",
@@ -1027,7 +1027,7 @@
       "image": "./speakers-image-Charlotte-Vermandel.jpg"
     },
     {
-      "id": 66,
+      "id": "66",
       "bio": "Liz is a community-taught Software Engineer focused on JavaScript, and Head of Developer Relations at NodeSource. She organizes different community events such as JSConf Colombia, Pioneras Developers, Startup Weekend and has been a speaker at EmpireJS, MedellinJS, PionerasDev, and Node+JS Interactive.\n\nShe loves sharing knowledge, promoting JavaScript and Node.js ecosystem and participating in key tech events and conferences to enhance her knowledge and network.",
       "slug": "liz-parody",
       "name": "Liz Parody",
@@ -1036,7 +1036,7 @@
       "company": "NodeSource",
       "title": "Head of Developers Relations",
       "talk": {
-        "id": 63,
+        "id": "63",
         "title": "Examining Observability in Node.js using Strapi",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-04-22T19:15:00.000Z",
@@ -1049,7 +1049,7 @@
       "image": "./speakers-image-liz-parody.jpg"
     },
     {
-      "id": 58,
+      "id": "58",
       "bio": "Sam Bhagwat is Gatsby's Co-founder and Chief Strategy Officer. He's the author of Journey to the Content Mesh, a series outlining the modernization and modularization of the website technology stack.\n\n",
       "slug": "sam-bhagwat",
       "name": "Sam Bhagwat",
@@ -1058,7 +1058,7 @@
       "company": "Gatsby",
       "title": "Cofounder and CSO",
       "talk": {
-        "id": 53,
+        "id": "53",
         "title": "Best Practices For Gatsby + Strapi",
         "start": "2021-04-22T19:45:00.000Z",
         "end": "2021-04-22T20:15:00.000Z",
@@ -1071,7 +1071,7 @@
       "image": "./speakers-image-sam-bhagwat.jpg"
     },
     {
-      "id": 46,
+      "id": "46",
       "bio": "Chris Sev is the founder of scotch.io and a Senior Developer Advocate at DigitalOcean. He puts his focus on building simple and clean SaaS experiences for customers.",
       "slug": "chris-sev",
       "name": "Chris Sev",
@@ -1080,7 +1080,7 @@
       "company": "DigitalOcean",
       "title": "Sr Developer Advocate",
       "talk": {
-        "id": 34,
+        "id": "34",
         "title": "Jammin on Strapi",
         "start": "2021-04-22T19:15:00.000Z",
         "end": "2021-04-22T19:45:00.000Z",
@@ -1093,7 +1093,7 @@
       "image": "./speakers-image-chris-sev.jpg"
     },
     {
-      "id": 30,
+      "id": "30",
       "bio": "Vladimir works as a software engineer at Sqreen where he builds a tool to secure web applications. He used to be a professional security auditor and a web developer in agencies. He is part of the Node.js Security Working Group where he handles the security of Node.js. Vladimir also often give talks and training to software engineers to teach them about application security. He has been speaking at OWASP conferences (California and Europe), Node Summit, NodeConf (NL and Colombia) and Node+JS Interactive.",
       "slug": "Vladimir-de-Turckheim",
       "name": "Vladimir\tde Turckheim",
@@ -1102,7 +1102,7 @@
       "company": "Sqreen",
       "title": "Customer Engineering Team Lead",
       "talk": {
-        "id": 28,
+        "id": "28",
         "title": "A bit of Web Application Security",
         "start": "2021-04-22T18:00:00.000Z",
         "end": "2021-04-22T18:30:00.000Z",
@@ -1115,7 +1115,7 @@
       "image": "./speakers-image-Vladimir-de-Turckheim.jpg"
     },
     {
-      "id": 38,
+      "id": "38",
       "bio": "François builds, learns, and laughs in beautiful Québec City. He's CEO at Snipcart, an e-commerce solution for developers. He's also a board member and mentor at Apollo13, a startup program he helped launch. A marketer by trade, he was responsible for building Snipcart's initial growth machine, which runs on good content, community, and SEO. His writing has been featured on Indie Hackers, The Startup, freeCodeCamp, Baremetrics, and more publications.\nSince joining Snipcart, he gave startup and e-commerce presentations in 14+ events all over the world (Canada, USA, France, Ireland). He worked remotely from half a dozen different countries in his first years on the market.",
       "slug": "francois-lanthier-nadeau",
       "name": "Francois Lanthier Nadeau",
@@ -1124,7 +1124,7 @@
       "company": "Snipcart",
       "title": "CEO",
       "talk": {
-        "id": 37,
+        "id": "37",
         "title": "The state of modern e-commerce",
         "start": "2021-04-22T17:30:00.000Z",
         "end": "2021-04-22T18:00:00.000Z",
@@ -1137,7 +1137,7 @@
       "image": "./speakers-image-francois-lanthier-nadeau.jpg"
     },
     {
-      "id": 56,
+      "id": "56",
       "bio": "A front-end developer with vast experience handling different projects from corporate websites to full e-commerce platforms. She's also been working on Strapi's website for almost a year, making the CMS (coupled with React) one of her everyday tools, and she's loving it! ",
       "slug": "marion-ott",
       "name": "Marion Ott",
@@ -1146,7 +1146,7 @@
       "company": "Unlikely Technology",
       "title": "Front-end developer",
       "talk": {
-        "id": 50,
+        "id": "50",
         "title": "Content-Types Builder 101",
         "start": "2021-04-22T17:30:00.000Z",
         "end": "2021-04-22T18:00:00.000Z",
@@ -1159,7 +1159,7 @@
       "image": "./speakers-image-marion-ott.jpg"
     },
     {
-      "id": 47,
+      "id": "47",
       "bio": "IT Project Manager with over 5 years of experience in Project Management and Change Management in the Information Technology and Hotel industry",
       "slug": "arlene-zavala",
       "name": "Arlene Zavala",
@@ -1168,7 +1168,7 @@
       "company": "San Services (Sandals Resort)",
       "title": "IT Project Manager",
       "talk": {
-        "id": 31,
+        "id": "31",
         "title": "Boosting Productivity and Team Velocity with Strapi",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-04-22T19:15:00.000Z",
@@ -1181,7 +1181,7 @@
       "image": "./speakers-image-arlene-zavala.jpg"
     },
     {
-      "id": 50,
+      "id": "50",
       "bio": "Before starting Vercel (formerly ZEIT) in November 2015, Guillermo was the CTO and co-founder of LearnBoost and Cloudup, acquired by Automattic in 2013. He's the creator of several popular Node.js open source libraries like Socket.io, Mongoose and Slackin. Prior to Node.js, he was a core developer of the MooTools frontend toolkit. He is determined to make the web better.",
       "slug": "Guillermo-Rauch",
       "name": "Guillermo Rauch",
@@ -1190,7 +1190,7 @@
       "company": "Vercel",
       "title": "CEO",
       "talk": {
-        "id": 39,
+        "id": "39",
         "title": "Keynote",
         "start": "2021-04-22T15:00:00.000Z",
         "end": "2021-04-22T16:30:00.000Z",
@@ -1203,7 +1203,7 @@
       "image": "./speakers-image-Guillermo-Rauch.jpg"
     },
     {
-      "id": 53,
+      "id": "53",
       "bio": "Jim is the Chief User Success Officer at Strapi. By being an expert of the project and close to the community and their usage/needs, he is in charge of making sure we provide all resources that will set Strapi users up for success.",
       "slug": "jim-laurie",
       "name": "Jim Laurie",
@@ -1212,7 +1212,7 @@
       "company": "Strapi",
       "title": "Co-Founder & Chief User Success Officer",
       "talk": {
-        "id": 48,
+        "id": "48",
         "title": "Top 10 Strapi Tips",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-04-22T19:15:00.000Z",
@@ -1225,7 +1225,7 @@
       "image": "./speakers-image-jim-laurie.jpg"
     },
     {
-      "id": 44,
+      "id": "44",
       "bio": "Anisha is a Front-end Developer at IBM, she has been there for 3 years. Anisha is passionate about promoting diversity, React and coffee!",
       "slug": "anisha-malde",
       "name": "Anisha Malde",
@@ -1234,7 +1234,7 @@
       "company": "IBM",
       "title": "Developer",
       "talk": {
-        "id": 36,
+        "id": "36",
         "title": "0 to Production in 60 days",
         "start": "2021-04-22T18:45:00.000Z",
         "end": "2021-04-22T19:00:00.000Z",
@@ -1247,7 +1247,7 @@
       "image": "./speakers-image-anisha-malde.jpg"
     },
     {
-      "id": 35,
+      "id": "35",
       "bio": "Ekene is a Developer Experience Engineer at Netlify. When he's not working and doing Jamstacky things, he likes teaching and learning new things.",
       "slug": "ekene-eze",
       "name": "Ekene Eze",
@@ -1256,7 +1256,7 @@
       "company": "Netlify",
       "title": "Developer Experience Engineer",
       "talk": {
-        "id": 26,
+        "id": "26",
         "title": "How to Jamstack in a dynamic era",
         "start": "2021-04-22T19:45:00.000Z",
         "end": "2021-04-22T20:15:00.000Z",
@@ -1269,7 +1269,7 @@
       "image": "./speakers-image-ekene-eze.jpg"
     },
     {
-      "id": 41,
+      "id": "41",
       "bio": "Bart Witteveen is the Lead Developer and Architect of Smartshore Ability. He has been the man who introduced Strapi within our team! ",
       "slug": "bart-witteveen",
       "name": "Bart\tWitteveen",
@@ -1278,7 +1278,7 @@
       "company": "Smartshore Ability",
       "title": "Architect",
       "talk": {
-        "id": 33,
+        "id": "33",
         "title": "Creating a new media newspaper platform",
         "start": "2021-04-22T18:00:00.000Z",
         "end": "2021-04-22T18:30:00.000Z",
@@ -1293,7 +1293,7 @@
   ],
   "stages": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Stage: A",
       "slug": "a",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
@@ -1301,7 +1301,7 @@
       "discord": "",
       "schedule": [
         {
-          "id": 31,
+          "id": "31",
           "title": "Boosting Productivity and Team Velocity with Strapi",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-04-22T19:15:00.000Z",
@@ -1312,7 +1312,7 @@
           "link": null
         },
         {
-          "id": 34,
+          "id": "34",
           "title": "Jammin on Strapi",
           "start": "2021-04-22T19:15:00.000Z",
           "end": "2021-04-22T19:45:00.000Z",
@@ -1323,7 +1323,7 @@
           "link": null
         },
         {
-          "id": 38,
+          "id": "38",
           "title": "Strapi as a publishing platform for the largest local sports betting platform",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-04-22T19:15:00.000Z",
@@ -1334,7 +1334,7 @@
           "link": null
         },
         {
-          "id": 36,
+          "id": "36",
           "title": "0 to Production in 60 days",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-04-22T19:00:00.000Z",
@@ -1345,7 +1345,7 @@
           "link": null
         },
         {
-          "id": 33,
+          "id": "33",
           "title": "Creating a new media newspaper platform                 ",
           "start": "2021-04-22T18:00:00.000Z",
           "end": "2021-04-22T18:30:00.000Z",
@@ -1356,7 +1356,7 @@
           "link": null
         },
         {
-          "id": 26,
+          "id": "26",
           "title": "How to Jamstack in a dynamic era",
           "start": "2021-04-22T19:45:00.000Z",
           "end": "2021-04-22T20:15:00.000Z",
@@ -1367,7 +1367,7 @@
           "link": null
         },
         {
-          "id": 39,
+          "id": "39",
           "title": "Keynote",
           "start": "2021-04-22T15:00:00.000Z",
           "end": "2021-04-22T16:30:00.000Z",
@@ -1378,7 +1378,7 @@
           "link": "https://conf.strapi.io/schedule"
         },
         {
-          "id": 32,
+          "id": "32",
           "title": "Using strapi, Node-Red and Ionic to build a weather alarm app for the ministry of agriculture in Rhineland-Palatine, Germany",
           "start": "2021-04-22T17:00:00.000Z",
           "end": "2021-04-22T17:30:00.000Z",
@@ -1389,7 +1389,7 @@
           "link": null
         },
         {
-          "id": 50,
+          "id": "50",
           "title": "Content-Types Builder 101",
           "start": "2021-04-22T17:30:00.000Z",
           "end": "2021-04-22T18:00:00.000Z",
@@ -1402,7 +1402,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Stage: C",
       "slug": "c",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
@@ -1410,7 +1410,7 @@
       "discord": "",
       "schedule": [
         {
-          "id": 27,
+          "id": "27",
           "title": "Effective caching strategies for a faster JAMstack",
           "start": "2021-04-22T17:30:00.000Z",
           "end": "2021-04-22T18:00:00.000Z",
@@ -1421,7 +1421,7 @@
           "link": null
         },
         {
-          "id": 28,
+          "id": "28",
           "title": "A bit of Web Application Security",
           "start": "2021-04-22T18:00:00.000Z",
           "end": "2021-04-22T18:30:00.000Z",
@@ -1432,7 +1432,7 @@
           "link": null
         },
         {
-          "id": 48,
+          "id": "48",
           "title": "Top 10 Strapi Tips",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-04-22T19:15:00.000Z",
@@ -1443,7 +1443,7 @@
           "link": null
         },
         {
-          "id": 35,
+          "id": "35",
           "title": "Content Modeling Best Practices",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-04-22T19:15:00.000Z",
@@ -1454,7 +1454,7 @@
           "link": null
         },
         {
-          "id": 53,
+          "id": "53",
           "title": "Best Practices For Gatsby + Strapi",
           "start": "2021-04-22T19:45:00.000Z",
           "end": "2021-04-22T20:15:00.000Z",
@@ -1465,7 +1465,7 @@
           "link": null
         },
         {
-          "id": 29,
+          "id": "29",
           "title": "Wise approach for community & commercial Strapi plugins development",
           "start": "2021-04-22T17:00:00.000Z",
           "end": "2021-04-22T17:30:00.000Z",
@@ -1476,7 +1476,7 @@
           "link": null
         },
         {
-          "id": 39,
+          "id": "39",
           "title": "Keynote",
           "start": "2021-04-22T15:00:00.000Z",
           "end": "2021-04-22T16:30:00.000Z",
@@ -1487,7 +1487,7 @@
           "link": "https://conf.strapi.io/schedule"
         },
         {
-          "id": 47,
+          "id": "47",
           "title": "Extending your Strapi app with lifecycle hooks, controllers and services",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-03-22T19:15:00.000Z",
@@ -1498,7 +1498,7 @@
           "link": null
         },
         {
-          "id": 62,
+          "id": "62",
           "title": "Strapi + Nuxt.js + Composition Api = ❤️",
           "start": "2021-04-22T19:15:00.000Z",
           "end": "2021-04-22T19:45:00.000Z",
@@ -1511,7 +1511,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Stage: M",
       "slug": "m",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
@@ -1519,7 +1519,7 @@
       "discord": "",
       "schedule": [
         {
-          "id": 30,
+          "id": "30",
           "title": "Editorial workflows, GIT them here!",
           "start": "2021-04-22T19:15:00.000Z",
           "end": "2021-05-16T19:45:00.000Z",
@@ -1530,7 +1530,7 @@
           "link": null
         },
         {
-          "id": 61,
+          "id": "61",
           "title": "Creating a notification plugin for Expo with Strapi",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-04-22T19:15:00.000Z",
@@ -1541,7 +1541,7 @@
           "link": null
         },
         {
-          "id": 45,
+          "id": "45",
           "title": "Gather More Meaningfully with Strapi and Magic",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-04-22T19:15:00.000Z",
@@ -1552,7 +1552,7 @@
           "link": null
         },
         {
-          "id": 37,
+          "id": "37",
           "title": "The state of modern e-commerce",
           "start": "2021-04-22T17:30:00.000Z",
           "end": "2021-04-22T18:00:00.000Z",
@@ -1563,7 +1563,7 @@
           "link": null
         },
         {
-          "id": 25,
+          "id": "25",
           "title": "Integrate open-source search into your Strapi project",
           "start": "2021-04-22T17:00:00.000Z",
           "end": "2021-04-22T17:30:00.000Z",
@@ -1574,7 +1574,7 @@
           "link": null
         },
         {
-          "id": 39,
+          "id": "39",
           "title": "Keynote",
           "start": "2021-04-22T15:00:00.000Z",
           "end": "2021-04-22T16:30:00.000Z",
@@ -1585,7 +1585,7 @@
           "link": "https://conf.strapi.io/schedule"
         },
         {
-          "id": 56,
+          "id": "56",
           "title": "Headless Commerce done right, with Commerce Layer",
           "start": "2021-04-22T19:45:00.000Z",
           "end": "2021-04-22T20:15:00.000Z",
@@ -1596,7 +1596,7 @@
           "link": null
         },
         {
-          "id": 63,
+          "id": "63",
           "title": "Examining Observability in Node.js using Strapi",
           "start": "2021-04-22T18:45:00.000Z",
           "end": "2021-04-22T19:15:00.000Z",
@@ -1607,7 +1607,7 @@
           "link": null
         },
         {
-          "id": 60,
+          "id": "60",
           "title": "Enriching Commerce Data In Headless Architectures",
           "start": "2021-04-22T18:00:00.000Z",
           "end": "2021-04-22T18:30:00.000Z",
@@ -1620,7 +1620,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Stage: E",
       "slug": "e",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
@@ -1631,14 +1631,14 @@
   ],
   "talks": [
     {
-      "id": 60,
+      "id": "60",
       "title": "Enriching Commerce Data In Headless Architectures",
       "start": "2021-04-22T18:00:00.000Z",
       "end": "2021-04-22T18:30:00.000Z",
       "description": "Headless Commerce APIs give you the same flexibility and scalability as you can expect from a Headless CMS. Where e-commerce platforms are designed to work with product data and checkout systems, the latter is best suited to manage rich web content for the rest of your website. To keep this separation of concern, you combine these two headless architectures! In this talk I'll show how to use the headless Saleor Commerce and enrich that data by combining it with Strapi CMS. \n",
       "speakers": [
         {
-          "id": 59,
+          "id": "59",
           "bio": "Roy Derks is a serial startup CTO, developer, author and conference speaker from Amsterdam. He has founded multiple e-commerce and marketplace startups in the past, and is now working with Saleor as an ambassador. \n",
           "slug": "roy-derks",
           "name": "Roy Derks",
@@ -1652,13 +1652,13 @@
           "updated_at": "2021-03-18T14:12:24.826Z",
           "linkedin": "https://www.linkedin.com/in/royderks1/?originalSubdomain=nl",
           "settings": {
-            "id": 53,
+            "id": "53",
             "metaTitle": "Roy Derks",
             "metaDescription": "Roy Derks is a serial startup CTO, developer, author and conference speaker from Amsterdam. He has founded multiple e-commerce and marketplace startups in the past, and is now working with Saleor as an ambassador. ",
             "title": "Roy Derks",
             "description": "Roy Derks is a serial startup CTO, developer, author and conference speaker from Amsterdam. He has founded multiple e-commerce and marketplace startups in the past, and is now working with Saleor as an ambassador. ",
             "metaImage": {
-              "id": 162,
+              "id": "162",
               "name": "roy-derks.png",
               "alternativeText": "",
               "caption": "",
@@ -1723,7 +1723,7 @@
             }
           },
           "image": {
-            "id": 161,
+            "id": "161",
             "name": "IMG_1708 (5).JPG",
             "alternativeText": "",
             "caption": "",
@@ -1780,14 +1780,14 @@
       ]
     },
     {
-      "id": 38,
+      "id": "38",
       "title": "Strapi as a publishing platform for the largest local sports betting platform",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Strapi as a publishing platform for our marketing team tool arsenal with the possibility to manage and deliver content to our players without limitations in mind with feature use. ",
       "speakers": [
         {
-          "id": 45,
+          "id": "45",
           "bio": "Over 14 yers in web development, starting from table layout and IE6 till today. Working mostly as a frontend developer in e-commerce industry and running side project on WordPress. Last few years change development environment and focus mainly on JAM, MERN, ... stack. Also interested in IOT technology by doing small house automation projects as a hobby.",
           "slug": "stanislav-mihic",
           "name": "Stanislav\tMihić",
@@ -1801,13 +1801,13 @@
           "updated_at": "2021-03-12T22:28:33.415Z",
           "linkedin": null,
           "settings": {
-            "id": 39,
+            "id": "39",
             "metaTitle": "Stanislav\tMihić",
             "metaDescription": "Over 14 yers in web development, starting from table layout and IE6 till today. Working mostly as a frontend developer in e-commerce industry and running side project on WordPress. Last few years change development environment and focus mainly on JAM, MERN, ... stack. Also interested in IOT technology by doing small house automation projects as a hobby.",
             "title": "Stanislav\tMihić",
             "description": "Over 14 yers in web development, starting from table layout and IE6 till today. Working mostly as a frontend developer in e-commerce industry and running side project on WordPress. Last few years change development environment and focus mainly on JAM, MERN, ... stack. Also interested in IOT technology by doing small house automation projects as a hobby.",
             "metaImage": {
-              "id": 126,
+              "id": "126",
               "name": "stanislav-mihic.png",
               "alternativeText": "",
               "caption": "",
@@ -1872,7 +1872,7 @@
             }
           },
           "image": {
-            "id": 61,
+            "id": "61",
             "name": "20210117_093611.jpg",
             "alternativeText": "",
             "caption": "",
@@ -1940,14 +1940,14 @@
       ]
     },
     {
-      "id": 26,
+      "id": "26",
       "title": "How to Jamstack in a dynamic era",
       "start": "2021-04-22T19:45:00.000Z",
       "end": "2021-04-22T20:15:00.000Z",
       "description": "There’s a general misconception that since Jamstack sites and applications don't rely on traditional server architectures, they come at the cost of dynamic, powerful experiences. The reality is, Jamstack sites are great for creating highly dynamic, interactions using powerful tools like serverless functions and a variety of third-party services.\n\nIn this session, we'll look at how a Jamstack architecture, with serverless functions and Strapi CMS, help developers deliver scale, performance, and a rich content authoring experience, without the burden of servers or infrastructure to maintain\"",
       "speakers": [
         {
-          "id": 35,
+          "id": "35",
           "bio": "Ekene is a Developer Experience Engineer at Netlify. When he's not working and doing Jamstacky things, he likes teaching and learning new things.",
           "slug": "ekene-eze",
           "name": "Ekene Eze",
@@ -1961,13 +1961,13 @@
           "updated_at": "2021-03-25T10:02:26.718Z",
           "linkedin": null,
           "settings": {
-            "id": 26,
+            "id": "26",
             "metaTitle": "Ekene Eze",
             "metaDescription": "Ekene is a Developer Experience Engineer at Netlify. When he's not working and doing Jamstacky things, he likes teaching and learning new things.",
             "title": "Ekene Eze",
             "description": "Ekene is a Developer Experience Engineer at Netlify. When he's not working and doing Jamstacky things, he likes teaching and learning new things.",
             "metaImage": {
-              "id": 138,
+              "id": "138",
               "name": "ekene-eze (1).png",
               "alternativeText": "",
               "caption": "",
@@ -2032,7 +2032,7 @@
             }
           },
           "image": {
-            "id": 190,
+            "id": "190",
             "name": "kenny.png",
             "alternativeText": "",
             "caption": "",
@@ -2100,14 +2100,14 @@
       ]
     },
     {
-      "id": 48,
+      "id": "48",
       "title": "Top 10 Strapi Tips",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "In this talk, we will go through 10 tips that will cover almost every aspect of a Strapi project.\nThis will help you understand how Strapi works behind the hood by reviewing some specific use-cases. ",
       "speakers": [
         {
-          "id": 53,
+          "id": "53",
           "bio": "Jim is the Chief User Success Officer at Strapi. By being an expert of the project and close to the community and their usage/needs, he is in charge of making sure we provide all resources that will set Strapi users up for success.",
           "slug": "jim-laurie",
           "name": "Jim Laurie",
@@ -2121,13 +2121,13 @@
           "updated_at": "2021-03-19T04:47:43.835Z",
           "linkedin": null,
           "settings": {
-            "id": 30,
+            "id": "30",
             "metaTitle": "Jim Laurie",
             "metaDescription": "Jim is the Chief User Success Officer at Strapi. By being an expert of the project and close to the community and their usage/needs, he is in charge of making sure we provide all resources that will set Strapi users up for success.",
             "title": "Jim Laurie",
             "description": "Jim is the Chief User Success Officer at Strapi. By being an expert of the project and close to the community and their usage/needs, he is in charge of making sure we provide all resources that will set Strapi users up for success.",
             "metaImage": {
-              "id": 87,
+              "id": "87",
               "name": "lE2YZ837.png",
               "alternativeText": "",
               "caption": "",
@@ -2159,7 +2159,7 @@
             }
           },
           "image": {
-            "id": 87,
+            "id": "87",
             "name": "lE2YZ837.png",
             "alternativeText": "",
             "caption": "",
@@ -2194,14 +2194,14 @@
       ]
     },
     {
-      "id": 56,
+      "id": "56",
       "title": "Headless Commerce done right, with Commerce Layer",
       "start": "2021-04-22T19:45:00.000Z",
       "end": "2021-04-22T20:15:00.000Z",
       "description": "Digital commerce has changed, and there is an increasing demand for faster and kite efficient solutions. More technologies are arising, more online stores are erupting, and customers make purchases on more devices. In this talk, Bolaji will introduce you to the challenges with traditional commerce, how headless commerce solves those challenges, and how Commerce Layer supercharges your digital experiences.",
       "speakers": [
         {
-          "id": 54,
+          "id": "54",
           "bio": "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. He's passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, communities and FOSS",
           "slug": "bolaji-ayodeji",
           "name": "Bolaji Ayodeji",
@@ -2215,13 +2215,13 @@
           "updated_at": "2021-03-24T10:41:19.352Z",
           "linkedin": null,
           "settings": {
-            "id": 22,
+            "id": "22",
             "metaTitle": "Bolaji Ayodeji",
             "metaDescription": "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. He's passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, communities and FOSS",
             "title": "Bolaji Ayodeji",
             "description": "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. He's passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, communities and FOSS",
             "metaImage": {
-              "id": 92,
+              "id": "92",
               "name": "headshot.jpg",
               "alternativeText": "",
               "caption": "",
@@ -2286,7 +2286,7 @@
             }
           },
           "image": {
-            "id": 92,
+            "id": "92",
             "name": "headshot.jpg",
             "alternativeText": "",
             "caption": "",
@@ -2354,14 +2354,14 @@
       ]
     },
     {
-      "id": 34,
+      "id": "34",
       "title": "Jammin on Strapi",
       "start": "2021-04-22T19:15:00.000Z",
       "end": "2021-04-22T19:45:00.000Z",
       "description": "In this talk, we'll build a Jamstack site with Strapi and Next.js all in 25 minutes. It will have static and dynamic components and be blazing fast.",
       "speakers": [
         {
-          "id": 46,
+          "id": "46",
           "bio": "Chris Sev is the founder of scotch.io and a Senior Developer Advocate at DigitalOcean. He puts his focus on building simple and clean SaaS experiences for customers.",
           "slug": "chris-sev",
           "name": "Chris Sev",
@@ -2375,13 +2375,13 @@
           "updated_at": "2021-03-12T22:20:45.506Z",
           "linkedin": null,
           "settings": {
-            "id": 25,
+            "id": "25",
             "metaTitle": "Chris Sev",
             "metaDescription": "Chris Sev is the founder of scotch.io and a Senior Developer Advocate at DigitalOcean. He puts his focus on building simple and clean SaaS experiences for customers.",
             "title": "Chris Sev",
             "description": "Chris Sev is the founder of scotch.io and a Senior Developer Advocate at DigitalOcean. He puts his focus on building simple and clean SaaS experiences for customers.",
             "metaImage": {
-              "id": 137,
+              "id": "137",
               "name": "chris-sev.png",
               "alternativeText": "",
               "caption": "",
@@ -2446,7 +2446,7 @@
             }
           },
           "image": {
-            "id": 75,
+            "id": "75",
             "name": "Sans titre.jpg",
             "alternativeText": "",
             "caption": "",
@@ -2514,14 +2514,14 @@
       ]
     },
     {
-      "id": 36,
+      "id": "36",
       "title": "0 to Production in 60 days",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:00:00.000Z",
       "description": "0 to Production in 4 sprints sounds like the title to a horror movie but it was the reality Covid created. As a response to the current situation we were tasked with building a showcase platform for the students of UAL to upload and display their work for the world to see. I want to take you through the journey I had and how Strapi made it possible.",
       "speakers": [
         {
-          "id": 44,
+          "id": "44",
           "bio": "Anisha is a Front-end Developer at IBM, she has been there for 3 years. Anisha is passionate about promoting diversity, React and coffee!",
           "slug": "anisha-malde",
           "name": "Anisha Malde",
@@ -2535,13 +2535,13 @@
           "updated_at": "2021-03-12T22:12:35.309Z",
           "linkedin": "https://www.linkedin.com/in/anishamalde/",
           "settings": {
-            "id": 18,
+            "id": "18",
             "metaTitle": "Anisha Malde",
             "metaDescription": "Anisha is a Front-end Developer at IBM, she has been there for 3 years. Anisha is passionate about promoting diversity, React and coffee!",
             "title": "Anisha Malde",
             "description": null,
             "metaImage": {
-              "id": 120,
+              "id": "120",
               "name": "anisha-malde (1).png",
               "alternativeText": "",
               "caption": "",
@@ -2606,7 +2606,7 @@
             }
           },
           "image": {
-            "id": 63,
+            "id": "63",
             "name": "anisha.jpeg",
             "alternativeText": "",
             "caption": "",
@@ -2641,14 +2641,14 @@
       ]
     },
     {
-      "id": 50,
+      "id": "50",
       "title": "Content-Types Builder 101",
       "start": "2021-04-22T17:30:00.000Z",
       "end": "2021-04-22T18:00:00.000Z",
       "description": "Deep dive into how to configure Strapi Content-Types Builder to recreate the Strapi.io navigation and universal pages.",
       "speakers": [
         {
-          "id": 56,
+          "id": "56",
           "bio": "A front-end developer with vast experience handling different projects from corporate websites to full e-commerce platforms. She's also been working on Strapi's website for almost a year, making the CMS (coupled with React) one of her everyday tools, and she's loving it! ",
           "slug": "marion-ott",
           "name": "Marion Ott",
@@ -2662,13 +2662,13 @@
           "updated_at": "2021-04-06T20:52:05.350Z",
           "linkedin": "https://www.linkedin.com/in/marionott/",
           "settings": {
-            "id": 33,
+            "id": "33",
             "metaTitle": "Marion Ott",
             "metaDescription": "A front-end developer with vast experience handling different projects from corporate websites to full e-commerce platforms. She's also been working on Strapi's website for almost a year, making the CMS (coupled with React) one of her everyday tools, and she's loving it! ",
             "title": "Marion Ott",
             "description": "A front-end developer with vast experience handling different projects from corporate websites to full e-commerce platforms. She's also been working on Strapi's website for almost a year, making the CMS (coupled with React) one of her everyday tools, and she's loving it! ",
             "metaImage": {
-              "id": 129,
+              "id": "129",
               "name": "marion-ott.png",
               "alternativeText": "",
               "caption": "",
@@ -2733,7 +2733,7 @@
             }
           },
           "image": {
-            "id": 101,
+            "id": "101",
             "name": "1565787627828.jpeg",
             "alternativeText": "",
             "caption": "",
@@ -2768,14 +2768,14 @@
       ]
     },
     {
-      "id": 53,
+      "id": "53",
       "title": "Best Practices For Gatsby + Strapi",
       "start": "2021-04-22T19:45:00.000Z",
       "end": "2021-04-22T20:15:00.000Z",
       "description": "In this talk, Sam will give some examples on how you can use Gatsby & Strapi together, why Gatsby is a great match for Strapi (and vice versa), and then he will dive into some example demo code of use cases.",
       "speakers": [
         {
-          "id": 58,
+          "id": "58",
           "bio": "Sam Bhagwat is Gatsby's Co-founder and Chief Strategy Officer. He's the author of Journey to the Content Mesh, a series outlining the modernization and modularization of the website technology stack.\n\n",
           "slug": "sam-bhagwat",
           "name": "Sam Bhagwat",
@@ -2789,13 +2789,13 @@
           "updated_at": "2021-04-08T12:43:02.478Z",
           "linkedin": null,
           "settings": {
-            "id": 37,
+            "id": "37",
             "metaTitle": "Sam Bhagwa",
             "metaDescription": "Sam Bhagwat is Gatsby's Co-founder and Chief Strategy Officer. He's the author of Journey to the Content Mesh, a series outlining the modernization and modularization of the website technology stack.\n\n",
             "title": "Sam Bhagwa",
             "description": "Sam Bhagwat is Gatsby's Co-founder and Chief Strategy Officer. He's the author of Journey to the Content Mesh, a series outlining the modernization and modularization of the website technology stack.\n\n",
             "metaImage": {
-              "id": 114,
+              "id": "114",
               "name": "Gtasby_Sam Bhagwat_Headshot.jpg",
               "alternativeText": "",
               "caption": "",
@@ -2827,7 +2827,7 @@
             }
           },
           "image": {
-            "id": 114,
+            "id": "114",
             "name": "Gtasby_Sam Bhagwat_Headshot.jpg",
             "alternativeText": "",
             "caption": "",
@@ -2862,14 +2862,14 @@
       ]
     },
     {
-      "id": 25,
+      "id": "25",
       "title": "Integrate open-source search into your Strapi project",
       "start": "2021-04-22T17:00:00.000Z",
       "end": "2021-04-22T17:30:00.000Z",
       "description": "I will present the problematics of in-app search with a quick recap of the state of search today. Then I will introduce MeiliSearch as a solution and explain how it solves the problems mentioned before. Finally, I will show through a demonstration how to use it simply with Strapi collections using the plugin we created.",
       "speakers": [
         {
-          "id": 37,
+          "id": "37",
           "bio": "I'm a software engineer from Brussels, Belgium. I work on dev tools that help developers use MeiliSearch. I love back-end JavaScript and all types of databases.",
           "slug": "Charlotte-Vermandel",
           "name": "Charlotte Vermandel",
@@ -2883,13 +2883,13 @@
           "updated_at": "2021-03-12T22:20:16.424Z",
           "linkedin": null,
           "settings": {
-            "id": 24,
+            "id": "24",
             "metaTitle": "Charlotte Vermandel",
             "metaDescription": "I'm a software engineer from Brussels, Belgium. I work on dev tools that help developers use MeiliSearch. I love back-end JavaScript and all types of databases.",
             "title": "Charlotte Vermandel",
             "description": "I'm a software engineer from Brussels, Belgium. I work on dev tools that help developers use MeiliSearch. I love back-end JavaScript and all types of databases.",
             "metaImage": {
-              "id": 136,
+              "id": "136",
               "name": "Charlotte-Vermandel (3).png",
               "alternativeText": "",
               "caption": "",
@@ -2954,7 +2954,7 @@
             }
           },
           "image": {
-            "id": 40,
+            "id": "40",
             "name": "Charlotte Vermandel",
             "alternativeText": "Charlotte Vermandel",
             "caption": "Charlotte Vermandel",
@@ -3022,14 +3022,14 @@
       ]
     },
     {
-      "id": 45,
+      "id": "45",
       "title": "Gather More Meaningfully with Strapi and Magic",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "An insightful tutorial on how I built an events page where users could sign up and RSVP to upcoming gatherings that were consciously-crafted. The events management system is powered by Strapi, while secure user authentication is made possible with the Magic plugin.",
       "speakers": [
         {
-          "id": 52,
+          "id": "52",
           "bio": "Developer Advocate for Magic.link by day, Multi-Passionate Gal who loves to film, build, write, draw, sew, and a bunch of other fun artsy things by night. \n\n",
           "slug": "Maricris-Bonzo",
           "name": "Maricris Bonzo",
@@ -3043,13 +3043,13 @@
           "updated_at": "2021-03-12T22:24:26.353Z",
           "linkedin": null,
           "settings": {
-            "id": 32,
+            "id": "32",
             "metaTitle": "Maricris Bonzo",
             "metaDescription": "Developer Advocate for Magic.link by day, Multi-Passionate Gal who loves to film, build, write, draw, sew, and a bunch of other fun artsy things by night. \n\n",
             "title": "Maricris Bonzo",
             "description": "Developer Advocate for Magic.link by day, Multi-Passionate Gal who loves to film, build, write, draw, sew, and a bunch of other fun artsy things by night. \n\n",
             "metaImage": {
-              "id": 131,
+              "id": "131",
               "name": "Maricris-Bonzo.png",
               "alternativeText": "",
               "caption": "",
@@ -3114,7 +3114,7 @@
             }
           },
           "image": {
-            "id": 83,
+            "id": "83",
             "name": "H5QkkMA.jpg",
             "alternativeText": "",
             "caption": "",
@@ -3182,14 +3182,14 @@
       ]
     },
     {
-      "id": 32,
+      "id": "32",
       "title": "Using strapi, Node-Red and Ionic to build a weather alarm app for the ministry of agriculture in Rhineland-Palatine, Germany",
       "start": "2021-04-22T17:00:00.000Z",
       "end": "2021-04-22T17:30:00.000Z",
       "description": "In this session, we will show you how to integrate strapi, Node-Red and ionic to build a full stack javascript application for personalized weather warnings.",
       "speakers": [
         {
-          "id": 40,
+          "id": "40",
           "bio": "Heiko Voigt is working as a full-stack javascript web developer for SIT GmbH in Germany and Harbour Light Software Development Ltd. in Canada. \nAs a core member of the Cross Canada Collaboration User Group (C3UG) and an HCL Ambassador 2021, he is working in the field of HCL digital solutions software for more than 25 years. He is also a passionate home brewer and a proud father of twin girls.",
           "slug": "heiko-voigt",
           "name": "Heiko Voigt",
@@ -3203,13 +3203,13 @@
           "updated_at": "2021-03-12T22:23:19.229Z",
           "linkedin": null,
           "settings": {
-            "id": 29,
+            "id": "29",
             "metaTitle": "Heiko Voigt",
             "metaDescription": "Heiko Voigt is working as a full-stack javascript web developer for SIT GmbH in Germany and Harbour Light Software Development Ltd. in Canada. \nAs a core member of the Cross Canada Collaboration User Group (C3UG) and an HCL Ambassador 2021, he is working in the field of HCL digital solutions software for more than 25 years. He is also a passionate home brewer and a proud father of twin girls.",
             "title": "Heiko Voigt",
             "description": "Heiko Voigt is working as a full-stack javascript web developer for SIT GmbH in Germany and Harbour Light Software Development Ltd. in Canada. \nAs a core member of the Cross Canada Collaboration User Group (C3UG) and an HCL Ambassador 2021, he is working in the field of HCL digital solutions software for more than 25 years. He is also a passionate home brewer and a proud father of twin girls.",
             "metaImage": {
-              "id": 140,
+              "id": "140",
               "name": "heiko-voigt.png",
               "alternativeText": "",
               "caption": "",
@@ -3274,7 +3274,7 @@
             }
           },
           "image": {
-            "id": 113,
+            "id": "113",
             "name": "hvoigt-profile.png",
             "alternativeText": "",
             "caption": "",
@@ -3342,14 +3342,14 @@
       ]
     },
     {
-      "id": 61,
+      "id": "61",
       "title": "Creating a notification plugin for Expo with Strapi",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "In this talk, we'll look at how a simple idea, and need, can be real in few days by using Strapi to implement a notification system. We'll get into how to use Expo Notification to send notification to your mobile application (using Expo), taking a look into the plugin I built and the many Strapi features in implements, and showing you how to use it with any Strapi project.",
       "speakers": [
         {
-          "id": 36,
+          "id": "36",
           "bio": "Mom since 2017 and Strapi user's since 2018. I'm fully loving on R&D, Infra & Web development. I'm currently CTO of RiderClub.fr (1st sharing motorcycle service in France). ",
           "slug": "Vanessa-Pasque",
           "name": "Vanessa\tPasqué",
@@ -3363,13 +3363,13 @@
           "updated_at": "2021-03-18T16:17:40.412Z",
           "linkedin": null,
           "settings": {
-            "id": 41,
+            "id": "41",
             "metaTitle": "Vanessa\tPasqué",
             "metaDescription": "Mom since 2017 and Strapi user's since 2018. I'm fully loving on R&D, Infra & Web development. I'm currently CTO of RiderClub.fr (1st sharing motorcycle service in France",
             "title": "Vanessa\tPasqué",
             "description": "Mom since 2017 and Strapi user's since 2018. I'm fully loving on R&D, Infra & Web development. I'm currently CTO of RiderClub.fr (1st sharing motorcycle service in France",
             "metaImage": {
-              "id": 39,
+              "id": "39",
               "name": "Vanessa\tPasqué",
               "alternativeText": "Vanessa\tPasqué",
               "caption": "Vanessa\tPasqué",
@@ -3434,7 +3434,7 @@
             }
           },
           "image": {
-            "id": 39,
+            "id": "39",
             "name": "Vanessa\tPasqué",
             "alternativeText": "Vanessa\tPasqué",
             "caption": "Vanessa\tPasqué",
@@ -3502,14 +3502,14 @@
       ]
     },
     {
-      "id": 33,
+      "id": "33",
       "title": "Creating a new media newspaper platform                 ",
       "start": "2021-04-22T18:00:00.000Z",
       "end": "2021-04-22T18:30:00.000Z",
       "description": "As Strapi partner, Smartshore Ability (The Netherlands) implemented the new website for RD (https://www.rd.nl/). RD is the biggest Dutch religious newspaper and exists in both digital and physical formats. \nSo in this talk, we will present the project, why we chose Strapi, the architecture of the project as well the challenges we ran into. Where did Strapi fail and what solutions did Smartshore Ability have to develop to overcome these challenges?    \n",
       "speakers": [
         {
-          "id": 41,
+          "id": "41",
           "bio": "Bart Witteveen is the Lead Developer and Architect of Smartshore Ability. He has been the man who introduced Strapi within our team! ",
           "slug": "bart-witteveen",
           "name": "Bart\tWitteveen",
@@ -3523,13 +3523,13 @@
           "updated_at": "2021-03-12T22:17:09.288Z",
           "linkedin": "https://www.linkedin.com/in/bwitteveen/",
           "settings": {
-            "id": 21,
+            "id": "21",
             "metaTitle": "Bart\tWitteveen",
             "metaDescription": "Bart Witteveen is the Lead Developer and Architect of Smartshore Ability. He has been the man who introduced Strapi within our team! ",
             "title": "Bart\tWitteveen",
             "description": "Bart Witteveen is the Lead Developer and Architect of Smartshore Ability. He has been the man who introduced Strapi within our team! ",
             "metaImage": {
-              "id": 133,
+              "id": "133",
               "name": "bart-witteveen.png",
               "alternativeText": "",
               "caption": "",
@@ -3594,7 +3594,7 @@
             }
           },
           "image": {
-            "id": 59,
+            "id": "59",
             "name": "bart-1-2.jpg",
             "alternativeText": "",
             "caption": "",
@@ -3662,14 +3662,14 @@
       ]
     },
     {
-      "id": 28,
+      "id": "28",
       "title": "A bit of Web Application Security",
       "start": "2021-04-22T18:00:00.000Z",
       "end": "2021-04-22T18:30:00.000Z",
       "description": "It's dangerous to go alone! Running a web application can be scary if you don't have experience in attacking and securing them. In this talk, we will go through principles of Web Application security and how they can impact a Strapi production. ",
       "speakers": [
         {
-          "id": 30,
+          "id": "30",
           "bio": "Vladimir works as a software engineer at Sqreen where he builds a tool to secure web applications. He used to be a professional security auditor and a web developer in agencies. He is part of the Node.js Security Working Group where he handles the security of Node.js. Vladimir also often give talks and training to software engineers to teach them about application security. He has been speaking at OWASP conferences (California and Europe), Node Summit, NodeConf (NL and Colombia) and Node+JS Interactive.",
           "slug": "Vladimir-de-Turckheim",
           "name": "Vladimir\tde Turckheim",
@@ -3683,13 +3683,13 @@
           "updated_at": "2021-03-12T22:30:28.276Z",
           "linkedin": null,
           "settings": {
-            "id": 42,
+            "id": "42",
             "metaTitle": "Vladimir\tde Turckheim",
             "metaDescription": "Vladimir works as a software engineer at Sqreen where he builds a tool to secure web applications. He used to be a professional security auditor and a web developer in agencies. He is part of the Node.js Security Working Group where he handles the security of Node.js. Vladimir also often give talks and training to software engineers to teach them about application security. He has been speaking at OWASP conferences (California and Europe), Node Summit, NodeConf (NL and Colombia) and Node+JS Interactive.",
             "title": "Vladimir\tde Turckheim",
             "description": "Vladimir works as a software engineer at Sqreen where he builds a tool to secure web applications. He used to be a professional security auditor and a web developer in agencies. He is part of the Node.js Security Working Group where he handles the security of Node.js. Vladimir also often give talks and training to software engineers to teach them about application security. He has been speaking at OWASP conferences (California and Europe), Node Summit, NodeConf (NL and Colombia) and Node+JS Interactive.",
             "metaImage": {
-              "id": 143,
+              "id": "143",
               "name": "Vladimir-de-Turckheim (2).png",
               "alternativeText": "",
               "caption": "",
@@ -3754,7 +3754,7 @@
             }
           },
           "image": {
-            "id": 35,
+            "id": "35",
             "name": "Vladimir de Turckheim",
             "alternativeText": "Vladimir de Turckheim",
             "caption": "Vladimir de Turckheim",
@@ -3789,14 +3789,14 @@
       ]
     },
     {
-      "id": 27,
+      "id": "27",
       "title": "Effective caching strategies for a faster JAMstack",
       "start": "2021-04-22T17:30:00.000Z",
       "end": "2021-04-22T18:00:00.000Z",
       "description": "JAMstack was born from a great desire for more performant web applications. As your applications grow, your caching strategies need to adapt to the ever-changing needs of your web application. Using the right caching strategy for the right type of web application is critical to experience the full benefits of the JAMstack. Come along with me on this journey to master the best practices and strategies to caching your JAMstack applications in a modern era.",
       "speakers": [
         {
-          "id": 34,
+          "id": "34",
           "bio": "Kati Frantz is a software engineer and Auth0 Ambassador passionate about mentoring and training other developers. He’s published over 150 hours of training resources on Udemy with over 65 000 students.  He’s worked with multiple teams and startups across the world to build powerful, modern, performant and scalable web applications. He is also a speaker and author of the Deploying Nodejs book. He is currently the core maintainer of the open-source headless CMS and API builder Tenseijs.",
           "slug": "Kati-Frantz",
           "name": "Kati\tFrantz",
@@ -3810,13 +3810,13 @@
           "updated_at": "2021-03-22T15:16:17.069Z",
           "linkedin": null,
           "settings": {
-            "id": 31,
+            "id": "31",
             "metaTitle": "Kati\tFrantz",
             "metaDescription": "Kati Frantz is a software engineer and Auth0 Ambassador passionate about mentoring and training other developers. He’s published over 150 hours of training resources on Udemy with over 65 000 students.  He’s worked with multiple teams and startups across the world to build powerful, modern, performant and scalable web applications. He is also a speaker and author of the Deploying Nodejs book. He is currently the core maintainer of the open-source headless CMS and API builder Tenseijs.",
             "title": "Kati\tFrantz",
             "description": "Kati Frantz is a software engineer and Auth0 Ambassador passionate about mentoring and training other developers. He’s published over 150 hours of training resources on Udemy with over 65 000 students.  He’s worked with multiple teams and startups across the world to build powerful, modern, performant and scalable web applications. He is also a speaker and author of the Deploying Nodejs book. He is currently the core maintainer of the open-source headless CMS and API builder Tenseijs.",
             "metaImage": {
-              "id": 127,
+              "id": "127",
               "name": "Kati-Frantz (3).png",
               "alternativeText": "",
               "caption": "",
@@ -3881,7 +3881,7 @@
             }
           },
           "image": {
-            "id": 37,
+            "id": "37",
             "name": "Kati\tFrantz",
             "alternativeText": "Kati\tFrantz",
             "caption": "Kati\tFrantz",
@@ -3916,14 +3916,14 @@
       ]
     },
     {
-      "id": 35,
+      "id": "35",
       "title": "Content Modeling Best Practices",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Content modeling is one of Strapi's modeling type.\nIn content type modelling, the user creates a JSON file that represents how data will be structured in the data base and a set of lifecycle hooks in javascript file that determines how and when data should be called into their web application.\n\nWith the lifecycle hook in place, content type data structures can only be used for one API’s model. \"",
       "speakers": [
         {
-          "id": 43,
+          "id": "43",
           "bio": "A female Nigerian with a Bachelor's degree in Marine engineering and Bootcamp certificates in Software development. She is also a full stack JavaScript developer (MEVN) stack and loves to share knowledge about her transition from marine engineering to software development to encourage people who love software development and don't know where to begin. She also contribute to FOSS in her free time.",
           "slug": "ukpai-ugochi",
           "name": "Ukpai Ugochi",
@@ -3937,13 +3937,13 @@
           "updated_at": "2021-03-12T22:29:14.074Z",
           "linkedin": null,
           "settings": {
-            "id": 40,
+            "id": "40",
             "metaTitle": "Ukpai Ugochi",
             "metaDescription": "A female Nigerian with a Bachelor's degree in Marine engineering and Bootcamp certificates in Software development. She is also a full stack JavaScript developer (MEVN) stack and loves to share knowledge about her transition from marine engineering to software development to encourage people who love software development and don't know where to begin. She also contribute to FOSS in her free time.",
             "title": "Ukpai Ugochi",
             "description": "A female Nigerian with a Bachelor's degree in Marine engineering and Bootcamp certificates in Software development. She is also a full stack JavaScript developer (MEVN) stack and loves to share knowledge about her transition from marine engineering to software development to encourage people who love software development and don't know where to begin. She also contribute to FOSS in her free time.",
             "metaImage": {
-              "id": 125,
+              "id": "125",
               "name": "ukpai-ugochi.png",
               "alternativeText": "",
               "caption": "",
@@ -4008,7 +4008,7 @@
             }
           },
           "image": {
-            "id": 60,
+            "id": "60",
             "name": "screenshot_20210129-195504.png",
             "alternativeText": "",
             "caption": "",
@@ -4054,14 +4054,14 @@
       ]
     },
     {
-      "id": 29,
+      "id": "29",
       "title": "Wise approach for community & commercial Strapi plugins development",
       "start": "2021-04-22T17:00:00.000Z",
       "end": "2021-04-22T17:30:00.000Z",
       "description": "Typically there are no tradeoffs, we have to choose if we’re engaging into the community or just focus on delivering commercial business value for our clients using open source. How to manage it wisely?",
       "speakers": [
         {
-          "id": 33,
+          "id": "33",
           "bio": "Engineering Manager & Principal Engineer @ VirtusLab who is building and leading teams for projects of various scale. A Full Stack Developer from origin and passion, for whom the concept of 'business day' does not apply, because passion is can't be limited. Founder & organizer of Krakow TypeScript User Group (KTUG) meetup, meet.js & conferences speaker.",
           "slug": "Mateusz-Ziarko",
           "name": "Mateusz Ziarko",
@@ -4075,13 +4075,13 @@
           "updated_at": "2021-03-16T14:46:03.604Z",
           "linkedin": null,
           "settings": {
-            "id": 34,
+            "id": "34",
             "metaTitle": "Mateusz Ziarko",
             "metaDescription": "Engineering Manager & Principal Engineer @ VirtusLab who is building and leading teams for projects of various scale. A Full Stack Developer from origin and passion, for whom the concept of 'business day' does not apply, because passion is can't be limited. Founder & organizer of Krakow TypeScript User Group (KTUG) meetup, meet.js & conferences speaker.",
             "title": "Mateusz Ziarko",
             "description": "Engineering Manager & Principal Engineer @ VirtusLab who is building and leading teams for projects of various scale. A Full Stack Developer from origin and passion, for whom the concept of 'business day' does not apply, because passion is can't be limited. Founder & organizer of Krakow TypeScript User Group (KTUG) meetup, meet.js & conferences speaker.",
             "metaImage": {
-              "id": 130,
+              "id": "130",
               "name": "Mateusz-Ziarko (3).png",
               "alternativeText": "",
               "caption": "",
@@ -4146,7 +4146,7 @@
             }
           },
           "image": {
-            "id": 36,
+            "id": "36",
             "name": "Mateusz\tZiarko",
             "alternativeText": "Mateusz\tZiarko",
             "caption": "Mateusz\tZiarko",
@@ -4181,14 +4181,14 @@
       ]
     },
     {
-      "id": 62,
+      "id": "62",
       "title": "Strapi + Nuxt.js + Composition Api = ❤️",
       "start": "2021-04-22T19:15:00.000Z",
       "end": "2021-04-22T19:45:00.000Z",
       "description": "Nuxt.js - the intuitive framework built on top of Vue - is the perfect fit for Strapi, especially when it comes to Jamstack.\nIn this session, we will build the fitting frontend for our Strapi CMS by leveraging the Composition API and ensure it is performant and fast.\nGet insights into the world of Vue and Nuxt, useful patterns for the Composition API and possibly some sneak peaks",
       "speakers": [
         {
-          "id": 60,
+          "id": "60",
           "bio": "Alexander Lichter is a Nuxt.js maintainer and web development consultant in his twenties. When not working on open-source projects, he gives talks and workshops, writes blog posts or helps other companies with regards to web development, mainly focussing on Vue.js and Nuxt.js.",
           "slug": "alexander-lichter",
           "name": "Alexander Lichter",
@@ -4202,13 +4202,13 @@
           "updated_at": "2021-04-06T13:03:05.208Z",
           "linkedin": null,
           "settings": {
-            "id": 65,
+            "id": "65",
             "metaTitle": "Alexander Lichter",
             "metaDescription": "Alexander Lichter is a Nuxt.js maintainer and web development consultant in his twenties. When not working on open-source projects, he gives talks and workshops, writes blog posts or helps other companies with regards to web development, mainly focussing on Vue.js and Nuxt.js.",
             "title": "Alexander Lichter",
             "description": "Alexander Lichter is a Nuxt.js maintainer and web development consultant in his twenties. When not working on open-source projects, he gives talks and workshops, writes blog posts or helps other companies with regards to web development, mainly focussing on Vue.js and Nuxt.js.",
             "metaImage": {
-              "id": 194,
+              "id": "194",
               "name": "alexander-lichter-2.png",
               "alternativeText": "",
               "caption": "",
@@ -4273,7 +4273,7 @@
             }
           },
           "image": {
-            "id": 191,
+            "id": "191",
             "name": "me@2x.jpg",
             "alternativeText": "",
             "caption": "",
@@ -4319,14 +4319,14 @@
       ]
     },
     {
-      "id": 37,
+      "id": "37",
       "title": "The state of modern e-commerce",
       "start": "2021-04-22T17:30:00.000Z",
       "end": "2021-04-22T18:00:00.000Z",
       "description": "Modern e-commerce is a beautiful mess. Let's unscramble it. In this session, Snipcart CEO Francois Lanthier Nadeau will explore:\n\n1. Technical paradigms overview: monolithic, Jamstack, and headless commerce\n2. The fragmentation of e-commerce functionality\n3. The explosion of e-commerce offering: new solutions categories\n4. How to pick your e-commerce stack\n\n•No prerequisites \n•Skills level: beginner",
       "speakers": [
         {
-          "id": 38,
+          "id": "38",
           "bio": "François builds, learns, and laughs in beautiful Québec City. He's CEO at Snipcart, an e-commerce solution for developers. He's also a board member and mentor at Apollo13, a startup program he helped launch. A marketer by trade, he was responsible for building Snipcart's initial growth machine, which runs on good content, community, and SEO. His writing has been featured on Indie Hackers, The Startup, freeCodeCamp, Baremetrics, and more publications.\nSince joining Snipcart, he gave startup and e-commerce presentations in 14+ events all over the world (Canada, USA, France, Ireland). He worked remotely from half a dozen different countries in his first years on the market.",
           "slug": "francois-lanthier-nadeau",
           "name": "Francois Lanthier Nadeau",
@@ -4340,13 +4340,13 @@
           "updated_at": "2021-03-12T22:22:51.188Z",
           "linkedin": null,
           "settings": {
-            "id": 27,
+            "id": "27",
             "metaTitle": "Francois Lanthier Nadeau",
             "metaDescription": "François builds, learns, and laughs in beautiful Québec City. He's CEO at Snipcart, an e-commerce solution for developers. He's also a board member and mentor at Apollo13, a startup program he helped launch. A marketer by trade, he was responsible for building Snipcart's initial growth machine, which runs on good content, community, and SEO. His writing has been featured on Indie Hackers, The Startup, freeCodeCamp, Baremetrics, and more publications.\nSince joining Snipcart, he gave startup and e-commerce presentations in 14+ events all over the world (Canada, USA, France, Ireland). He worked remotely from half a dozen different countries in his first years on the market.",
             "title": "Francois Lanthier Nadeau",
             "description": "François builds, learns, and laughs in beautiful Québec City. He's CEO at Snipcart, an e-commerce solution for developers. He's also a board member and mentor at Apollo13, a startup program he helped launch. A marketer by trade, he was responsible for building Snipcart's initial growth machine, which runs on good content, community, and SEO. His writing has been featured on Indie Hackers, The Startup, freeCodeCamp, Baremetrics, and more publications.\nSince joining Snipcart, he gave startup and e-commerce presentations in 14+ events all over the world (Canada, USA, France, Ireland). He worked remotely from half a dozen different countries in his first years on the market.",
             "metaImage": {
-              "id": 139,
+              "id": "139",
               "name": "francois-lanthier-nadeau (1).png",
               "alternativeText": "",
               "caption": "",
@@ -4411,7 +4411,7 @@
             }
           },
           "image": {
-            "id": 46,
+            "id": "46",
             "name": "FLN - CEO, Snipcart (square).png",
             "alternativeText": "",
             "caption": "",
@@ -4479,14 +4479,14 @@
       ]
     },
     {
-      "id": 39,
+      "id": "39",
       "title": "Keynote",
       "start": "2021-04-22T15:00:00.000Z",
       "end": "2021-04-22T16:30:00.000Z",
       "description": "StrapiConf Keynote featuring Strapi co-founders, CTO, well-known speaker from the JAMstack ecosystem as well as top Strapi users and customers. ",
       "speakers": [
         {
-          "id": 50,
+          "id": "50",
           "bio": "Before starting Vercel (formerly ZEIT) in November 2015, Guillermo was the CTO and co-founder of LearnBoost and Cloudup, acquired by Automattic in 2013. He's the creator of several popular Node.js open source libraries like Socket.io, Mongoose and Slackin. Prior to Node.js, he was a core developer of the MooTools frontend toolkit. He is determined to make the web better.",
           "slug": "Guillermo-Rauch",
           "name": "Guillermo Rauch",
@@ -4500,13 +4500,13 @@
           "updated_at": "2021-03-16T22:49:26.384Z",
           "linkedin": null,
           "settings": {
-            "id": 28,
+            "id": "28",
             "metaTitle": "Guillermo Rauch",
             "metaDescription": "Before starting Vercel (formerly ZEIT) in November 2015, Guillermo was the CTO and co-founder of LearnBoost and Cloudup, acquired by Automattic in 2013. He's the creator of several popular Node.js open source libraries like Socket.io, Mongoose and Slackin. Prior to Node.js, he was a core developer of the MooTools frontend toolkit. He is determined to make the web better.",
             "title": "Guillermo Rauch",
             "description": "Before starting Vercel (formerly ZEIT) in November 2015, Guillermo was the CTO and co-founder of LearnBoost and Cloudup, acquired by Automattic in 2013. He's the creator of several popular Node.js open source libraries like Socket.io, Mongoose and Slackin. Prior to Node.js, he was a core developer of the MooTools frontend toolkit. He is determined to make the web better.",
             "metaImage": {
-              "id": 73,
+              "id": "73",
               "name": "guillermo.jpeg",
               "alternativeText": "",
               "caption": "",
@@ -4538,7 +4538,7 @@
             }
           },
           "image": {
-            "id": 73,
+            "id": "73",
             "name": "guillermo.jpeg",
             "alternativeText": "",
             "caption": "",
@@ -4571,7 +4571,7 @@
           "cardPortrait": null
         },
         {
-          "id": 49,
+          "id": "49",
           "bio": "Pierre is the co-founder and CEO of Strapi. Frustrated by the limitations of traditional CMS while working as a freelance developer, he co-founded, with Aurélien Georget and Jim Laurie, Strapi, the leading open-source Headless CMS. He is a lover of Node.js and APIs, and when not coding, it’s likely he will be windsurfing.",
           "slug": "pierre-burgy",
           "name": "Pierre Burgy",
@@ -4585,13 +4585,13 @@
           "updated_at": "2021-03-16T22:49:26.384Z",
           "linkedin": null,
           "settings": {
-            "id": 35,
+            "id": "35",
             "metaTitle": "Pierre Burgy",
             "metaDescription": "Pierre is the co-founder and CEO of Strapi. Frustrated by the limitations of traditional CMS while working as a freelance developer, he co-founded, with Aurélien Georget and Jim Laurie, Strapi, the leading open-source Headless CMS. He is a lover of Node.js and APIs, and when not coding, it’s likely he will be windsurfing.",
             "title": "Pierre Burgy",
             "description": "Pierre is the co-founder and CEO of Strapi. Frustrated by the limitations of traditional CMS while working as a freelance developer, he co-founded, with Aurélien Georget and Jim Laurie, Strapi, the leading open-source Headless CMS. He is a lover of Node.js and APIs, and when not coding, it’s likely he will be windsurfing.",
             "metaImage": {
-              "id": 70,
+              "id": "70",
               "name": "STRAPI-840-OK.jpg",
               "alternativeText": "",
               "caption": "",
@@ -4656,7 +4656,7 @@
             }
           },
           "image": {
-            "id": 70,
+            "id": "70",
             "name": "STRAPI-840-OK.jpg",
             "alternativeText": "",
             "caption": "",
@@ -4722,7 +4722,7 @@
           "cardPortrait": null
         },
         {
-          "id": 48,
+          "id": "48",
           "bio": "Alex is the engineering lead at Strapi. He leads the development of technology for the company. He is also passionate about pastry making and likes helping people build innovative products.",
           "slug": "alexandre-bodin",
           "name": "Alexandre Bodin",
@@ -4736,13 +4736,13 @@
           "updated_at": "2021-03-16T22:49:26.384Z",
           "linkedin": null,
           "settings": {
-            "id": 17,
+            "id": "17",
             "metaTitle": "Alexandre Bodin",
             "metaDescription": "Alex is the engineering lead at Strapi. He leads the development of technology for the company. He is also passionate about pastry making and likes helping people build innovative products.",
             "title": "Alexandre Bodin",
             "description": "Alex is the engineering lead at Strapi. He leads the development of technology for the company. He is also passionate about pastry making and likes helping people build innovative products.",
             "metaImage": {
-              "id": 69,
+              "id": "69",
               "name": "1574279301386.jpeg",
               "alternativeText": "",
               "caption": "",
@@ -4774,7 +4774,7 @@
             }
           },
           "image": {
-            "id": 69,
+            "id": "69",
             "name": "1574279301386.jpeg",
             "alternativeText": "",
             "caption": "",
@@ -4807,7 +4807,7 @@
           "cardPortrait": null
         },
         {
-          "id": 51,
+          "id": "51",
           "bio": "He’s a product builder, CPO & co-founder at Strapi. He has been a huge fan of CMSs since he’s 15 years old when he developed his first CMS. He likes playing basketball and board games, especially Catan.",
           "slug": "aurelien-georget",
           "name": "Aurélien Georget",
@@ -4821,13 +4821,13 @@
           "updated_at": "2021-03-16T22:49:26.384Z",
           "linkedin": null,
           "settings": {
-            "id": 20,
+            "id": "20",
             "metaTitle": "Aurélien Georget",
             "metaDescription": "He’s a product builder, CPO & co-founder at Strapi. He has been a huge fan of CMSs since he’s 15 years old when he developed his first CMS. He likes playing basketball and board games, especially Catan.",
             "title": "Aurélien Georget",
             "description": "He’s a product builder, CPO & co-founder at Strapi. He has been a huge fan of CMSs since he’s 15 years old when he developed his first CMS. He likes playing basketball and board games, especially Catan.",
             "metaImage": {
-              "id": 74,
+              "id": "74",
               "name": "profile_picture_1.jpg",
               "alternativeText": "",
               "caption": "",
@@ -4892,7 +4892,7 @@
             }
           },
           "image": {
-            "id": 74,
+            "id": "74",
             "name": "profile_picture_1.jpg",
             "alternativeText": "",
             "caption": "",
@@ -4960,14 +4960,14 @@
       ]
     },
     {
-      "id": 31,
+      "id": "31",
       "title": "Boosting Productivity and Team Velocity with Strapi",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Enhance your team's velocity and take productivity to the next level. ",
       "speakers": [
         {
-          "id": 47,
+          "id": "47",
           "bio": "IT Project Manager with over 5 years of experience in Project Management and Change Management in the Information Technology and Hotel industry",
           "slug": "arlene-zavala",
           "name": "Arlene Zavala",
@@ -4981,13 +4981,13 @@
           "updated_at": "2021-03-12T22:11:03.213Z",
           "linkedin": "https://www.linkedin.com/in/azavala/",
           "settings": {
-            "id": 19,
+            "id": "19",
             "metaTitle": "Arlene Zavala",
             "metaDescription": "IT Project Manager with over 5 years of experience in Project Management and Change Management in the Information Technology and Hotel industry",
             "title": "Arlene Zavala",
             "description": "IT Project Manager with over 5 years of experience in Project Management and Change Management in the Information Technology and Hotel industry",
             "metaImage": {
-              "id": 65,
+              "id": "65",
               "name": "DSCF5731.jpg",
               "alternativeText": "",
               "caption": "",
@@ -5052,7 +5052,7 @@
             }
           },
           "image": {
-            "id": 65,
+            "id": "65",
             "name": "DSCF5731.jpg",
             "alternativeText": "",
             "caption": "",
@@ -5120,14 +5120,14 @@
       ]
     },
     {
-      "id": 47,
+      "id": "47",
       "title": "Extending your Strapi app with lifecycle hooks, controllers and services",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-03-22T19:15:00.000Z",
       "description": "A quick introduction to the most useful tools for extending your Strapi app's functionality. We will slugify a blog post with a lifecycle method, attach an author to it in the controller and see an example of how a Service can be used.",
       "speakers": [
         {
-          "id": 57,
+          "id": "57",
           "bio": "Scott Agirs' is an entrepreneur-turned software engineer. Having built and sold his first website at the early age of 14, software development has always been a part of his life. Last few years with full-steam and Strapi in his tool belt his helping early-stage JavaScript-built startups to get off the ground.",
           "slug": "scott-agirs-neminskis",
           "name": "Scott Agirs Neminskis",
@@ -5141,13 +5141,13 @@
           "updated_at": "2021-03-15T20:27:01.529Z",
           "linkedin": "https://www.linkedin.com/in/scottagirs/",
           "settings": {
-            "id": 38,
+            "id": "38",
             "metaTitle": "Scott Agirs Neminskis",
             "metaDescription": "Scott Agirs' is an entrepreneur-turned software engineer. Having built and sold his first website at the early age of 14, software development has always been a part of his life. Last few years with full-steam and Strapi in his tool belt his helping early-stage JavaScript-built startups to get off the ground.",
             "title": "Scott Agirs Neminskis",
             "description": "Scott Agirs' is an entrepreneur-turned software engineer. Having built and sold his first website at the early age of 14, software development has always been a part of his life. Last few years with full-steam and Strapi in his tool belt his helping early-stage JavaScript-built startups to get off the ground.",
             "metaImage": {
-              "id": 142,
+              "id": "142",
               "name": "scott-agirs-neminskis (1).png",
               "alternativeText": "",
               "caption": "",
@@ -5212,7 +5212,7 @@
             }
           },
           "image": {
-            "id": 109,
+            "id": "109",
             "name": "scott.jpeg",
             "alternativeText": "",
             "caption": "",
@@ -5247,14 +5247,14 @@
       ]
     },
     {
-      "id": 63,
+      "id": "63",
       "title": "Examining Observability in Node.js using Strapi",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Observability is important to learn what’s happening in your app to stay competitive and create the most performant and efficient applications, following the best practices.\n\nIn this talk, we will explore useful tools to examine observability in your applications and how it will speed up development, produce better code while improving reliability and uptime. Don’t miss it!",
       "speakers": [
         {
-          "id": 66,
+          "id": "66",
           "bio": "Liz is a community-taught Software Engineer focused on JavaScript, and Head of Developer Relations at NodeSource. She organizes different community events such as JSConf Colombia, Pioneras Developers, Startup Weekend and has been a speaker at EmpireJS, MedellinJS, PionerasDev, and Node+JS Interactive.\n\nShe loves sharing knowledge, promoting JavaScript and Node.js ecosystem and participating in key tech events and conferences to enhance her knowledge and network.",
           "slug": "liz-parody",
           "name": "Liz Parody",
@@ -5268,13 +5268,13 @@
           "updated_at": "2021-04-06T13:12:50.281Z",
           "linkedin": null,
           "settings": {
-            "id": 66,
+            "id": "66",
             "metaTitle": "Liz Parody",
             "metaDescription": "Liz is a community-taught Software Engineer focused on JavaScript, and Head of Developer Relations at NodeSource. She organizes different community events such as JSConf Colombia, Pioneras Developers, Startup Weekend and has been a speaker at EmpireJS, MedellinJS, PionerasDev, and Node+JS Interactive.\n\nShe loves sharing knowledge, promoting JavaScript and Node.js ecosystem and participating in key tech events and conferences to enhance her knowledge and network.",
             "title": "Liz Parody",
             "description": "Liz is a community-taught Software Engineer focused on JavaScript, and Head of Developer Relations at NodeSource. She organizes different community events such as JSConf Colombia, Pioneras Developers, Startup Weekend and has been a speaker at EmpireJS, MedellinJS, PionerasDev, and Node+JS Interactive.\n\nShe loves sharing knowledge, promoting JavaScript and Node.js ecosystem and participating in key tech events and conferences to enhance her knowledge and network.",
             "metaImage": {
-              "id": 196,
+              "id": "196",
               "name": "liz-parody-2.png",
               "alternativeText": "",
               "caption": "",
@@ -5339,7 +5339,7 @@
             }
           },
           "image": {
-            "id": 195,
+            "id": "195",
             "name": "V1t9glNx_400x400.jpg",
             "alternativeText": "",
             "caption": "",
@@ -5374,14 +5374,14 @@
       ]
     },
     {
-      "id": 30,
+      "id": "30",
       "title": "Editorial workflows, GIT them here!",
       "start": "2021-04-22T19:15:00.000Z",
       "end": "2021-05-16T19:45:00.000Z",
       "description": "How do we reconcile the differences between the needs of our developers and those of our content creation teams? Have you ever run into an editorial team who just doesn’t want to get their hands dirty with Git? There’s plenty of them. Strapi’s fantastic for giving them an interface to organize content to be consumed by frontends, but many of their needs work directly against Git-centric development workflows (aka GitOps) we see today.\n \nIn this talk, we’ll cover how Strapi can be deployed alongside a frontend consuming application on a single project on Platform.sh. From there, we’ll slowly piece together two parallel workflows for teams with very different needs in mind:\n- Editorial: don’t touch Git. Live content previews. Runtime collection creation that moves to master. \n- Development: Git as the source of truth, repeatable builds, isolated environments, Infrastructure-as-code. ",
       "speakers": [
         {
-          "id": 39,
+          "id": "39",
           "bio": "Chad Carlson is a DevRel Engineer at Platform.sh, and during that time he has worked with Strapi quite a bit during his time documenting Node.js support and decoupled websites. He's interested in when decoupling is the right choice for teams (and when), and if he's not teaching himself a new programming language he can usually be found writing or cooking something or other. ",
           "slug": "chad-carlson",
           "name": "Chad Carlson",
@@ -5395,13 +5395,13 @@
           "updated_at": "2021-03-31T11:11:42.521Z",
           "linkedin": null,
           "settings": {
-            "id": 23,
+            "id": "23",
             "metaTitle": "Chad Carlson",
             "metaDescription": "Chad Carlson is a DevRel Engineer at Platform.sh, and during that time he has worked with Strapi quite a bit during his time documenting Node.js support and decoupled websites. He's interested in when decoupling is the right choice for teams (and when), and if he's not teaching himself a new programming language he can usually be found writing or cooking something or other. ",
             "title": "Chad Carlson",
             "description": "Chad Carlson is a DevRel Engineer at Platform.sh, and during that time he has worked with Strapi quite a bit during his time documenting Node.js support and decoupled websites. He's interested in when decoupling is the right choice for teams (and when), and if he's not teaching himself a new programming language he can usually be found writing or cooking something or other. ",
             "metaImage": {
-              "id": 135,
+              "id": "135",
               "name": "chad-carlson (3).png",
               "alternativeText": "",
               "caption": "",
@@ -5466,7 +5466,7 @@
             }
           },
           "image": {
-            "id": 78,
+            "id": "78",
             "name": "unnamed.jpg",
             "alternativeText": "",
             "caption": "",
