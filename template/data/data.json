@@ -1279,7 +1279,7 @@
       "title": "Architect",
       "talk": {
         "id": 33,
-        "title": "Creating a new media newspaper platform                 ",
+        "title": "Creating a new media newspaper platform",
         "start": "2021-04-22T18:00:00.000Z",
         "end": "2021-04-22T18:30:00.000Z",
         "description": "As Strapi partner, Smartshore Ability (The Netherlands) implemented the new website for RD (https://www.rd.nl/). RD is the biggest Dutch religious newspaper and exists in both digital and physical formats. \nSo in this talk, we will present the project, why we chose Strapi, the architecture of the project as well the challenges we ran into. Where did Strapi fail and what solutions did Smartshore Ability have to develop to overcome these challenges?    \n",
@@ -1289,7 +1289,7 @@
         "link": null
       },
       "image": "./speakers-image-bart-witteveen.jpg"
-    },
+    }
   ],
   "stages": [
     {
