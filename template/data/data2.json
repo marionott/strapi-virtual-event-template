@@ -1,0 +1,764 @@
+{
+  "sponsors": [
+    {
+      "id": "15",
+      "slug": "render",
+      "name": "Render",
+      "website": "https://render.com/",
+      "description": "Render is the fastest way to host anything online: from simple static sites to complex applications with dozens of microservices. Using Render, developers and teams can focus on building products instead of managing servers.",
+      "discord": null,
+      "youtubeSlug": "uzkrBBqQHe8",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "Try Render",
+      "callToActionLink": "https://render.com/",
+      "links": [
+        {
+          "id": "37",
+          "text": "Overview: Deploy Strapi ",
+          "url": "https://render.com/docs/deploy-strapi "
+        },
+        {
+          "id": "38",
+          "text": "Tutorial: One-click deploy",
+          "url": "https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/installation/render.html"
+        },
+        {
+          "id": "39",
+          "text": "Tutorial: Convert existing project",
+          "url": "https://strapi.io/documentation/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/render.html"
+        }
+      ],
+      "logo": "./sponsors-logo-render.jpg",
+      "cardImage": "./sponsors-cardImage-render.jpg"
+    },
+    {
+      "id": "8",
+      "slug": "mux",
+      "name": "MUX",
+      "website": "https://mux.com/",
+      "description": "Mux is a powerful API to video and performance monitoring platform. POST a video; GET back a video URL that plays well on any device. Founded by video experts, including the creators of the biggest open-source video player (Video.js), Mux makes beautiful video possible for every development team",
+      "discord": null,
+      "youtubeSlug": "XQ_dSRKl-MY",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "Learn More",
+      "callToActionLink": "https://get.mux.com/3sUSAA7",
+      "links": [
+        {
+          "id": "28",
+          "text": "Learn more about video",
+          "url": "https://mux.com/blog/category/video-education/"
+        },
+        {
+          "id": "29",
+          "text": "Mux Video Docs",
+          "url": "https://docs.mux.com/guides/video"
+        },
+        {
+          "id": "30",
+          "text": "Have questions? Talk to us!",
+          "url": "https://mux.com/sales-contact"
+        }
+      ],
+      "logo": "./sponsors-logo-mux.jpg",
+      "cardImage": "./sponsors-cardImage-mux.jpg"
+    },
+    {
+      "id": "3",
+      "slug": "accedo-tv",
+      "name": "Accedo",
+      "website": "https://www.accedo.tv/",
+      "description": "A video solutions provider delivering premium video experiences. We offer a combination of products & services to support customers at every stage of the video business journey, from strategy & design, through to delivery & post-launch optimization",
+      "discord": null,
+      "youtubeSlug": "Em-dffMcJxM",
+      "tier": "silver",
+      "tierRank": "3",
+      "callToAction": "Welcome to Accedo",
+      "callToActionLink": "https://www.accedo.tv/",
+      "links": [
+        {
+          "id": "18",
+          "text": "Take a closer look at our customer cases",
+          "url": "https://www.accedo.tv/customers/"
+        },
+        {
+          "id": "19",
+          "text": "What´s new in the OTT Industry",
+          "url": "https://www.accedo.tv/white-papers/ott-whatsnew-trendreport-summer20/"
+        },
+        {
+          "id": "20",
+          "text": "Meet the Team",
+          "url": "https://www.accedo.tv/meet-the-team-ryan-campion-accedo-software-ios-engineer/"
+        }
+      ],
+      "logo": "./sponsors-logo-accedo-tv.jpg",
+      "cardImage": "./sponsors-cardImage-accedo-tv.jpg"
+    },
+    {
+      "id": "11",
+      "slug": "Vercel",
+      "name": "Vercel",
+      "website": "https://vercel.com/",
+      "description": "Vercel is the best place to deploy your frontend app. Our platform enables frontend teams to do their best work. Creators of Next.js.",
+      "discord": null,
+      "youtubeSlug": "Kas0jIob5QQ",
+      "tier": "diamond",
+      "tierRank": "1",
+      "callToAction": "Try Vercel",
+      "callToActionLink": "https://vercel.com/new?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf",
+      "links": [
+        {
+          "id": "34",
+          "text": "Learn Next.js",
+          "url": "https://nextjs.org/learn/basics/create-nextjs-app?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
+        },
+        {
+          "id": "35",
+          "text": "Analytics",
+          "url": "https://vercel.com/analytics?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
+        },
+        {
+          "id": "36",
+          "text": "Docs",
+          "url": "https://vercel.com/docs?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf"
+        }
+      ],
+      "logo": "./sponsors-logo-Vercel.jpg",
+      "cardImage": "./sponsors-cardImage-Vercel.jpg"
+    },
+    {
+      "id": "9",
+      "slug": "hasura",
+      "name": "Hasura",
+      "website": "https://hasura.info/30n1JoF",
+      "description": "Hasura’s open-source engine gives you instant GraphQL & REST APIs that unify your data and power modern applications\n",
+      "discord": null,
+      "youtubeSlug": "F2QZzdQ9igM",
+      "tier": "silver",
+      "tierRank": "3",
+      "callToAction": "Sign up",
+      "callToActionLink": "https://hasura.info/3sWOsPW",
+      "links": [],
+      "logo": "./sponsors-logo-hasura.jpg",
+      "cardImage": "./sponsors-cardImage-hasura.jpg"
+    },
+    {
+      "id": "12",
+      "slug": "saleor",
+      "name": "Saleor",
+      "website": "https://saleor.io/",
+      "description": "Saleor’s the fastest-growing open-source, headless commerce platform. Our developer-first approach -- open-source with cloud option, GraphQL-first and Next.js ready -- helps brands like Lush deliver revolutionary frontend experiences.",
+      "discord": null,
+      "youtubeSlug": "zd0_S_FPzKg",
+      "tier": "diamond",
+      "tierRank": "1",
+      "callToAction": "Learn More",
+      "callToActionLink": "https://saleor.io/",
+      "links": [
+        {
+          "id": "31",
+          "text": "Get a sandbox",
+          "url": "https://mirumee.typeform.com/to/gpqvPOot?utm_source=strapiconf&utm_medium=strapiconf&utm_campaign=get-sandbox"
+        },
+        {
+          "id": "32",
+          "text": "GitHub",
+          "url": "https://github.com/mirumee/saleor"
+        },
+        {
+          "id": "33",
+          "text": "Documentation",
+          "url": "https://docs.saleor.io/docs/"
+        }
+      ],
+      "logo": "./sponsors-logo-saleor.jpg",
+      "cardImage": "./sponsors-cardImage-saleor.jpg"
+    },
+    {
+      "id": "1",
+      "slug": "snipcart",
+      "name": "Snipcart",
+      "website": "https://snipcart.com/",
+      "description": "Snipcart is a developer-first, low-footprint commerce platform. Its frontend is stack-agnostic, its back-office; feature-rich.",
+      "discord": "",
+      "youtubeSlug": "3XyFwc7sUCw",
+      "tier": "diamond",
+      "tierRank": "1",
+      "callToAction": "Register interest",
+      "callToActionLink": "https://app.snipcart.com/register?utm_source=StrapiConf",
+      "links": [
+        {
+          "id": "1",
+          "text": "Does Snipcart have a head?",
+          "url": "https://www.youtube.com/watch?v=9WB8OXZnH4k"
+        },
+        {
+          "id": "13",
+          "text": "Building a Jamstack Food Ordering App",
+          "url": "https://strapi.io/blog/building-a-jamstack-food-ordering-app-with-strapi-gridsome-and-snipcart-1-6"
+        },
+        {
+          "id": "14",
+          "text": "Strapi Starter Nuxt.js e-commerce",
+          "url": "https://strapi.io/blog/strapi-starter-nuxt-js-e-commerce"
+        }
+      ],
+      "logo": "./sponsors-logo-snipcart.jpg",
+      "cardImage": "./sponsors-cardImage-snipcart.jpg"
+    },
+    {
+      "id": "5",
+      "slug": "nuxt-js",
+      "name": "NuxtJS",
+      "website": "https://nuxtjs.org/",
+      "description": "French based company composed of remote first-class web developper passionated by the Open Source development and its community. We are focused on solving web developers issues by providing modern web solutions.",
+      "discord": null,
+      "youtubeSlug": "goUq_urdeHg",
+      "tier": "silver",
+      "tierRank": "3",
+      "callToAction": "Contribute",
+      "callToActionLink": "https://opencollective.com/nuxtjs",
+      "links": [
+        {
+          "id": "25",
+          "text": "Get Started",
+          "url": "https://nuxtjs.org/docs/2.x/get-started/installation"
+        },
+        {
+          "id": "26",
+          "text": "GitHub",
+          "url": "https://github.com/nuxt/nuxt.js"
+        },
+        {
+          "id": "27",
+          "text": "Nuxt with Strapi",
+          "url": "https://strapi.nuxtjs.org/"
+        }
+      ],
+      "logo": "./sponsors-logo-nuxt-js.jpg",
+      "cardImage": "./sponsors-cardImage-nuxt-js.jpg"
+    },
+    {
+      "id": "13",
+      "slug": "magic",
+      "name": "Magic",
+      "website": "https://magic.link/",
+      "description": "Magic empowers developers with tools that make passwordless auth simple, with the best user experience and long-term security built-in. With a few lines of code, no bloat, and zero unnecessary config, your app can support a variety of passwordless login methods.",
+      "discord": null,
+      "youtubeSlug": "aeOx8WJCAr4",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "Try Magic",
+      "callToActionLink": "https://dashboard.magic.link/signup ",
+      "links": [
+        {
+          "id": "40",
+          "text": "Magic Guides",
+          "url": "https://magic.link/guides"
+        },
+        {
+          "id": "41",
+          "text": "Magic’s Discourse Forum",
+          "url": "https://community.magic.link/ "
+        },
+        {
+          "id": "46",
+          "text": "Magic Strapi Plugin",
+          "url": "https://magic.link/posts/magic-strapi-plugin"
+        }
+      ],
+      "logo": "./sponsors-logo-magic.jpg",
+      "cardImage": "./sponsors-cardImage-magic.jpg"
+    },
+    {
+      "id": "7",
+      "slug": "netlify",
+      "name": "Netlify",
+      "website": "https://www.netlify.com/",
+      "description": "Used by more than 1.5M web developers & businesses, the Netlify platform provides modern build workflows, serverless functions and a global multi-cloud Edge network to deliver the most performant, secure & scalable websites & applications",
+      "discord": null,
+      "youtubeSlug": "XG8nJDWu3a0",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "",
+      "callToActionLink": "",
+      "links": [
+        {
+          "id": "70",
+          "text": "Deliver web projects 10x faster",
+          "url": "https://www.netlify.com/whitepaper/"
+        },
+        {
+          "id": "71",
+          "text": "Set up Strapi as a CMS for Gatsby",
+          "url": "https://www.youtube.com/watch?v=JkBxyurjeI8&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx"
+        },
+        {
+          "id": "72",
+          "text": "Build Jamstack Apps with Custom APIs",
+          "url": "https://www.youtube.com/watch?v=8Mkh8S66SZY&list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx"
+        }
+      ],
+      "logo": "./sponsors-logo-netlify.jpg",
+      "cardImage": "./sponsors-cardImage-netlify.jpg"
+    },
+    {
+      "id": "2",
+      "slug": "platform-sh",
+      "name": "Platform.sh",
+      "website": "https://platform.sh/",
+      "description": "Platform.sh is the end-to-end PaaS that enables you to build, run, and scale websites and apps in the languages and frameworks your teams need.",
+      "discord": null,
+      "youtubeSlug": "Ub-FndTfagw",
+      "tier": "diamond",
+      "tierRank": "1",
+      "callToAction": "Get Platform.sh swag!",
+      "callToActionLink": "https://lp.platform.sh/Strapi-Swag.html",
+      "links": [
+        {
+          "id": "15",
+          "text": "Launch Strapi with one click",
+          "url": "https://platform.sh/marketplace/strapi/"
+        },
+        {
+          "id": "16",
+          "text": "How to deploy Gatsby with Strapi on Platform.sh",
+          "url": "https://docs.platform.sh/guides/gatsby/headless/strapi.html"
+        },
+        {
+          "id": "17",
+          "text": "Going headless: pulling Strapi and WordPress content during your Gatsby builds",
+          "url": "https://platform.sh/blog/2020/headless-strapi-and-wordpress-content-with-gatsby-builds/"
+        }
+      ],
+      "logo": "./sponsors-logo-platform-sh.jpg",
+      "cardImage": "./sponsors-cardImage-platform-sh.jpg"
+    },
+    {
+      "id": "10",
+      "slug": "commerce-layer",
+      "name": "Commerce Layer ",
+      "website": "https://commercelayer.io ",
+      "description": "A headless commerce platform and order management system that lets you add global shopping capabilities to any website, mobile app, chatbot, or IoT device, with ease. Perfect fit for the best-of-breed CMSs, static site generators, and any other tools you already master and love.",
+      "discord": null,
+      "youtubeSlug": "A5TGGfWetEw ",
+      "tier": "diamond",
+      "tierRank": "1",
+      "callToAction": " Request Demo",
+      "callToActionLink": "https://commercelayer.io/demo/",
+      "links": [
+        {
+          "id": "55",
+          "text": "Homepage",
+          "url": "https://commercelayer.io"
+        },
+        {
+          "id": "56",
+          "text": "Developer Resources",
+          "url": "https://commercelayer.io/developers/"
+        },
+        {
+          "id": "57",
+          "text": "Platform Overview",
+          "url": "https://commercelayer.io/platform/"
+        }
+      ],
+      "logo": "./sponsors-logo-commerce-layer.jpg",
+      "cardImage": "./sponsors-cardImage-commerce-layer.jpg"
+    },
+    {
+      "id": "4",
+      "slug": "meilisearch",
+      "name": "MeiliSearch",
+      "website": "https://meilisearch.com",
+      "description": "An open-source search engine that offers a blazingly fast search-as-you-type experience for your website or application. It is designed to deliver relevant results right out of the box, while still offering multiple options for customization & fine-tuning.",
+      "discord": null,
+      "youtubeSlug": "zd0_S_FPzKg",
+      "tier": "diamond",
+      "tierRank": "1",
+      "callToAction": "Try Strapi Plugin",
+      "callToActionLink": "https://github.com/meilisearch/strapi-plugin-meilisearch",
+      "links": [
+        {
+          "id": "21",
+          "text": "MeiliSearch Search Engine",
+          "url": "https://github.com/meilisearch/MeiliSearch"
+        },
+        {
+          "id": "22",
+          "text": "MeiliSearch Documentation",
+          "url": "https://docs.meilisearch.com/"
+        },
+        {
+          "id": "23",
+          "text": "MeiliSearch Strapi Plugin",
+          "url": "https://github.com/meilisearch/strapi-plugin-meilisearch"
+        }
+      ],
+      "logo": "./sponsors-logo-meilisearch.jpg",
+      "cardImage": "./sponsors-cardImage-meilisearch.jpg"
+    },
+    {
+      "id": "14",
+      "slug": "gatsby",
+      "name": "Gatsby",
+      "website": "https://www.gatsbyjs.com/",
+      "description": "Gatsby, the modern frontend framework for React, can integrate content from Strapi with content from a broad range of sources such as traditional CMSs and commerce platforms using a rich ecosystem of 2500+ plugins to great lightning-fast, secure, beautiful web experiences for your visitors. Gatsby Cloud is the optimized end-to-end SaaS platform for developing, building, deploying, and managing your Gatsby web experiences, now with a high performance global edge network for site hosting.\n",
+      "discord": null,
+      "youtubeSlug": "WFOxZAmB_1Y",
+      "tier": "silver",
+      "tierRank": "3",
+      "callToAction": "Register Interest",
+      "callToActionLink": "https://www.gatsbyjs.com/strapiconf2021-request-a-meeting/",
+      "links": [
+        {
+          "id": "43",
+          "text": "Develop with Gatsby (Docs) ",
+          "url": "https://www.gatsbyjs.com/docs/ "
+        },
+        {
+          "id": "44",
+          "text": "Gatsby Plugin Library ",
+          "url": "https://www.gatsbyjs.com/plugins "
+        },
+        {
+          "id": "45",
+          "text": "Try Gatsby Cloud (free)",
+          "url": "https://www.gatsbyjs.com/products/cloud/ "
+        }
+      ],
+      "logo": "./sponsors-logo-gatsby.jpg",
+      "cardImage": "./sponsors-cardImage-gatsby.jpg"
+    },
+    {
+      "id": "17",
+      "slug": "Algolia",
+      "name": "Algolia",
+      "website": "www.algolia.com",
+      "description": "Algolia is a hosted search API that gives developers a complete toolkit for building search into their products. Our SaaS solution takes the pain out of building and maintaining search. We maintain the infrastructure and API clients for all important programming languages and platforms, and focus on the developer experience with extensive documentation, tooling and support. ",
+      "discord": null,
+      "youtubeSlug": "q_9mnYSZu0k",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "Start Free",
+      "callToActionLink": "https://www.algolia.com/users/sign_up",
+      "links": [
+        {
+          "id": "58",
+          "text": "Get Inspired",
+          "url": "https://www.algolia.com/search-inspiration-library/"
+        },
+        {
+          "id": "59",
+          "text": "Site Search",
+          "url": "https://www.algolia.com/solutions/site-search/"
+        },
+        {
+          "id": "60",
+          "text": "Headless Commerce",
+          "url": "https://www.algolia.com/solutions/headless-commerce/"
+        }
+      ],
+      "logo": "./sponsors-logo-Algolia.jpg",
+      "cardImage": "./sponsors-cardImage-Algolia.jpg"
+    },
+    {
+      "id": "19",
+      "slug": "Sentry",
+      "name": "Sentry",
+      "website": "https://sentry.io/",
+      "description": "Sentry’s mission is to eliminate the havoc and potential financial loss associated with defective software by making best-in-class application monitoring available to all software teams. Sentry helps developers discover, triage, and prioritize code errors and performance bottlenecks in real time in order to deliver the best possible end-user experiences complementing your systems monitoring tools. ",
+      "discord": null,
+      "youtubeSlug": "cdlvRTCbHB4",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "Get Started",
+      "callToActionLink": "https://sentry.io/signup/",
+      "links": [
+        {
+          "id": "64",
+          "text": "JAMstack Monitoring ",
+          "url": "https://www.youtube.com/watch?v=_xBXib0BN40"
+        },
+        {
+          "id": "65",
+          "text": "JavaScript Monitoring",
+          "url": "https://sentry.io/for/javascript/"
+        },
+        {
+          "id": "66",
+          "text": "Documentation",
+          "url": "https://docs.sentry.io/"
+        }
+      ],
+      "logo": "./sponsors-logo-Sentry.jpg",
+      "cardImage": "./sponsors-cardImage-Sentry.jpg"
+    },
+    {
+      "id": "18",
+      "slug": "motiv-solutions",
+      "name": "Motiv Solutions",
+      "website": "https://www.motivsolutions.com/",
+      "description": "Motiv is a consulting solutions company that specializes in optimizing business practices and future-proofing Strapi implementations to enable organizations to accelerate their digital transformation as well as speed-to-market. ",
+      "discord": null,
+      "youtubeSlug": "zd0_S_FPzKg",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "Contact",
+      "callToActionLink": "https://www.motivsolutions.com/contact",
+      "links": [
+        {
+          "id": "61",
+          "text": "Services",
+          "url": "https://www.motivsolutions.com/services"
+        },
+        {
+          "id": "62",
+          "text": "Approach",
+          "url": "https://www.motivsolutions.com/approach"
+        },
+        {
+          "id": "63",
+          "text": "Insights",
+          "url": "https://www.motivsolutions.com/insights"
+        }
+      ],
+      "logo": "./sponsors-logo-motiv-solutions.jpg",
+      "cardImage": "./sponsors-cardImage-motiv-solutions.jpg"
+    },
+    {
+      "id": "16",
+      "slug": "ionic",
+      "name": "Ionic",
+      "website": "https://ionic.io",
+      "description": "Ionic is a mobile app development platform for web developers, powering roughly 10% of the world’s apps. Our open source and premium tools and services help to build, secure, and deliver enterprise-grade mobile apps in less time. Ionic makes it easy to build award-winning native mobile apps and PWAs with web technologies.\n",
+      "discord": null,
+      "youtubeSlug": "OcD7GBbs2HY",
+      "tier": "silver",
+      "tierRank": "3",
+      "callToAction": "Discover Ionic Today",
+      "callToActionLink": "https://ionic.io",
+      "links": [
+        {
+          "id": "47",
+          "text": "Cordova Vs Capacitor",
+          "url": "https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development"
+        },
+        {
+          "id": "48",
+          "text": "Building PWAs with Ionic",
+          "url": "https://ionic.io/resources/webinars/how-to-build-pwa"
+        },
+        {
+          "id": "49",
+          "text": "Ionic React Vs React Native",
+          "url": "https://ionic.io/resources/articles/ionic-react-vs-react-native"
+        }
+      ],
+      "logo": "./sponsors-logo-ionic.jpg",
+      "cardImage": "./sponsors-cardImage-ionic.jpg"
+    },
+    {
+      "id": "21",
+      "slug": "cloudinary",
+      "name": "Cloudinary",
+      "website": " https://cloudinary.rocks/55p",
+      "description": "Cloudinary provides developers with powerful media API to upload, store, manage, optimize, transform and deliver images and videos. Developers utilize and easily integrate Cloudinary’s media experience platform via SDKs, widgets, add-ons into web and mobile apps built using all popular tech stacks. Cloudinary enables developers to deliver dynamic, high-performance, personalized media experiences on any device.\n",
+      "discord": null,
+      "youtubeSlug": "3H13LL5DuCY",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "Join the raffle",
+      "callToActionLink": "https://res.cloudinary.com/balazs/image/upload/v1617875998/strapiconf_raffle.pdf",
+      "links": [],
+      "logo": "./sponsors-logo-cloudinary.jpg",
+      "cardImage": "./sponsors-cardImage-cloudinary.jpg"
+    },
+    {
+      "id": "20",
+      "slug": "unlikely-technology",
+      "name": "Unlikely",
+      "website": "https://unlikely.technology/",
+      "description": "Unlikely is a technology studio creating bespoke digital experiences for modern brands. We combine cutting-edge technologies with great design to deliver apps that are fast, functional, and visually striking.",
+      "discord": null,
+      "youtubeSlug": "zd0_S_FPzKg",
+      "tier": "gold",
+      "tierRank": "2",
+      "callToAction": "Visit Website",
+      "callToActionLink": "https://unlikely.technology",
+      "links": [
+        {
+          "id": "69",
+          "text": "Get in touch",
+          "url": "mailto:contact@unlikely.technology"
+        }
+      ],
+      "logo": "./sponsors-logo-unlikely-technology.jpg",
+      "cardImage": "./sponsors-cardImage-unlikely-technology.jpg"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "companyName": "Strapi",
+      "title": "Full stack developer (Product Growth team)",
+      "description": "At Strapi, we believe that everyone should have the power to create content, digital products, and user experiences that impact the world. We’re here to fuel the world’s creativity by unleashing the power of content. With the help of amazing open-source contributors, we’re on a mission to develop the most customizable CMS on the market. ",
+      "link": "https://www.welcometothejungle.com/fr/companies/strapi/jobs/full-stack-developer-growth_paris",
+      "discord": "",
+      "rank": "1"
+    },
+    {
+      "id": "7",
+      "companyName": "Accedo",
+      "title": "Software Engineer",
+      "description": "Accedo is a video solutions provider delivering premium video experiences. We offer a combination of products and services to support customers at every stage of the video business journey, from strategy and design, through to delivery and post-launch optimization. ",
+      "link": "https://www.accedo.tv/career/#comeetanchor",
+      "discord": null,
+      "rank": null
+    },
+    {
+      "id": "2",
+      "companyName": "Strapi",
+      "title": "Senior Backend Engineer",
+      "description": "At Strapi, we believe that everyone should have the power to create content, digital products, and user experiences that impact the world. We’re here to fuel the world’s creativity by unleashing the power of content. With the help of amazing open-source contributors, we’re on a mission to develop the most customizable CMS on the market. ",
+      "link": "https://www.welcometothejungle.com/fr/companies/strapi/jobs/senior-backend-engineer_paris",
+      "discord": "",
+      "rank": "1"
+    },
+    {
+      "id": "8",
+      "companyName": "Vercel",
+      "title": "Developer Relations Lead",
+      "description": "\nVercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace. We’re passionate about our work with that community, and we are seeking an experienced Developer Relations Leader to steward our connection to that community, grow our presence and impact, and provide a conduit for community feedback into all parts of our business.\nAs part of this challenging role, you will work closely with leaders and staff from across our whole business, including engineering, infrastructure, marketing, and business development.",
+      "link": "https://vercel.com/careers?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf ",
+      "discord": null,
+      "rank": "2"
+    },
+    {
+      "id": "9",
+      "companyName": "Vercel",
+      "title": "Field Engineer / Solution Architect ",
+      "description": "\nVercel's mission is to empower front-end developers in doing their best work, at the fastest possible pace. We’re passionate about our work with that community, and we are seeking an experienced Developer Relations Leader to steward our connection to that community, grow our presence and impact, and provide a conduit for community feedback into all parts of our business.\nAs part of this challenging role, you will work closely with leaders and staff from across our whole business, including engineering, infrastructure, marketing, and business development.",
+      "link": "https://vercel.com/careers?utm_source=strapi&utm_medium=expo&utm_campaign=strapiconf ",
+      "discord": null,
+      "rank": "2"
+    },
+    {
+      "id": "11",
+      "companyName": "Magic",
+      "title": "Senior Software Engineer (Frontend)",
+      "description": "Magic is an early stage, fast-growing challenger to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Lightspeed Ventures, SV Angel, Social Capital, Placeholder, and Naval Ravikant. Our mission is to safeguard the trust between users and Internet services by establishing secure and authentic digital identity. Magic’s vision is an Internet of people, not credentials. We are looking for team members who are not afraid to push beyond the status quo and create the simplest, most secure, and most long-term sustainable identity solution for app developers and end-users. We would like to invite anyone who's interested in taking on the challenges of shifting the paradigm in user authentication and ending the era of passwords once and for all. We offer good compensation and sizable equity. You'll be joining a team around 15 and have a great amount of ownership in the projects at Magic. Magic is a remote-friendly company.",
+      "link": "https://angel.co/company/magiclabs/jobs/918694-senior-software-engineer-frontend",
+      "discord": null,
+      "rank": "4"
+    },
+    {
+      "id": "10",
+      "companyName": "Magic",
+      "title": "Senior Software Engineer (Backend)",
+      "description": "Magic is an early stage, fast-growing challenger to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Lightspeed Ventures, SV Angel, Social Capital, Placeholder, and Naval Ravikant. Our mission is to safeguard the trust between users and Internet services by establishing secure and authentic digital identity. Magic’s vision is an Internet of people, not credentials. We are looking for team members who are not afraid to push beyond the status quo and create the simplest, most secure, and most long-term sustainable identity solution for app developers and end-users. We would like to invite anyone who's interested in taking on the challenges of shifting the paradigm in user authentication and ending the era of passwords once and for all. We offer good compensation and sizable equity. You'll be joining a team around 15 and have a great amount of ownership in the projects at Magic. Magic is a remote-friendly company.",
+      "link": "https://angel.co/company/magiclabs/jobs/768804-senior-software-engineer-platform-backend",
+      "discord": null,
+      "rank": "4"
+    },
+    {
+      "id": "12",
+      "companyName": "MeiliSearch",
+      "title": "Technical Writer",
+      "description": "MeiliSearch provides an extensive toolset for customization. Unlike with other search engines, these customization options are just that: optional. It works out-of-the-box with a preset that easily answers the needs of most applications. Communication is done with a RESTful API because most developers are already familiar with its norms.",
+      "link": "https://www.welcometothejungle.com/en/companies/meilisearch/jobs/technical-content-writer_paris",
+      "discord": null,
+      "rank": "4"
+    }
+  ],
+  "speakers": [
+    {
+      "id": "54",
+      "bio": "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. He's passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, communities and FOSS",
+      "slug": "bolaji-ayodeji",
+      "name": "Bolaji Ayodeji",
+      "twitter": "https://twitter.com/iambolajiayo",
+      "github": "https://github.com/BolajiAyodeji",
+      "company": "Commerce Layer",
+      "title": "Developer Advocate",
+      "talk": {
+        "id": "56",
+        "title": "Headless Commerce done right, with Commerce Layer",
+        "start": "2021-04-22T19:45:00.000Z",
+        "end": "2021-04-22T20:15:00.000Z",
+        "description": "Digital commerce has changed, and there is an increasing demand for faster and kite efficient solutions. More technologies are arising, more online stores are erupting, and customers make purchases on more devices. In this talk, Bolaji will introduce you to the challenges with traditional commerce, how headless commerce solves those challenges, and how Commerce Layer supercharges your digital experiences.",
+        "published_at": "2021-03-11T13:16:11.204Z",
+        "created_at": "2021-03-11T13:15:55.331Z",
+        "updated_at": "2021-03-24T10:41:19.353Z",
+        "link": null
+      },
+      "image": "./speakers-image-bolaji-ayodeji.jpg"
+    }
+  ],
+  "stages": [
+    {
+      "id": "1",
+      "name": "Stage: A",
+      "slug": "a",
+      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
+      "order": "1",
+      "discord": "",
+      "schedule": []
+    },
+    {
+      "id": "3",
+      "name": "Stage: C",
+      "slug": "c",
+      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
+      "order": "2",
+      "discord": "",
+      "schedule": []
+    },
+    {
+      "id": "2",
+      "name": "Stage: M",
+      "slug": "m",
+      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
+      "order": "3",
+      "discord": "",
+      "schedule": [
+        {
+          "id": "56",
+          "title": "Headless Commerce done right, with Commerce Layer",
+          "start": "2021-04-22T19:45:00.000Z",
+          "end": "2021-04-22T20:15:00.000Z",
+          "description": "Digital commerce has changed, and there is an increasing demand for faster and kite efficient solutions. More technologies are arising, more online stores are erupting, and customers make purchases on more devices. In this talk, Bolaji will introduce you to the challenges with traditional commerce, how headless commerce solves those challenges, and how Commerce Layer supercharges your digital experiences.",
+          "published_at": "2021-03-11T13:16:11.204Z",
+          "created_at": "2021-03-11T13:15:55.331Z",
+          "updated_at": "2021-03-24T10:41:19.353Z",
+          "link": null
+        },
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Stage: E",
+      "slug": "e",
+      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
+      "order": "4",
+      "discord": "",
+      "schedule": []
+    }
+  ],
+  "talks": [
+    {
+      "id": "56",
+      "title": "Headless Commerce done right, with Commerce Layer",
+      "start": "2021-04-22T19:45:00.000Z",
+      "end": "2021-04-22T20:15:00.000Z",
+      "description": "Digital commerce has changed, and there is an increasing demand for faster and kite efficient solutions. More technologies are arising, more online stores are erupting, and customers make purchases on more devices. In this talk, Bolaji will introduce you to the challenges with traditional commerce, how headless commerce solves those challenges, and how Commerce Layer supercharges your digital experiences.",
+      "speakers": [
+        {
+          "id": "54"
+        }
+      ]
+    }
+  ]
+}
