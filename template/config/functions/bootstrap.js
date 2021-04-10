@@ -105,16 +105,13 @@ async function importSponsors() {
 
 async function importSpeakers() {
   return speakers.map(async (speaker) => {
-    const talk = speaker.talk
-      ? {
-          id: speaker.talk.id
-        }
-      : null
     const speakerData = {
       ...speaker,
-      talk
+      talk: {
+        id: speaker.talk.id
+      }
     }
-    console.log({ initial: speaker.talk, set: speakerData.talk })
+
     const image = getFileData(speaker.image)
 
     const files = {
@@ -144,17 +141,16 @@ async function importJobs() {
 }
 
 async function importTalks() {
-  return talks
-    .filter((talk) => talk.speakers.length > 0)
-    .map((talk) => {
-      const talkData = {
-        ...talk,
-        speakers: talk.speakers.map((speaker) => ({
-          id: speaker.id
-        }))
-      }
-      return strapi.services.talk.create(talkData)
-    })
+  return talks.map((talk) => {
+    const talkData = {
+      ...talk,
+      speakers: talk.speakers.map((speaker) => ({
+        id: speaker.id
+      }))
+    }
+
+    return strapi.services.talk.create(talkData)
+  })
 }
 
 async function importSeedData() {

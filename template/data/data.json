@@ -675,30 +675,6 @@
   ],
   "speakers": [
     {
-      "id": 62,
-      "bio": "Robert Douglass has been deeply involved with open source software since 2004. He was the author of the first book published about Drupal, \"Building Online Communities in Drupal, Wordpress, PhpBB\" (Apress, 2005), is a core code contributor to 4 different Drupal versions, and the original author of the Memcache and Solr modules for Drupal. Robert has also served as a member of the Drupal Association, a founding member of the German Drupal Association, and a member of the Drupal Security team. As a cloud hosting specialist he designed the server architecture for 100s of high profile sites, and is currently the VP Channel Sales for Platform.sh. Beyond technology, Robert works as a record producer, photographer, and is frequently a speaker advocating for free software and free culture ideals in the music industry.",
-      "slug": "robert-douglass",
-      "name": "Robert Douglass",
-      "twitter": "https://twitter.com/robertDouglass",
-      "github": "https://github.com/robertDouglass ",
-      "company": "Platform.sh",
-      "title": "Chief DevRel Officer",
-      "talk": null,
-      "image": "./speakers-image-robert-douglass.jpg"
-    },
-    {
-      "id": 65,
-      "bio": "Rohit is a Customer Solutions Engineer at Sentry. Prior to joining Sentry, Rohit held DevOps and Release Engineering roles at IoT, Retail & E-commerce, and Telecommunications companies.",
-      "slug": "rohit-kataria",
-      "name": "Rohit Kataria",
-      "twitter": null,
-      "github": null,
-      "company": "Sentry",
-      "title": "Customer Solutions Engineer",
-      "talk": null,
-      "image": "./speakers-image-rohit-kataria.jpg"
-    },
-    {
       "id": 54,
       "bio": "Bolaji is a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. He's passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, communities and FOSS",
       "slug": "bolaji-ayodeji",
@@ -1117,42 +1093,6 @@
       "image": "./speakers-image-chris-sev.jpg"
     },
     {
-      "id": 55,
-      "bio": "Praveen is a Developer Advocate at Hasura. He is a tech enthusiast, passionate about improving developer experience and advocates for usage of GraphQL, React and Serverless.",
-      "slug": "praveen-d",
-      "name": "Praveen D",
-      "twitter": "https://twitter.com/praveenweb",
-      "github": null,
-      "company": "Hasura",
-      "title": "Developer Advocate",
-      "talk": null,
-      "image": "./speakers-image-praveen-d.jpg"
-    },
-    {
-      "id": 63,
-      "bio": "Melissa is a seasoned front-end developer with more than a decade of experience. She loves learning and working with new technologies. Melissa appreciates the ease and convenience that a headless CMS provides by allowing content to come from one source. \n\nWhen Melissa isn’t singing her praises to new tech, she enjoys literal singing and a good cup of coffee! ",
-      "slug": "melissa-garr",
-      "name": "Melissa Garr",
-      "twitter": null,
-      "github": null,
-      "company": "Motiv Solutions",
-      "title": "Frontend developer",
-      "talk": null,
-      "image": "./speakers-image-melissa-garr.jpg"
-    },
-    {
-      "id": 61,
-      "bio": "Rudy Weber discovered the world of programming at 14 years old and decided from then on to spend the majority of his teenage years in his bedroom in front of the computer. As a consultant, Rudy has worked on a wide spectrum of projects, from international corporations' public-facing applications to the development of a programming language. Convinced that knowledge is only worth acquiring if shared, he started teaching about his learnings in the industry to whoever was willing to listen. Accordingly, Rudy is now a Developer Relations Engineer at Platform.sh, specializing in JavaScript.",
-      "slug": "rudy-weber",
-      "name": "Rudy Weber",
-      "twitter": "https://twitter.com/rudy_weber",
-      "github": "https://github.com/RudyWeber",
-      "company": "Platform.sh",
-      "title": "DevRel Engineer",
-      "talk": null,
-      "image": "./speakers-image-rudy-weber.jpg"
-    },
-    {
       "id": 30,
       "bio": "Vladimir works as a software engineer at Sqreen where he builds a tool to secure web applications. He used to be a professional security auditor and a web developer in agencies. He is part of the Node.js Security Working Group where he handles the security of Node.js. Vladimir also often give talks and training to software engineers to teach them about application security. He has been speaking at OWASP conferences (California and Europe), Node Summit, NodeConf (NL and Colombia) and Node+JS Interactive.",
       "slug": "Vladimir-de-Turckheim",
@@ -1350,30 +1290,6 @@
       },
       "image": "./speakers-image-bart-witteveen.jpg"
     },
-    {
-      "id": 64,
-      "bio": "Brent is a technical professional and hobbyist.  Bottom line, Brent loves learning and using new tech to solve problems.  With more years of technical experience than he would care to admit, he helped start Motiv Solutions to help customers accomplish their desired business outcomes.\n\n",
-      "slug": "brent-griffin",
-      "name": "Brent Griffin",
-      "twitter": null,
-      "github": null,
-      "company": "Motiv Solutions",
-      "title": "Chief Strategy Officer",
-      "talk": null,
-      "image": "./speakers-image-brent-griffin.jpg"
-    },
-    {
-      "id": 67,
-      "bio": "Tamas is a Google Developer Expert in Web Technologies and a Developer Experience Engineer. He has more than a decade of experience delivering technical training to large, prestigious organisations. He is passionate about unlocking the latest & greatest features of web development.",
-      "slug": "tamas-piros",
-      "name": "Tamas Piros",
-      "twitter": "https://twitter.com/tpiros",
-      "github": "https://github.com/tpiros",
-      "company": "Cloudinary",
-      "title": "Developer Experience Engineer",
-      "talk": null,
-      "image": "./speakers-image-tamas-piros.jpg"
-    }
   ],
   "stages": [
     {
