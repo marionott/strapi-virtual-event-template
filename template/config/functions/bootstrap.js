@@ -105,12 +105,12 @@ async function importSponsors() {
 
 async function importSpeakers() {
   return speakers.map(async (speaker) => {
-    const speakerData = {
-      ...speaker,
-      talk: {
-        id: speaker.talk.id
-      }
-    }
+    // const speakerData = {
+    //   ...speaker,
+    //   talk: {
+    //     id: speaker.talk.id
+    //   }
+    // }
 
     const image = getFileData(speaker.image)
 
@@ -118,19 +118,19 @@ async function importSpeakers() {
       image
     }
 
-    await createEntry('speaker', speakerData, files)
+    await createEntry('speaker', speaker, files)
   })
 }
 
 async function importStages() {
   return stages.map((stage) => {
-    const stageData = {
-      ...stage,
-      schedule: stage.schedule.map((talk) => ({
-        id: talk.id
-      }))
-    }
-    return strapi.services.stage.create(stageData)
+    // const stageData = {
+    //   ...stage,
+    //   schedule: stage.schedule.map((talk) => ({
+    //     id: talk.id
+    //   }))
+    // }
+    return strapi.services.stage.create(stage)
   })
 }
 
@@ -142,14 +142,14 @@ async function importJobs() {
 
 async function importTalks() {
   return talks.map((talk) => {
-    const talkData = {
-      ...talk,
-      speakers: talk.speakers.map((speaker) => ({
-        id: speaker.id
-      }))
-    }
+    // const talkData = {
+    //   ...talk,
+    //   speakers: talk.speakers.map((speaker) => ({
+    //     id: speaker.id
+    //   }))
+    // }
 
-    return strapi.services.talk.create(talkData)
+    return strapi.services.talk.create(talk)
   })
 }
 
