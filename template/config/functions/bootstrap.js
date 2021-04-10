@@ -145,9 +145,7 @@ async function importTalks() {
   return talks.map((talk) => {
     const talkData = {
       ...talk,
-      speakers: talk.speakers.map((speaker) => ({
-        id: speaker.id
-      }))
+      speakers: []
     }
     console.log(talkData.speakers)
     return strapi.services.talk.create(talkData)
@@ -169,7 +167,7 @@ async function importSeedData() {
   await importJobs()
   await importTalks()
   await importStages()
-  await importSpeakers()
+  // await importSpeakers()
 }
 
 module.exports = async () => {
