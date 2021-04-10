@@ -1438,8 +1438,8 @@
   "stages": [
     {
       "id": 1,
-      "name": "Stage: Adopt ",
-      "slug": "adopt",
+      "name": "Stage: A",
+      "slug": "a",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
       "order": "1",
       "discord": "",
@@ -1569,8 +1569,8 @@
     },
     {
       "id": 3,
-      "name": "Stage: Build",
-      "slug": "build",
+      "name": "Stage: C",
+      "slug": "c",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
       "order": "2",
       "discord": "",
@@ -1700,8 +1700,8 @@
     },
     {
       "id": 2,
-      "name": "Stage: Integrate ",
-      "slug": "integrate",
+      "name": "Stage: M",
+      "slug": "m",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
       "order": "3",
       "discord": "",
@@ -1828,6 +1828,15 @@
           "link": null
         }
       ]
+    },
+    {
+      "id": 4,
+      "name": "Stage: E",
+      "slug": "e",
+      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
+      "order": "4",
+      "discord": "",
+      "schedule": []
     }
   ],
   "talks": [
