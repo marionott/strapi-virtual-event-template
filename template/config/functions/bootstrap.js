@@ -90,8 +90,8 @@ async function createEntry(model, entry, files) {
 async function importSponsors() {
   return sponsors.map(async (sponsor) => {
     const [cardImage, logo] = [
-      getFileData(sponsor.cardImage),
-      getFileData(sponsor.logo)
+      getFileData(`${sponsor.slug}.png`),
+      getFileData(`logo_${sponsor.slug}.png`)
     ]
 
     const files = {
@@ -105,19 +105,33 @@ async function importSponsors() {
 
 async function importSpeakers() {
   return speakers.map(async (speaker) => {
-    const image = getFileData(speaker.image)
+    const speakerData = {
+      ...speaker,
+      talk: {
+        id: speaker.talk.id
+      }
+    }
+    const image = getFileData(`${speaker.slug}.jpeg`)
 
     const files = {
       image
     }
 
-    await createEntry('speaker', speaker, files)
+    await createEntry('speaker', speakerData, files)
   })
 }
 
 async function importStages() {
   return stages.map((stage) => {
-    return strapi.services.stage.create(stage)
+    const stageData = {
+      ...stage,
+      schedule: stage.schedule
+        .filter((talk) => talk.speaker.length > 0)
+        .map((talk) => ({
+          id: talk.id
+        }))
+    }
+    return strapi.services.stage.create(stageData)
   })
 }
 
@@ -128,9 +142,17 @@ async function importJobs() {
 }
 
 async function importTalks() {
-  return talks.map((talk) => {
-    return strapi.services.talk.create(talk)
-  })
+  return talks
+    .filter((talk) => talk.speakers.length > 0)
+    .map((talk) => {
+      const talkData = {
+        ...talk,
+        speakers: talk.speakers.map((speaker) => ({
+          id: speaker.id
+        }))
+      }
+      return strapi.services.talk.create(talkData)
+    })
 }
 
 async function importSeedData() {
