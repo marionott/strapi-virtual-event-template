@@ -111,7 +111,7 @@ async function importSpeakers() {
         id: speaker.talk.id
       }
     }
-
+    console.log(speakerData.talk)
     const image = getFileData(speaker.image)
 
     const files = {
@@ -130,6 +130,7 @@ async function importStages() {
         id: talk.id
       }))
     }
+    console.log(stageData.schedule)
     return strapi.services.stage.create(stageData)
   })
 }
@@ -144,9 +145,11 @@ async function importTalks() {
   return talks.map((talk) => {
     const talkData = {
       ...talk,
-      speakers: []
+      speakers: talk.speakers.map((speaker) => ({
+        id: speaker.id
+      }))
     }
-
+    console.log(talkData.speakers)
     return strapi.services.talk.create(talkData)
   })
 }
