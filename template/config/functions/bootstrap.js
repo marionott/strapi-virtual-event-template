@@ -90,8 +90,8 @@ async function createEntry(model, entry, files) {
 async function importSponsors() {
   return sponsors.map(async (sponsor) => {
     const [cardImage, logo] = [
-      getFileData(`${sponsor.slug}.png`),
-      getFileData(`logo_${sponsor.slug}.png`)
+      getFileData(sponsor.cardImage),
+      getFileData(sponsor.logo)
     ]
 
     const files = {
@@ -107,11 +107,13 @@ async function importSpeakers() {
   return speakers.map(async (speaker) => {
     const speakerData = {
       ...speaker,
-      talk: {
-        id: speaker.talk.id
-      }
+      talk: speaker.talk
+        ? {
+            id: speaker.talk.id
+          }
+        : null
     }
-    const image = getFileData(`${speaker.slug}.jpeg`)
+    const image = getFileData(speaker.image)
 
     const files = {
       image
@@ -125,11 +127,9 @@ async function importStages() {
   return stages.map((stage) => {
     const stageData = {
       ...stage,
-      schedule: stage.schedule
-        .filter((talk) => talk.speakers.length > 0)
-        .map((talk) => ({
-          id: talk.id
-        }))
+      schedule: stage.schedule.map((talk) => ({
+        id: talk.id
+      }))
     }
     return strapi.services.stage.create(stageData)
   })
