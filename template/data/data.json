@@ -684,7 +684,7 @@
       "company": "Platform.sh",
       "title": "Chief DevRel Officer",
       "talk": {
-        "id": 32
+        "id": 29
       },
       "image": "./speakers-image-robert-douglass.jpg"
     },
@@ -698,7 +698,7 @@
       "company": "Sentry",
       "title": "Customer Solutions Engineer",
       "talk": {
-        "id": 33
+        "id": 30
       },
       "image": "./speakers-image-rohit-kataria.jpg"
     },
@@ -712,7 +712,7 @@
       "company": "Commerce Layer",
       "title": "Developer Advocate",
       "talk": {
-        "id": 8
+        "id": 6
       },
       "image": "./speakers-image-bolaji-ayodeji.jpg"
     },
@@ -740,7 +740,7 @@
       "company": "Magenta Motocycle (Rider Club)",
       "title": "CTO",
       "talk": {
-        "id": 17
+        "id": 15
       },
       "image": "./speakers-image-Vanessa-Pasque.jpg"
     },
@@ -754,7 +754,7 @@
       "company": "iJS.to",
       "title": "Full Stack Developer",
       "talk": {
-        "id": 28
+        "id": 25
       },
       "image": "./speakers-image-scott-agirs-neminskis.jpg"
     },
@@ -768,7 +768,7 @@
       "company": "Platform.sh",
       "title": "DevRel Engineer",
       "talk": {
-        "id": 31
+        "id": 28
       },
       "image": "./speakers-image-chad-carlson.jpg"
     },
@@ -782,7 +782,7 @@
       "company": "Minus5",
       "title": "Senior Software Engineer",
       "talk": {
-        "id": 3
+        "id": 2
       },
       "image": "./speakers-image-stanislav-mihic.jpg"
     },
@@ -796,7 +796,7 @@
       "company": "VirtusLab ",
       "title": "Engineering Manager & Principal Engineer",
       "talk": {
-        "id": 23
+        "id": 20
       },
       "image": "./speakers-image-Mateusz-Ziarko.jpg"
     },
@@ -810,7 +810,7 @@
       "company": "Strapi",
       "title": "Engineering Lead",
       "talk": {
-        "id": 26
+        "id": 23
       },
       "image": "./speakers-image-alexandre-bodin.jpg"
     },
@@ -824,7 +824,7 @@
       "company": "Strapi",
       "title": "Co-founder, CPO",
       "talk": {
-        "id": 26
+        "id": 23
       },
       "image": "./speakers-image-aurelien-georget.jpg"
     },
@@ -838,7 +838,7 @@
       "company": "Magic",
       "title": "Developer Advocate",
       "talk": {
-        "id": 15
+        "id": 13
       },
       "image": "./speakers-image-Maricris-Bonzo.jpg"
     },
@@ -852,7 +852,7 @@
       "company": "Logrocket, Hitsubscribe",
       "title": "Freelance technical writer",
       "talk": {
-        "id": 22
+        "id": 19
       },
       "image": "./speakers-image-ukpai-ugochi.jpg"
     },
@@ -866,7 +866,7 @@
       "company": "Auth0 Ambassador",
       "title": "",
       "talk": {
-        "id": 21
+        "id": 18
       },
       "image": "./speakers-image-Kati-Frantz.jpg"
     },
@@ -880,7 +880,7 @@
       "company": "Strapi",
       "title": "CEO",
       "talk": {
-        "id": 26
+        "id": 23
       },
       "image": "./speakers-image-pierre-burgy.jpg"
     },
@@ -894,7 +894,7 @@
       "company": "SIT GmbH",
       "title": "CEO",
       "talk": {
-        "id": 16
+        "id": 14
       },
       "image": "./speakers-image-heiko-voigt.jpg"
     },
@@ -908,7 +908,7 @@
       "company": "Developmint",
       "title": "Web Dev Consultant",
       "talk": {
-        "id": 24
+        "id": 21
       },
       "image": "./speakers-image-alexander-lichter.jpg"
     },
@@ -922,7 +922,7 @@
       "company": "MeiliSearch",
       "title": "Software Engineer",
       "talk": {
-        "id": 14
+        "id": 12
       },
       "image": "./speakers-image-Charlotte-Vermandel.jpg"
     },
@@ -936,7 +936,7 @@
       "company": "NodeSource",
       "title": "Head of Developers Relations",
       "talk": {
-        "id": 30
+        "id": 27
       },
       "image": "./speakers-image-liz-parody.jpg"
     },
@@ -950,7 +950,7 @@
       "company": "Gatsby",
       "title": "Cofounder and CSO",
       "talk": {
-        "id": 13
+        "id": 11
       },
       "image": "./speakers-image-sam-bhagwat.jpg"
     },
@@ -964,7 +964,7 @@
       "company": "DigitalOcean",
       "title": "Sr Developer Advocate",
       "talk": {
-        "id": 9
+        "id": 7
       },
       "image": "./speakers-image-chris-sev.jpg"
     },
@@ -978,7 +978,7 @@
       "company": "Hasura",
       "title": "Developer Advocate",
       "talk": {
-        "id": 4
+        "id": 3
       },
       "image": "./speakers-image-praveen-d.jpg"
     },
@@ -992,7 +992,7 @@
       "company": "Motiv Solutions",
       "title": "Frontend developer",
       "talk": {
-        "id": 29
+        "id": 26
       },
       "image": "./speakers-image-melissa-garr.jpg"
     },
@@ -1006,7 +1006,7 @@
       "company": "Platform.sh",
       "title": "DevRel Engineer",
       "talk": {
-        "id": 32
+        "id": 29
       },
       "image": "./speakers-image-rudy-weber.jpg"
     },
@@ -1020,7 +1020,7 @@
       "company": "Sqreen",
       "title": "Customer Engineering Team Lead",
       "talk": {
-        "id": 20
+        "id": 17
       },
       "image": "./speakers-image-Vladimir-de-Turckheim.jpg"
     },
@@ -1034,7 +1034,7 @@
       "company": "Snipcart",
       "title": "CEO",
       "talk": {
-        "id": 25
+        "id": 22
       },
       "image": "./speakers-image-francois-lanthier-nadeau.jpg"
     },
@@ -1048,7 +1048,7 @@
       "company": "Unlikely Technology",
       "title": "Front-end developer",
       "talk": {
-        "id": 11
+        "id": 9
       },
       "image": "./speakers-image-marion-ott.jpg"
     },
@@ -1062,7 +1062,7 @@
       "company": "San Services (Sandals Resort)",
       "title": "IT Project Manager",
       "talk": {
-        "id": 27
+        "id": 24
       },
       "image": "./speakers-image-arlene-zavala.jpg"
     },
@@ -1076,7 +1076,7 @@
       "company": "Vercel",
       "title": "CEO",
       "talk": {
-        "id": 26
+        "id": 23
       },
       "image": "./speakers-image-Guillermo-Rauch.jpg"
     },
@@ -1090,7 +1090,7 @@
       "company": "Strapi",
       "title": "Co-Founder & Chief User Success Officer",
       "talk": {
-        "id": 7
+        "id": 5
       },
       "image": "./speakers-image-jim-laurie.jpg"
     },
@@ -1104,7 +1104,7 @@
       "company": "IBM",
       "title": "Developer",
       "talk": {
-        "id": 10
+        "id": 8
       },
       "image": "./speakers-image-anisha-malde.jpg"
     },
@@ -1118,7 +1118,7 @@
       "company": "Netlify",
       "title": "Developer Experience Engineer",
       "talk": {
-        "id": 5
+        "id": 4
       },
       "image": "./speakers-image-ekene-eze.jpg"
     },
@@ -1132,7 +1132,7 @@
       "company": "Smartshore Ability",
       "title": "Architect",
       "talk": {
-        "id": 19
+        "id": 16
       },
       "image": "./speakers-image-bart-witteveen.jpg"
     },
@@ -1146,7 +1146,7 @@
       "company": "Motiv Solutions",
       "title": "Chief Strategy Officer",
       "talk": {
-        "id": 29
+        "id": 26
       },
       "image": "./speakers-image-brent-griffin.jpg"
     },
@@ -1160,7 +1160,7 @@
       "company": "Cloudinary",
       "title": "Developer Experience Engineer",
       "talk": {
-        "id": 12
+        "id": 10
       },
       "image": "./speakers-image-tamas-piros.jpg"
     }
@@ -1175,31 +1175,28 @@
       "discord": "",
       "schedule": [
         {
-          "id": 27
-        },
-        {
-          "id": 12
-        },
-        {
-          "id": 9
-        },
-        {
-          "id": 3
-        },
-        {
-          "id": 4
+          "id": 24
         },
         {
           "id": 10
         },
         {
-          "id": 19
+          "id": 7
         },
         {
-          "id": 5
+          "id": 2
         },
         {
-          "id": 32
+          "id": 3
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 4
         },
         {
           "id": 29
@@ -1208,13 +1205,16 @@
           "id": 26
         },
         {
-          "id": 33
+          "id": 23
         },
         {
-          "id": 16
+          "id": 30
         },
         {
-          "id": 11
+          "id": 14
+        },
+        {
+          "id": 9
         }
       ]
     },
@@ -1227,46 +1227,46 @@
       "discord": "",
       "schedule": [
         {
-          "id": 21
+          "id": 18
         },
         {
-          "id": 4
+          "id": 3
         },
         {
-          "id": 20
+          "id": 17
         },
         {
-          "id": 7
+          "id": 5
         },
         {
-          "id": 12
-        },
-        {
-          "id": 29
-        },
-        {
-          "id": 22
-        },
-        {
-          "id": 13
-        },
-        {
-          "id": 32
-        },
-        {
-          "id": 23
+          "id": 10
         },
         {
           "id": 26
         },
         {
-          "id": 28
+          "id": 19
         },
         {
-          "id": 33
+          "id": 11
         },
         {
-          "id": 24
+          "id": 29
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 21
         }
       ]
     },
@@ -1279,43 +1279,43 @@
       "discord": "",
       "schedule": [
         {
-          "id": 31
-        },
-        {
-          "id": 32
-        },
-        {
-          "id": 17
-        },
-        {
-          "id": 15
-        },
-        {
-          "id": 33
-        },
-        {
-          "id": 25
-        },
-        {
-          "id": 12
-        },
-        {
-          "id": 14
+          "id": 28
         },
         {
           "id": 29
         },
         {
-          "id": 26
+          "id": 15
         },
         {
-          "id": 8
+          "id": 13
         },
         {
           "id": 30
         },
         {
-          "id": 4
+          "id": 22
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 3
         },
         {
           "id": 1
@@ -1341,293 +1341,32 @@
       "description": "Headless Commerce APIs give you the same flexibility and scalability as you can expect from a Headless CMS. Where e-commerce platforms are designed to work with product data and checkout systems, the latter is best suited to manage rich web content for the rest of your website. To keep this separation of concern, you combine these two headless architectures! In this talk I'll show how to use the headless Saleor Commerce and enrich that data by combining it with Strapi CMS. \n",
       "speakers": [
         {
-          "id": 4
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Break #3",
-      "start": "2021-04-22T20:15:00.000Z",
-      "end": "2021-04-22T20:30:00.000Z",
-      "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-      "speakers": []
-    },
-    {
-      "id": 3,
-      "title": "Strapi as a publishing platform for the largest local sports betting platform",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "Strapi as a publishing platform for our marketing team tool arsenal with the possibility to manage and deliver content to our players without limitations in mind with feature use. ",
-      "speakers": [
+          "id": 1
+        },
         {
-          "id": 8
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Hasura Workshop: Build a powerful fullstack app for JAMStack with Hasura and Strapi",
-      "start": "2021-04-22T20:30:00.000Z",
-      "end": "2021-04-22T22:30:00.000Z",
-      "description": "In this workshop, you will be building a powerful application backend with role based authorization using Hasura. Strapi's GraphQL API will be used as a remote data source to generate a unified GraphQL API in Hasura\n\nPrerequisites:\nFamiliarity with GraphQL is preferred \n\nSkill level:\nIntermediate ",
-      "speakers": [
-        {
-          "id": 22
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "title": "How to Jamstack in a dynamic era",
-      "start": "2021-04-22T19:45:00.000Z",
-      "end": "2021-04-22T20:15:00.000Z",
-      "description": "There’s a general misconception that since Jamstack sites and applications don't rely on traditional server architectures, they come at the cost of dynamic, powerful experiences. The reality is, Jamstack sites are great for creating highly dynamic, interactions using powerful tools like serverless functions and a variety of third-party services.\n\nIn this session, we'll look at how a Jamstack architecture, with serverless functions and Strapi CMS, help developers deliver scale, performance, and a rich content authoring experience, without the burden of servers or infrastructure to maintain\"",
-      "speakers": [
-        {
-          "id": 32
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Break #2",
-      "start": "2021-04-22T18:30:00.000Z",
-      "end": "2021-04-22T18:45:00.000Z",
-      "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-      "speakers": []
-    },
-    {
-      "id": 7,
-      "title": "Top 10 Strapi Tips",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "In this talk, we will go through 10 tips that will cover almost every aspect of a Strapi project.\nThis will help you understand how Strapi works behind the hood by reviewing some specific use-cases. ",
-      "speakers": [
-        {
-          "id": 30
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Headless Commerce done right, with Commerce Layer",
-      "start": "2021-04-22T19:45:00.000Z",
-      "end": "2021-04-22T20:15:00.000Z",
-      "description": "Digital commerce has changed, and there is an increasing demand for faster and kite efficient solutions. More technologies are arising, more online stores are erupting, and customers make purchases on more devices. In this talk, Bolaji will introduce you to the challenges with traditional commerce, how headless commerce solves those challenges, and how Commerce Layer supercharges your digital experiences.",
-      "speakers": [
+          "id": 2
+        },
         {
           "id": 3
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "title": "Jammin on Strapi",
-      "start": "2021-04-22T19:15:00.000Z",
-      "end": "2021-04-22T19:45:00.000Z",
-      "description": "In this talk, we'll build a Jamstack site with Strapi and Next.js all in 25 minutes. It will have static and dynamic components and be blazing fast.",
-      "speakers": [
+        },
         {
-          "id": 21
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "title": "0 to Production in 60 days",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:00:00.000Z",
-      "description": "0 to Production in 4 sprints sounds like the title to a horror movie but it was the reality Covid created. As a response to the current situation we were tasked with building a showcase platform for the students of UAL to upload and display their work for the world to see. I want to take you through the journey I had and how Strapi made it possible.",
-      "speakers": [
-        {
-          "id": 31
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "title": "Content-Types Builder 101",
-      "start": "2021-04-22T17:30:00.000Z",
-      "end": "2021-04-22T18:00:00.000Z",
-      "description": "Deep dive into how to configure Strapi Content-Types Builder to recreate the Strapi.io navigation and universal pages.",
-      "speakers": [
-        {
-          "id": 27
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Cloudinary Workshop: Strapi 101 - The Fundamentals",
-      "start": "2021-04-22T20:30:00.000Z",
-      "end": "2021-04-22T22:30:00.000Z",
-      "description": "Are you new to Strapi? This workshop covers all the basics to get you started with this headless CMS. Throughout the workshop \t\t\twe'll build a basic application that will consume data from Strapi.\n\nPrerequisites:\nweb development knowledge, JS knowledge\n\nSkill level:\nbasic\n",
-      "speakers": [
-        {
-          "id": 35
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "title": "Best Practices For Gatsby + Strapi",
-      "start": "2021-04-22T19:45:00.000Z",
-      "end": "2021-04-22T20:15:00.000Z",
-      "description": "In this talk, Sam will give some examples on how you can use Gatsby & Strapi together, why Gatsby is a great match for Strapi (and vice versa), and then he will dive into some example demo code of use cases.",
-      "speakers": [
-        {
-          "id": 20
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "title": "Integrate open-source search into your Strapi project",
-      "start": "2021-04-22T17:00:00.000Z",
-      "end": "2021-04-22T17:30:00.000Z",
-      "description": "I will present the problematics of in-app search with a quick recap of the state of search today. Then I will introduce MeiliSearch as a solution and explain how it solves the problems mentioned before. Finally, I will show through a demonstration how to use it simply with Strapi collections using the plugin we created.",
-      "speakers": [
-        {
-          "id": 18
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "title": "Gather More Meaningfully with Strapi and Magic",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "An insightful tutorial on how I built an events page where users could sign up and RSVP to upcoming gatherings that were consciously-crafted. The events management system is powered by Strapi, while secure user authentication is made possible with the Magic plugin.",
-      "speakers": [
-        {
-          "id": 12
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "title": "Using strapi, Node-Red and Ionic to build a weather alarm app for the ministry of agriculture in Rhineland-Palatine, Germany",
-      "start": "2021-04-22T17:00:00.000Z",
-      "end": "2021-04-22T17:30:00.000Z",
-      "description": "In this session, we will show you how to integrate strapi, Node-Red and ionic to build a full stack javascript application for personalized weather warnings.",
-      "speakers": [
-        {
-          "id": 16
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "title": "Creating a notification plugin for Expo with Strapi",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "In this talk, we'll look at how a simple idea, and need, can be real in few days by using Strapi to implement a notification system. We'll get into how to use Expo Notification to send notification to your mobile application (using Expo), taking a look into the plugin I built and the many Strapi features in implements, and showing you how to use it with any Strapi project.",
-      "speakers": [
+          "id": 4
+        },
         {
           "id": 5
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "title": "Break #1",
-      "start": "2021-04-22T16:30:00.000Z",
-      "end": "2021-04-22T17:00:00.000Z",
-      "description": "Take a stretch break, grab a coffee and visit the sponsor booths!",
-      "speakers": []
-    },
-    {
-      "id": 19,
-      "title": "Creating a new media newspaper platform                 ",
-      "start": "2021-04-22T18:00:00.000Z",
-      "end": "2021-04-22T18:30:00.000Z",
-      "description": "As Strapi partner, Smartshore Ability (The Netherlands) implemented the new website for RD (https://www.rd.nl/). RD is the biggest Dutch religious newspaper and exists in both digital and physical formats. \nSo in this talk, we will present the project, why we chose Strapi, the architecture of the project as well the challenges we ran into. Where did Strapi fail and what solutions did Smartshore Ability have to develop to overcome these challenges?    \n",
-      "speakers": [
+        },
         {
-          "id": 33
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "title": "A bit of Web Application Security",
-      "start": "2021-04-22T18:00:00.000Z",
-      "end": "2021-04-22T18:30:00.000Z",
-      "description": "It's dangerous to go alone! Running a web application can be scary if you don't have experience in attacking and securing them. In this talk, we will go through principles of Web Application security and how they can impact a Strapi production. ",
-      "speakers": [
+          "id": 6
+        },
         {
-          "id": 25
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "title": "Effective caching strategies for a faster JAMstack",
-      "start": "2021-04-22T17:30:00.000Z",
-      "end": "2021-04-22T18:00:00.000Z",
-      "description": "JAMstack was born from a great desire for more performant web applications. As your applications grow, your caching strategies need to adapt to the ever-changing needs of your web application. Using the right caching strategy for the right type of web application is critical to experience the full benefits of the JAMstack. Come along with me on this journey to master the best practices and strategies to caching your JAMstack applications in a modern era.",
-      "speakers": [
+          "id": 7
+        },
         {
-          "id": 14
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "title": "Content Modeling Best Practices",
-      "start": "2021-04-22T18:45:00.000Z",
-      "end": "2021-04-22T19:15:00.000Z",
-      "description": "Content modeling is one of Strapi's modeling type.\nIn content type modelling, the user creates a JSON file that represents how data will be structured in the data base and a set of lifecycle hooks in javascript file that determines how and when data should be called into their web application.\n\nWith the lifecycle hook in place, content type data structures can only be used for one API’s model. \"",
-      "speakers": [
-        {
-          "id": 13
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "title": "Wise approach for community & commercial Strapi plugins development",
-      "start": "2021-04-22T17:00:00.000Z",
-      "end": "2021-04-22T17:30:00.000Z",
-      "description": "Typically there are no tradeoffs, we have to choose if we’re engaging into the community or just focus on delivering commercial business value for our clients using open source. How to manage it wisely?",
-      "speakers": [
+          "id": 8
+        },
         {
           "id": 9
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "title": "Strapi + Nuxt.js + Composition Api = ❤️",
-      "start": "2021-04-22T19:15:00.000Z",
-      "end": "2021-04-22T19:45:00.000Z",
-      "description": "Nuxt.js - the intuitive framework built on top of Vue - is the perfect fit for Strapi, especially when it comes to Jamstack.\nIn this session, we will build the fitting frontend for our Strapi CMS by leveraging the Composition API and ensure it is performant and fast.\nGet insights into the world of Vue and Nuxt, useful patterns for the Composition API and possibly some sneak peaks",
-      "speakers": [
-        {
-          "id": 17
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "title": "The state of modern e-commerce",
-      "start": "2021-04-22T17:30:00.000Z",
-      "end": "2021-04-22T18:00:00.000Z",
-      "description": "Modern e-commerce is a beautiful mess. Let's unscramble it. In this session, Snipcart CEO Francois Lanthier Nadeau will explore:\n\n1. Technical paradigms overview: monolithic, Jamstack, and headless commerce\n2. The fragmentation of e-commerce functionality\n3. The explosion of e-commerce offering: new solutions categories\n4. How to pick your e-commerce stack\n\n•No prerequisites \n•Skills level: beginner",
-      "speakers": [
-        {
-          "id": 26
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "title": "Keynote",
-      "start": "2021-04-22T15:00:00.000Z",
-      "end": "2021-04-22T16:30:00.000Z",
-      "description": "StrapiConf Keynote featuring Strapi co-founders, CTO, well-known speaker from the JAMstack ecosystem as well as top Strapi users and customers. ",
-      "speakers": [
+        },
         {
           "id": 10
         },
@@ -1635,78 +1374,3159 @@
           "id": 11
         },
         {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
           "id": 15
         },
         {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
           "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
         }
       ]
     },
     {
-      "id": 27,
+      "id": 2,
+      "title": "Strapi as a publishing platform for the largest local sports betting platform",
+      "start": "2021-04-22T18:45:00.000Z",
+      "end": "2021-04-22T19:15:00.000Z",
+      "description": "Strapi as a publishing platform for our marketing team tool arsenal with the possibility to manage and deliver content to our players without limitations in mind with feature use. ",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Hasura Workshop: Build a powerful fullstack app for JAMStack with Hasura and Strapi",
+      "start": "2021-04-22T20:30:00.000Z",
+      "end": "2021-04-22T22:30:00.000Z",
+      "description": "In this workshop, you will be building a powerful application backend with role based authorization using Hasura. Strapi's GraphQL API will be used as a remote data source to generate a unified GraphQL API in Hasura\n\nPrerequisites:\nFamiliarity with GraphQL is preferred \n\nSkill level:\nIntermediate ",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "How to Jamstack in a dynamic era",
+      "start": "2021-04-22T19:45:00.000Z",
+      "end": "2021-04-22T20:15:00.000Z",
+      "description": "There’s a general misconception that since Jamstack sites and applications don't rely on traditional server architectures, they come at the cost of dynamic, powerful experiences. The reality is, Jamstack sites are great for creating highly dynamic, interactions using powerful tools like serverless functions and a variety of third-party services.\n\nIn this session, we'll look at how a Jamstack architecture, with serverless functions and Strapi CMS, help developers deliver scale, performance, and a rich content authoring experience, without the burden of servers or infrastructure to maintain\"",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Top 10 Strapi Tips",
+      "start": "2021-04-22T18:45:00.000Z",
+      "end": "2021-04-22T19:15:00.000Z",
+      "description": "In this talk, we will go through 10 tips that will cover almost every aspect of a Strapi project.\nThis will help you understand how Strapi works behind the hood by reviewing some specific use-cases. ",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Headless Commerce done right, with Commerce Layer",
+      "start": "2021-04-22T19:45:00.000Z",
+      "end": "2021-04-22T20:15:00.000Z",
+      "description": "Digital commerce has changed, and there is an increasing demand for faster and kite efficient solutions. More technologies are arising, more online stores are erupting, and customers make purchases on more devices. In this talk, Bolaji will introduce you to the challenges with traditional commerce, how headless commerce solves those challenges, and how Commerce Layer supercharges your digital experiences.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Jammin on Strapi",
+      "start": "2021-04-22T19:15:00.000Z",
+      "end": "2021-04-22T19:45:00.000Z",
+      "description": "In this talk, we'll build a Jamstack site with Strapi and Next.js all in 25 minutes. It will have static and dynamic components and be blazing fast.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "0 to Production in 60 days",
+      "start": "2021-04-22T18:45:00.000Z",
+      "end": "2021-04-22T19:00:00.000Z",
+      "description": "0 to Production in 4 sprints sounds like the title to a horror movie but it was the reality Covid created. As a response to the current situation we were tasked with building a showcase platform for the students of UAL to upload and display their work for the world to see. I want to take you through the journey I had and how Strapi made it possible.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Content-Types Builder 101",
+      "start": "2021-04-22T17:30:00.000Z",
+      "end": "2021-04-22T18:00:00.000Z",
+      "description": "Deep dive into how to configure Strapi Content-Types Builder to recreate the Strapi.io navigation and universal pages.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Cloudinary Workshop: Strapi 101 - The Fundamentals",
+      "start": "2021-04-22T20:30:00.000Z",
+      "end": "2021-04-22T22:30:00.000Z",
+      "description": "Are you new to Strapi? This workshop covers all the basics to get you started with this headless CMS. Throughout the workshop \t\t\twe'll build a basic application that will consume data from Strapi.\n\nPrerequisites:\nweb development knowledge, JS knowledge\n\nSkill level:\nbasic\n",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Best Practices For Gatsby + Strapi",
+      "start": "2021-04-22T19:45:00.000Z",
+      "end": "2021-04-22T20:15:00.000Z",
+      "description": "In this talk, Sam will give some examples on how you can use Gatsby & Strapi together, why Gatsby is a great match for Strapi (and vice versa), and then he will dive into some example demo code of use cases.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Integrate open-source search into your Strapi project",
+      "start": "2021-04-22T17:00:00.000Z",
+      "end": "2021-04-22T17:30:00.000Z",
+      "description": "I will present the problematics of in-app search with a quick recap of the state of search today. Then I will introduce MeiliSearch as a solution and explain how it solves the problems mentioned before. Finally, I will show through a demonstration how to use it simply with Strapi collections using the plugin we created.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Gather More Meaningfully with Strapi and Magic",
+      "start": "2021-04-22T18:45:00.000Z",
+      "end": "2021-04-22T19:15:00.000Z",
+      "description": "An insightful tutorial on how I built an events page where users could sign up and RSVP to upcoming gatherings that were consciously-crafted. The events management system is powered by Strapi, while secure user authentication is made possible with the Magic plugin.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Using strapi, Node-Red and Ionic to build a weather alarm app for the ministry of agriculture in Rhineland-Palatine, Germany",
+      "start": "2021-04-22T17:00:00.000Z",
+      "end": "2021-04-22T17:30:00.000Z",
+      "description": "In this session, we will show you how to integrate strapi, Node-Red and ionic to build a full stack javascript application for personalized weather warnings.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Creating a notification plugin for Expo with Strapi",
+      "start": "2021-04-22T18:45:00.000Z",
+      "end": "2021-04-22T19:15:00.000Z",
+      "description": "In this talk, we'll look at how a simple idea, and need, can be real in few days by using Strapi to implement a notification system. We'll get into how to use Expo Notification to send notification to your mobile application (using Expo), taking a look into the plugin I built and the many Strapi features in implements, and showing you how to use it with any Strapi project.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Creating a new media newspaper platform                 ",
+      "start": "2021-04-22T18:00:00.000Z",
+      "end": "2021-04-22T18:30:00.000Z",
+      "description": "As Strapi partner, Smartshore Ability (The Netherlands) implemented the new website for RD (https://www.rd.nl/). RD is the biggest Dutch religious newspaper and exists in both digital and physical formats. \nSo in this talk, we will present the project, why we chose Strapi, the architecture of the project as well the challenges we ran into. Where did Strapi fail and what solutions did Smartshore Ability have to develop to overcome these challenges?    \n",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "A bit of Web Application Security",
+      "start": "2021-04-22T18:00:00.000Z",
+      "end": "2021-04-22T18:30:00.000Z",
+      "description": "It's dangerous to go alone! Running a web application can be scary if you don't have experience in attacking and securing them. In this talk, we will go through principles of Web Application security and how they can impact a Strapi production. ",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Effective caching strategies for a faster JAMstack",
+      "start": "2021-04-22T17:30:00.000Z",
+      "end": "2021-04-22T18:00:00.000Z",
+      "description": "JAMstack was born from a great desire for more performant web applications. As your applications grow, your caching strategies need to adapt to the ever-changing needs of your web application. Using the right caching strategy for the right type of web application is critical to experience the full benefits of the JAMstack. Come along with me on this journey to master the best practices and strategies to caching your JAMstack applications in a modern era.",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Content Modeling Best Practices",
+      "start": "2021-04-22T18:45:00.000Z",
+      "end": "2021-04-22T19:15:00.000Z",
+      "description": "Content modeling is one of Strapi's modeling type.\nIn content type modelling, the user creates a JSON file that represents how data will be structured in the data base and a set of lifecycle hooks in javascript file that determines how and when data should be called into their web application.\n\nWith the lifecycle hook in place, content type data structures can only be used for one API’s model. \"",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Wise approach for community & commercial Strapi plugins development",
+      "start": "2021-04-22T17:00:00.000Z",
+      "end": "2021-04-22T17:30:00.000Z",
+      "description": "Typically there are no tradeoffs, we have to choose if we’re engaging into the community or just focus on delivering commercial business value for our clients using open source. How to manage it wisely?",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Strapi + Nuxt.js + Composition Api = ❤️",
+      "start": "2021-04-22T19:15:00.000Z",
+      "end": "2021-04-22T19:45:00.000Z",
+      "description": "Nuxt.js - the intuitive framework built on top of Vue - is the perfect fit for Strapi, especially when it comes to Jamstack.\nIn this session, we will build the fitting frontend for our Strapi CMS by leveraging the Composition API and ensure it is performant and fast.\nGet insights into the world of Vue and Nuxt, useful patterns for the Composition API and possibly some sneak peaks",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "The state of modern e-commerce",
+      "start": "2021-04-22T17:30:00.000Z",
+      "end": "2021-04-22T18:00:00.000Z",
+      "description": "Modern e-commerce is a beautiful mess. Let's unscramble it. In this session, Snipcart CEO Francois Lanthier Nadeau will explore:\n\n1. Technical paradigms overview: monolithic, Jamstack, and headless commerce\n2. The fragmentation of e-commerce functionality\n3. The explosion of e-commerce offering: new solutions categories\n4. How to pick your e-commerce stack\n\n•No prerequisites \n•Skills level: beginner",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Keynote",
+      "start": "2021-04-22T15:00:00.000Z",
+      "end": "2021-04-22T16:30:00.000Z",
+      "description": "StrapiConf Keynote featuring Strapi co-founders, CTO, well-known speaker from the JAMstack ecosystem as well as top Strapi users and customers. ",
+      "speakers": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        }
+      ]
+    },
+    {
+      "id": 24,
       "title": "Boosting Productivity and Team Velocity with Strapi",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Enhance your team's velocity and take productivity to the next level. ",
       "speakers": [
         {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
           "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
         }
       ]
     },
     {
-      "id": 28,
+      "id": 25,
       "title": "Extending your Strapi app with lifecycle hooks, controllers and services",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-03-22T19:15:00.000Z",
       "description": "A quick introduction to the most useful tools for extending your Strapi app's functionality. We will slugify a blog post with a lifecycle method, attach an author to it in the controller and see an example of how a Service can be used.",
       "speakers": [
         {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
           "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
         }
       ]
     },
     {
-      "id": 29,
+      "id": 26,
       "title": "Motiv Solutions Workshop: Moving Content Between Multiple Strapi Environments",
       "start": "2021-04-22T20:30:00.000Z",
       "end": "2021-04-22T22:30:00.000Z",
       "description": null,
       "speakers": [
         {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
           "id": 23
         },
         {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
           "id": 34
+        },
+        {
+          "id": 35
         }
       ]
     },
     {
-      "id": 30,
+      "id": 27,
       "title": "Examining Observability in Node.js using Strapi",
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Observability is important to learn what’s happening in your app to stay competitive and create the most performant and efficient applications, following the best practices.\n\nIn this talk, we will explore useful tools to examine observability in your applications and how it will speed up development, produce better code while improving reliability and uptime. Don’t miss it!",
       "speakers": [
         {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
           "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
         }
       ]
     },
     {
-      "id": 31,
+      "id": 28,
       "title": "Editorial workflows, GIT them here!",
       "start": "2021-04-22T19:15:00.000Z",
       "end": "2021-05-16T19:45:00.000Z",
       "description": "How do we reconcile the differences between the needs of our developers and those of our content creation teams? Have you ever run into an editorial team who just doesn’t want to get their hands dirty with Git? There’s plenty of them. Strapi’s fantastic for giving them an interface to organize content to be consumed by frontends, but many of their needs work directly against Git-centric development workflows (aka GitOps) we see today.\n \nIn this talk, we’ll cover how Strapi can be deployed alongside a frontend consuming application on a single project on Platform.sh. From there, we’ll slowly piece together two parallel workflows for teams with very different needs in mind:\n- Editorial: don’t touch Git. Live content previews. Runtime collection creation that moves to master. \n- Development: Git as the source of truth, repeatable builds, isolated environments, Infrastructure-as-code. ",
       "speakers": [
         {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
           "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
         }
       ]
     },
     {
-      "id": 32,
+      "id": 29,
       "title": "Platform.sh Workshop: Build a production Strapi instance service by service with Platform.sh",
       "start": "2021-04-22T20:30:00.000Z",
       "end": "2021-04-22T22:30:00.000Z",
@@ -1716,19 +4536,220 @@
           "id": 1
         },
         {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
           "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
         }
       ]
     },
     {
-      "id": 33,
+      "id": 30,
       "title": "Sentry Workshop: Pinpoint slowness, catch errors and gauge health of your app’s releases.",
       "start": "2021-04-22T20:30:00.000Z",
       "end": "2021-04-22T22:30:00.000Z",
       "description": "Check off your monitoring needs with an in-depth walkthrough of Sentry’s latest features to help you catch errors, track slowness and get ahead of session crashes in your app.\nIn this workshop, you’ll learn how Sentry employs a See-Solve-Learn approach curated for Product Owners, SREs, QEs and our Developers.\n\nPrerequisites:\nBasic knowledge of Software Development\n\nSkill level:\nAll",
       "speakers": [
         {
+          "id": 1
+        },
+        {
           "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
         }
       ]
     }
