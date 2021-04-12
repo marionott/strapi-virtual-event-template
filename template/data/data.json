@@ -1168,8 +1168,8 @@
   "stages": [
     {
       "id": 1,
-      "name": "Stage: A",
-      "slug": "a",
+      "name": "Stage: Adopt ",
+      "slug": "adopt",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
       "order": "1",
       "discord": "",
@@ -1193,9 +1193,6 @@
           "id": 10
         },
         {
-          "id": 2
-        },
-        {
           "id": 19
         },
         {
@@ -1214,12 +1211,6 @@
           "id": 33
         },
         {
-          "id": 6
-        },
-        {
-          "id": 18
-        },
-        {
           "id": 16
         },
         {
@@ -1229,17 +1220,14 @@
     },
     {
       "id": 2,
-      "name": "Stage: C",
-      "slug": "c",
+      "name": "Stage: Build",
+      "slug": "build",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
       "order": "2",
       "discord": "",
       "schedule": [
         {
           "id": 21
-        },
-        {
-          "id": 18
         },
         {
           "id": 4
@@ -1258,9 +1246,6 @@
         },
         {
           "id": 22
-        },
-        {
-          "id": 2
         },
         {
           "id": 13
@@ -1282,25 +1267,19 @@
         },
         {
           "id": 24
-        },
-        {
-          "id": 6
         }
       ]
     },
     {
       "id": 3,
-      "name": "Stage: M",
-      "slug": "m",
+      "name": "Stage: Integrate ",
+      "slug": "integrate",
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
       "order": "3",
       "discord": "",
       "schedule": [
         {
           "id": 31
-        },
-        {
-          "id": 18
         },
         {
           "id": 32
@@ -1315,9 +1294,6 @@
           "id": 33
         },
         {
-          "id": 2
-        },
-        {
           "id": 25
         },
         {
@@ -1328,9 +1304,6 @@
         },
         {
           "id": 29
-        },
-        {
-          "id": 6
         },
         {
           "id": 26
@@ -1348,15 +1321,6 @@
           "id": 1
         }
       ]
-    },
-    {
-      "id": 4,
-      "name": "Stage: e",
-      "slug": "e",
-      "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
-      "order": "4",
-      "discord": "",
-      "schedule": []
     }
   ],
   "talks": [
