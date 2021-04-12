@@ -697,9 +697,7 @@
       "github": null,
       "company": "Saleor",
       "title": "Ambassador",
-      "talk": {
-        "id": "60"
-      },
+      "talk": null,
       "image": "./speakers-image-roy-derks.jpg"
     },
     {
@@ -711,9 +709,7 @@
       "github": "https://github.com/Lith",
       "company": "Magenta Motocycle (Rider Club)",
       "title": "CTO",
-      "talk": {
-        "id": "61"
-      },
+      "talk": null,
       "image": "./speakers-image-Vanessa-Pasque.jpg"
     },
     {
@@ -725,9 +721,7 @@
       "github": "https://www.github.com/scottagirs",
       "company": "iJS.to",
       "title": "Full Stack Developer",
-      "talk": {
-        "id": "47"
-      },
+      "talk": null,
       "image": "./speakers-image-scott-agirs-neminskis.jpg"
     },
     {
@@ -739,9 +733,7 @@
       "github": "https://github.com/chadwcarlson",
       "company": "Platform.sh",
       "title": "DevRel Engineer",
-      "talk": {
-        "id": "30"
-      },
+      "talk": null,
       "image": "./speakers-image-chad-carlson.jpg"
     },
     {
@@ -753,9 +745,7 @@
       "github": "https://github.com/doxikus",
       "company": "Minus5",
       "title": "Senior Software Engineer",
-      "talk": {
-        "id": "38"
-      },
+      "talk": null,
       "image": "./speakers-image-stanislav-mihic.jpg"
     },
     {
@@ -767,9 +757,7 @@
       "github": "https://github.com/cyp3rius",
       "company": "VirtusLab ",
       "title": "Engineering Manager & Principal Engineer",
-      "talk": {
-        "id": "29"
-      },
+      "talk": null,
       "image": "./speakers-image-Mateusz-Ziarko.jpg"
     },
     {
@@ -781,9 +769,7 @@
       "github": "https://github.com/alexandrebodin",
       "company": "Strapi",
       "title": "Engineering Lead",
-      "talk": {
-        "id": "39"
-      },
+      "talk": null,
       "image": "./speakers-image-alexandre-bodin.jpg"
     },
     {
@@ -795,9 +781,7 @@
       "github": "https://github.com/Aurelsicoko",
       "company": "Strapi",
       "title": "Co-founder, CPO",
-      "talk": {
-        "id": "39"
-      },
+      "talk": null,
       "image": "./speakers-image-aurelien-georget.jpg"
     },
     {
@@ -809,9 +793,7 @@
       "github": "https://github.com/seemcat",
       "company": "Magic",
       "title": "Developer Advocate",
-      "talk": {
-        "id": "45"
-      },
+      "talk": null,
       "image": "./speakers-image-Maricris-Bonzo.jpg"
     },
     {
@@ -823,9 +805,7 @@
       "github": null,
       "company": "Logrocket, Hitsubscribe",
       "title": "Freelance technical writer",
-      "talk": {
-        "id": "35"
-      },
+      "talk": null,
       "image": "./speakers-image-ukpai-ugochi.jpg"
     },
     {
@@ -837,9 +817,7 @@
       "github": null,
       "company": "Auth0 Ambassador",
       "title": "",
-      "talk": {
-        "id": "27"
-      },
+      "talk": null,
       "image": "./speakers-image-Kati-Frantz.jpg"
     },
     {
@@ -851,9 +829,7 @@
       "github": "https://github.com/pierreburgy",
       "company": "Strapi",
       "title": "CEO",
-      "talk": {
-        "id": "39"
-      },
+      "talk": null,
       "image": "./speakers-image-pierre-burgy.jpg"
     },
     {
@@ -865,9 +841,7 @@
       "github": null,
       "company": "SIT GmbH",
       "title": "CEO",
-      "talk": {
-        "id": "32"
-      },
+      "talk": null,
       "image": "./speakers-image-heiko-voigt.jpg"
     },
     {
@@ -879,9 +853,7 @@
       "github": "https://github.com/manniL",
       "company": "Developmint",
       "title": "Web Dev Consultant",
-      "talk": {
-        "id": "62"
-      },
+      "talk": null,
       "image": "./speakers-image-alexander-lichter.jpg"
     },
     {
@@ -893,9 +865,7 @@
       "github": "https://github.com/bidoubiwa ",
       "company": "MeiliSearch",
       "title": "Software Engineer",
-      "talk": {
-        "id": "25"
-      },
+      "talk": null,
       "image": "./speakers-image-Charlotte-Vermandel.jpg"
     },
     {
@@ -907,9 +877,7 @@
       "github": null,
       "company": "NodeSource",
       "title": "Head of Developers Relations",
-      "talk": {
-        "id": "63"
-      },
+      "talk": null,
       "image": "./speakers-image-liz-parody.jpg"
     },
     {
@@ -921,9 +889,7 @@
       "github": "https://github.com/calcsam",
       "company": "Gatsby",
       "title": "Cofounder and CSO",
-      "talk": {
-        "id": "53"
-      },
+      "talk": null,
       "image": "./speakers-image-sam-bhagwat.jpg"
     },
     {
@@ -935,9 +901,7 @@
       "github": null,
       "company": "DigitalOcean",
       "title": "Sr Developer Advocate",
-      "talk": {
-        "id": "34"
-      },
+      "talk": null,
       "image": "./speakers-image-chris-sev.jpg"
     },
     {
@@ -949,9 +913,7 @@
       "github": "https://github.com/vdeturckheim",
       "company": "Sqreen",
       "title": "Customer Engineering Team Lead",
-      "talk": {
-        "id": "28"
-      },
+      "talk": null,
       "image": "./speakers-image-Vladimir-de-Turckheim.jpg"
     },
     {
@@ -963,9 +925,7 @@
       "github": "https://github.com/snipcart",
       "company": "Snipcart",
       "title": "CEO",
-      "talk": {
-        "id": "37"
-      },
+      "talk": null,
       "image": "./speakers-image-francois-lanthier-nadeau.jpg"
     },
     {
@@ -977,9 +937,7 @@
       "github": "https://github.com/marionott",
       "company": "Unlikely Technology",
       "title": "Front-end developer",
-      "talk": {
-        "id": "50"
-      },
+      "talk": null,
       "image": "./speakers-image-marion-ott.jpg"
     },
     {
@@ -991,9 +949,7 @@
       "github": null,
       "company": "San Services (Sandals Resort)",
       "title": "IT Project Manager",
-      "talk": {
-        "id": "31"
-      },
+      "talk": null,
       "image": "./speakers-image-arlene-zavala.jpg"
     },
     {
@@ -1005,9 +961,7 @@
       "github": "https://github.com/rauchg",
       "company": "Vercel",
       "title": "CEO",
-      "talk": {
-        "id": "39"
-      },
+      "talk": null,
       "image": "./speakers-image-Guillermo-Rauch.jpg"
     },
     {
@@ -1019,9 +973,7 @@
       "github": "https://github.com/lauriejim",
       "company": "Strapi",
       "title": "Co-Founder & Chief User Success Officer",
-      "talk": {
-        "id": "48"
-      },
+      "talk": null,
       "image": "./speakers-image-jim-laurie.jpg"
     },
     {
@@ -1033,9 +985,7 @@
       "github": null,
       "company": "IBM",
       "title": "Developer",
-      "talk": {
-        "id": "36"
-      },
+      "talk": null,
       "image": "./speakers-image-anisha-malde.jpg"
     },
     {
@@ -1047,9 +997,7 @@
       "github": null,
       "company": "Netlify",
       "title": "Developer Experience Engineer",
-      "talk": {
-        "id": "26"
-      },
+      "talk": null,
       "image": "./speakers-image-ekene-eze.jpg"
     },
     {
@@ -1061,9 +1009,7 @@
       "github": null,
       "company": "Smartshore Ability",
       "title": "Architect",
-      "talk": {
-        "id": "33"
-      },
+      "talk": null,
       "image": "./speakers-image-bart-witteveen.jpg"
     }
   ],
@@ -1075,35 +1021,7 @@
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
       "order": "1",
       "discord": "",
-      "schedule": [
-        {
-          "id": "31"
-        },
-        {
-          "id": "34"
-        },
-        {
-          "id": "38"
-        },
-        {
-          "id": "36"
-        },
-        {
-          "id": "33"
-        },
-        {
-          "id": "26"
-        },
-        {
-          "id": "39"
-        },
-        {
-          "id": "32"
-        },
-        {
-          "id": "50"
-        }
-      ]
+      "schedule": []
     },
     {
       "id": "3",
@@ -1112,35 +1030,7 @@
       "stream": "https://www.youtube.com/embed/zd0_S_FPzKg",
       "order": "2",
       "discord": "",
-      "schedule": [
-        {
-          "id": "27"
-        },
-        {
-          "id": "28"
-        },
-        {
-          "id": "48"
-        },
-        {
-          "id": "35"
-        },
-        {
-          "id": "53"
-        },
-        {
-          "id": "29"
-        },
-        {
-          "id": "39"
-        },
-        {
-          "id": "47"
-        },
-        {
-          "id": "62"
-        }
-      ]
+      "schedule": []
     },
     {
       "id": "2",
@@ -1151,31 +1041,7 @@
       "discord": "",
       "schedule": [
         {
-          "id": "30"
-        },
-        {
-          "id": "61"
-        },
-        {
-          "id": "45"
-        },
-        {
-          "id": "37"
-        },
-        {
-          "id": "25"
-        },
-        {
-          "id": "39"
-        },
-        {
           "id": "56"
-        },
-        {
-          "id": "63"
-        },
-        {
-          "id": "60"
         }
       ]
     },
@@ -1196,11 +1062,7 @@
       "start": "2021-04-22T18:00:00.000Z",
       "end": "2021-04-22T18:30:00.000Z",
       "description": "Headless Commerce APIs give you the same flexibility and scalability as you can expect from a Headless CMS. Where e-commerce platforms are designed to work with product data and checkout systems, the latter is best suited to manage rich web content for the rest of your website. To keep this separation of concern, you combine these two headless architectures! In this talk I'll show how to use the headless Saleor Commerce and enrich that data by combining it with Strapi CMS. \n",
-      "speakers": [
-        {
-          "id": "59"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "38",
@@ -1208,11 +1070,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Strapi as a publishing platform for our marketing team tool arsenal with the possibility to manage and deliver content to our players without limitations in mind with feature use. ",
-      "speakers": [
-        {
-          "id": "45"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "26",
@@ -1220,11 +1078,7 @@
       "start": "2021-04-22T19:45:00.000Z",
       "end": "2021-04-22T20:15:00.000Z",
       "description": "There’s a general misconception that since Jamstack sites and applications don't rely on traditional server architectures, they come at the cost of dynamic, powerful experiences. The reality is, Jamstack sites are great for creating highly dynamic, interactions using powerful tools like serverless functions and a variety of third-party services.\n\nIn this session, we'll look at how a Jamstack architecture, with serverless functions and Strapi CMS, help developers deliver scale, performance, and a rich content authoring experience, without the burden of servers or infrastructure to maintain\"",
-      "speakers": [
-        {
-          "id": "35"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "48",
@@ -1232,11 +1086,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "In this talk, we will go through 10 tips that will cover almost every aspect of a Strapi project.\nThis will help you understand how Strapi works behind the hood by reviewing some specific use-cases. ",
-      "speakers": [
-        {
-          "id": "53"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "56",
@@ -1256,11 +1106,7 @@
       "start": "2021-04-22T19:15:00.000Z",
       "end": "2021-04-22T19:45:00.000Z",
       "description": "In this talk, we'll build a Jamstack site with Strapi and Next.js all in 25 minutes. It will have static and dynamic components and be blazing fast.",
-      "speakers": [
-        {
-          "id": "46"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "36",
@@ -1268,11 +1114,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:00:00.000Z",
       "description": "0 to Production in 4 sprints sounds like the title to a horror movie but it was the reality Covid created. As a response to the current situation we were tasked with building a showcase platform for the students of UAL to upload and display their work for the world to see. I want to take you through the journey I had and how Strapi made it possible.",
-      "speakers": [
-        {
-          "id": "44"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "50",
@@ -1280,11 +1122,7 @@
       "start": "2021-04-22T17:30:00.000Z",
       "end": "2021-04-22T18:00:00.000Z",
       "description": "Deep dive into how to configure Strapi Content-Types Builder to recreate the Strapi.io navigation and universal pages.",
-      "speakers": [
-        {
-          "id": "56"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "53",
@@ -1292,11 +1130,7 @@
       "start": "2021-04-22T19:45:00.000Z",
       "end": "2021-04-22T20:15:00.000Z",
       "description": "In this talk, Sam will give some examples on how you can use Gatsby & Strapi together, why Gatsby is a great match for Strapi (and vice versa), and then he will dive into some example demo code of use cases.",
-      "speakers": [
-        {
-          "id": "58"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "25",
@@ -1304,11 +1138,7 @@
       "start": "2021-04-22T17:00:00.000Z",
       "end": "2021-04-22T17:30:00.000Z",
       "description": "I will present the problematics of in-app search with a quick recap of the state of search today. Then I will introduce MeiliSearch as a solution and explain how it solves the problems mentioned before. Finally, I will show through a demonstration how to use it simply with Strapi collections using the plugin we created.",
-      "speakers": [
-        {
-          "id": "37"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "45",
@@ -1316,11 +1146,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "An insightful tutorial on how I built an events page where users could sign up and RSVP to upcoming gatherings that were consciously-crafted. The events management system is powered by Strapi, while secure user authentication is made possible with the Magic plugin.",
-      "speakers": [
-        {
-          "id": "52"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "32",
@@ -1328,11 +1154,7 @@
       "start": "2021-04-22T17:00:00.000Z",
       "end": "2021-04-22T17:30:00.000Z",
       "description": "In this session, we will show you how to integrate strapi, Node-Red and ionic to build a full stack javascript application for personalized weather warnings.",
-      "speakers": [
-        {
-          "id": "40"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "61",
@@ -1340,11 +1162,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "In this talk, we'll look at how a simple idea, and need, can be real in few days by using Strapi to implement a notification system. We'll get into how to use Expo Notification to send notification to your mobile application (using Expo), taking a look into the plugin I built and the many Strapi features in implements, and showing you how to use it with any Strapi project.",
-      "speakers": [
-        {
-          "id": "36"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "33",
@@ -1352,11 +1170,7 @@
       "start": "2021-04-22T18:00:00.000Z",
       "end": "2021-04-22T18:30:00.000Z",
       "description": "As Strapi partner, Smartshore Ability (The Netherlands) implemented the new website for RD (https://www.rd.nl/). RD is the biggest Dutch religious newspaper and exists in both digital and physical formats. \nSo in this talk, we will present the project, why we chose Strapi, the architecture of the project as well the challenges we ran into. Where did Strapi fail and what solutions did Smartshore Ability have to develop to overcome these challenges?    \n",
-      "speakers": [
-        {
-          "id": "41"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "28",
@@ -1364,11 +1178,7 @@
       "start": "2021-04-22T18:00:00.000Z",
       "end": "2021-04-22T18:30:00.000Z",
       "description": "It's dangerous to go alone! Running a web application can be scary if you don't have experience in attacking and securing them. In this talk, we will go through principles of Web Application security and how they can impact a Strapi production. ",
-      "speakers": [
-        {
-          "id": "30"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "27",
@@ -1376,11 +1186,7 @@
       "start": "2021-04-22T17:30:00.000Z",
       "end": "2021-04-22T18:00:00.000Z",
       "description": "JAMstack was born from a great desire for more performant web applications. As your applications grow, your caching strategies need to adapt to the ever-changing needs of your web application. Using the right caching strategy for the right type of web application is critical to experience the full benefits of the JAMstack. Come along with me on this journey to master the best practices and strategies to caching your JAMstack applications in a modern era.",
-      "speakers": [
-        {
-          "id": "34"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "35",
@@ -1388,11 +1194,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Content modeling is one of Strapi's modeling type.\nIn content type modelling, the user creates a JSON file that represents how data will be structured in the data base and a set of lifecycle hooks in javascript file that determines how and when data should be called into their web application.\n\nWith the lifecycle hook in place, content type data structures can only be used for one API’s model. \"",
-      "speakers": [
-        {
-          "id": "43"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "29",
@@ -1400,11 +1202,7 @@
       "start": "2021-04-22T17:00:00.000Z",
       "end": "2021-04-22T17:30:00.000Z",
       "description": "Typically there are no tradeoffs, we have to choose if we’re engaging into the community or just focus on delivering commercial business value for our clients using open source. How to manage it wisely?",
-      "speakers": [
-        {
-          "id": "33"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "62",
@@ -1412,11 +1210,7 @@
       "start": "2021-04-22T19:15:00.000Z",
       "end": "2021-04-22T19:45:00.000Z",
       "description": "Nuxt.js - the intuitive framework built on top of Vue - is the perfect fit for Strapi, especially when it comes to Jamstack.\nIn this session, we will build the fitting frontend for our Strapi CMS by leveraging the Composition API and ensure it is performant and fast.\nGet insights into the world of Vue and Nuxt, useful patterns for the Composition API and possibly some sneak peaks",
-      "speakers": [
-        {
-          "id": "60"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "37",
@@ -1424,11 +1218,7 @@
       "start": "2021-04-22T17:30:00.000Z",
       "end": "2021-04-22T18:00:00.000Z",
       "description": "Modern e-commerce is a beautiful mess. Let's unscramble it. In this session, Snipcart CEO Francois Lanthier Nadeau will explore:\n\n1. Technical paradigms overview: monolithic, Jamstack, and headless commerce\n2. The fragmentation of e-commerce functionality\n3. The explosion of e-commerce offering: new solutions categories\n4. How to pick your e-commerce stack\n\n•No prerequisites \n•Skills level: beginner",
-      "speakers": [
-        {
-          "id": "38"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "39",
@@ -1436,20 +1226,7 @@
       "start": "2021-04-22T15:00:00.000Z",
       "end": "2021-04-22T16:30:00.000Z",
       "description": "StrapiConf Keynote featuring Strapi co-founders, CTO, well-known speaker from the JAMstack ecosystem as well as top Strapi users and customers. ",
-      "speakers": [
-        {
-          "id": "50"
-        },
-        {
-          "id": "49"
-        },
-        {
-          "id": "48"
-        },
-        {
-          "id": "51"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "31",
@@ -1457,11 +1234,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Enhance your team's velocity and take productivity to the next level. ",
-      "speakers": [
-        {
-          "id": "47"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "47",
@@ -1469,11 +1242,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-03-22T19:15:00.000Z",
       "description": "A quick introduction to the most useful tools for extending your Strapi app's functionality. We will slugify a blog post with a lifecycle method, attach an author to it in the controller and see an example of how a Service can be used.",
-      "speakers": [
-        {
-          "id": "57"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "63",
@@ -1481,11 +1250,7 @@
       "start": "2021-04-22T18:45:00.000Z",
       "end": "2021-04-22T19:15:00.000Z",
       "description": "Observability is important to learn what’s happening in your app to stay competitive and create the most performant and efficient applications, following the best practices.\n\nIn this talk, we will explore useful tools to examine observability in your applications and how it will speed up development, produce better code while improving reliability and uptime. Don’t miss it!",
-      "speakers": [
-        {
-          "id": "66"
-        }
-      ]
+      "speakers": []
     },
     {
       "id": "30",
@@ -1493,11 +1258,7 @@
       "start": "2021-04-22T19:15:00.000Z",
       "end": "2021-05-16T19:45:00.000Z",
       "description": "How do we reconcile the differences between the needs of our developers and those of our content creation teams? Have you ever run into an editorial team who just doesn’t want to get their hands dirty with Git? There’s plenty of them. Strapi’s fantastic for giving them an interface to organize content to be consumed by frontends, but many of their needs work directly against Git-centric development workflows (aka GitOps) we see today.\n \nIn this talk, we’ll cover how Strapi can be deployed alongside a frontend consuming application on a single project on Platform.sh. From there, we’ll slowly piece together two parallel workflows for teams with very different needs in mind:\n- Editorial: don’t touch Git. Live content previews. Runtime collection creation that moves to master. \n- Development: Git as the source of truth, repeatable builds, isolated environments, Infrastructure-as-code. ",
-      "speakers": [
-        {
-          "id": "39"
-        }
-      ]
+      "speakers": []
     }
   ]
 }
